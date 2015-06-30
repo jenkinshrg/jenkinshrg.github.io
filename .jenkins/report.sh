@@ -24,8 +24,8 @@ fi
 
 wget -q -O badge.svg http://jenkinshrg:8080/job/update/badge/icon
 wget -q -O test.png http://jenkinshrg:8080/job/update/test/trend
-wget -q -O cccc.png http://jenkinshrg:8080/job/inspection/ccccResult/graph
-wget -q -O cppcheck.png http://jenkinshrg:8080/job/inspection/cppcheckResult/graph
+wget -q -O cccc.png http://jenkinshrg:8080/job/update/ccccResult/graph
+wget -q -O cppcheck.png http://jenkinshrg:8080/job/update/cppcheckResult/graph
 python .jenkins/printJenkinsResult.py update > index.md
 
 git add --all
