@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/06/30 14:58:01)
+## Build and test report (2015/06/30 15:13:53)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/badge.svg)
@@ -16,6 +16,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/06/30 15:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QUw3bHdmNFpjVWc/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4ZXp3cW5tUC14SXc/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ZDBnLVpGU2J0OFk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4bmtNd19ud2tRWUk/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/06/30 14:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4cFhjT2l3eVdRSnc/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4cnJ1SjBhVmRHVW8/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4MGNuRXVhOUYyOEk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4TWlqOEVBQVpJMk0/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/06/30 13:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UTZlclRGVnBCZUE/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4eWtRdVBEdzIxcEk/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4V1dLOW8zaWF1dU0/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4ekNrQmJFNkgtZDg/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/06/30 12:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4S09WTFlPbHMydFU/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4SWxQelNJODZ3T28/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4RzV4UmRjX1ZISW8/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4VmVMbE1iNUhtblE/edit?usp=drivesdk) |STOP RED|
@@ -115,4 +116,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/06/26 13:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VHo3NTNNbHhYZTA/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4aC1mUXNGdFRNTlE/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4OHZFX0pqOG9XUms/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4WHZ6X2NjUDZOa1E/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/06/26 12:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dlRVcF82QkNLMUk/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Q1RkYThoLWZQTmM/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dksxS0xUejVMbFU/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4RU5SZlppc1EySHM/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/06/26 11:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4anNjczZBZHJ1Qlk/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Q2dkOTJ2VXlRN1k/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4d0hGUVFHaHgwcGs/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4dlZBVkZWRlhRUEE/edit?usp=drivesdk) |STOP NORMAL|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/06/26 10:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4MktDcVk1SzRZMms/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4bHMtQWVoZ3FtWm8/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ajJXc2JKN3JZMGc/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4QXNPdTZhQ1BSZEk/edit?usp=drivesdk) |STOP NORMAL|
