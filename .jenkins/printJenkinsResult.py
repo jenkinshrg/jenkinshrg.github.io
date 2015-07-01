@@ -60,17 +60,19 @@ print "### Build History"
 print "___"
 
 print "* Status"
+print "  "
 print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/"+ color + ".png)"
 print lastCompletedBuild['result']
 print "  "
 
 print "* Stability"
+print "  "
 print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")"
 print str(stability) + "%"
 print "  "
 
 print "* Latest Results"
-
+print "  "
 print "|Status|Time|Duration|Changes|Build|Test|Note|"
 print "|---|---|---|---|---|---|---|"
 
