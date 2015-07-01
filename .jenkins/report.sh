@@ -22,10 +22,10 @@ if [ ! -e images ]; then
     sudo cp /var/cache/jenkins/war/images/24x24/disabled.png images/24x24
 fi
 
-wget -q -O badge.svg http://jenkinshrg:8080/job/update/badge/icon
-wget -q -O test.png http://jenkinshrg:8080/job/update/test/trend
-wget -q -O cccc.png http://jenkinshrg:8080/job/update/ccccResult/graph
-wget -q -O cppcheck.png http://jenkinshrg:8080/job/update/cppcheckResult/graph
+wget -q -O images/badge.svg http://jenkinshrg:8080/job/update/badge/icon
+wget -q -O images/test.png http://jenkinshrg:8080/job/update/test/trend
+wget -q -O images/cccc.png http://jenkinshrg:8080/job/update/ccccResult/graph
+wget -q -O images/cppcheck.png http://jenkinshrg:8080/job/update/cppcheckResult/graph
 python .jenkins/printJenkinsResult.py update > index.md
 
 git add --all
