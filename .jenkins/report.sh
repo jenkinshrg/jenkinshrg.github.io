@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ ! -e images ]; then
     mkdir -p images
     sudo cp /var/cache/jenkins/war/images/headshot.png images
@@ -22,11 +24,11 @@ if [ ! -e images ]; then
     sudo cp /var/cache/jenkins/war/images/24x24/disabled.png images/24x24
 fi
 
-wget -q -O images/badge.svg http://jenkinshrg:8080/job/update/badge/icon
-wget -q -O images/test.png http://jenkinshrg:8080/job/update/test/trend
-wget -q -O images/cccc.png http://jenkinshrg:8080/job/update/ccccResult/graph
-wget -q -O images/cppcheck.png http://jenkinshrg:8080/job/update/cppcheckResult/graph
-python .jenkins/printJenkinsResult.py update > index.md
+wget -q -O images/badge.svg http://jenkinshrg:8080/job/${REPORT_JOB}/badge/icon
+wget -q -O images/test.png http://jenkinshrg:8080/job/${REPORT_JOB}/test/trend
+wget -q -O images/cccc.png http://jenkinshrg:8080/job/${REPORT_JOB}/ccccResult/graph
+wget -q -O images/cppcheck.png http://jenkinshrg:8080/job/${REPORT_JOB}/cppcheckResult/graph
+python .jenkins/printJenkinsResult.py ${REPORT_JOB} > index.md
 
 git add --all
 git commit -m "update report"
