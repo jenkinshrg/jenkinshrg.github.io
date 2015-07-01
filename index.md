@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/01 11:55:02)
+## Build and test report (2015/07/01 11:59:33)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -24,14 +24,17 @@ ___
 ### Build History
 ___
 * Status
+  
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow.png)
 UNSTABLE
   
 * Stability
+  
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
 11%
   
 * Latest Results
+  
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/01 11:12|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dGdtSDdGcWhZRjQ/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4NXk3OHRzendzbWs/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4T1g4djFnOGNieFU/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Ukc3SnR4aWRmeHc/edit?usp=drivesdk) |STOP NORMAL|
