@@ -70,6 +70,7 @@ print str(stability) + "%"
 print "  "
 
 print "* Latest Results"
+
 print "|Status|Time|Duration|Changes|Build|Test|Note|"
 print "|---|---|---|---|---|---|---|"
 
