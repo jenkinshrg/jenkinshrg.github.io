@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/02 09:03:00)
+## Build and test report (2015/07/02 10:17:30)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -25,8 +25,8 @@ ___
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/red.png)
-FAILURE
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow_anime.png)
+UNSTABLE
   
 * Stability
   
@@ -37,21 +37,5 @@ FAILURE
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 09:02|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 09:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 08:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 07:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 06:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 05:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 04:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 03:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 02:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 01:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/02 00:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/01 23:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/01 22:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/01 21:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/01 20:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/01 19:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/01 18:37|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/01 17:37|59 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZllJYk9NMjVqV0k/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4TzRrLXYwdVFtUU0/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4cmV4cGV1TkxUNkE/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4eUV5VWVkWVJqSUU/edit?usp=drivesdk) |STOP RED|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)None|2015/07/02 10:17|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/02 09:19|58 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4b1lQOGxGenZQbFE/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4WWlzZmVGZVQzbWM/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4aU9yWE9YU1FOa0U/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Z1QxWmxLaXNJMHc/edit?usp=drivesdk) |STOP RED|
