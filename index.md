@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/02 10:17:30)
+## Build and test report (2015/07/02 10:45:55)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -25,7 +25,7 @@ ___
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow_anime.png)
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow.png)
 UNSTABLE
   
 * Stability
@@ -37,5 +37,5 @@ UNSTABLE
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)None|2015/07/02 10:17|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/02 10:17|28 min.|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4a2lCVmNfTHF3R0k/view?usp=drivesdk) |[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QXpYTEI2Xy1YTFE/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4cmlldUdWaUVBQUk/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4R1ZsNC1KcmxyWU0/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4MlRidFoxQlZBWHc/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/02 09:19|58 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4b1lQOGxGenZQbFE/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4WWlzZmVGZVQzbWM/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4aU9yWE9YU1FOa0U/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Z1QxWmxLaXNJMHc/edit?usp=drivesdk) |STOP RED|
