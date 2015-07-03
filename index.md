@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/03 12:28:31)
+## Build and test report (2015/07/03 13:28:26)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -31,12 +31,13 @@ UNSTABLE
 * Stability
   
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-14%
+13%
   
 * Latest Results
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/03 13:00|28 min.|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4TUF5RjdBdWsydVE/view?usp=drivesdk) |[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4MldjVFFiNzBVek0/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4R2pVVWNUWTBRblE/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ZXFSTXduNXp3VzA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4amdmTzgxdVZHTU0/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/03 12:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Nm5hYWllaFE3WVE/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4aHRNR0NHZjFJcjg/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4a1hvM3JvdHZveDA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4RFRMN3E0T2Rwd1U/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/03 11:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4c3dadUFGd2RJOFU/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4cUpyNVJpMGVXMjQ/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Y1I2Tm9BZjg3M1k/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4dkwzZkJ3OXJjMG8/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/03 10:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4b2k0M2oyRldxUGs/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4bHJMZVdpVFF3ZVk/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4bjJDLUtDZktCWDA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4TUdBaENFSHRJOTA/edit?usp=drivesdk) | |
