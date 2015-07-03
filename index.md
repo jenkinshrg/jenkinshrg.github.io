@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/03 13:28:26)
+## Build and test report (2015/07/03 14:28:31)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -37,6 +37,7 @@ UNSTABLE
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/03 14:00|28 min.|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4WXoxMVNlcWdlakU/view?usp=drivesdk) |[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4bm5YTjhRQzlaa0k/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4ZTRrQnB2cWl6U1E/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ZzEtcG5kWC16WTg/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4X1AxM1Y0UHhxcG8/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/03 13:00|28 min.|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4TUF5RjdBdWsydVE/view?usp=drivesdk) |[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4MldjVFFiNzBVek0/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4R2pVVWNUWTBRblE/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ZXFSTXduNXp3VzA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4amdmTzgxdVZHTU0/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/03 12:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Nm5hYWllaFE3WVE/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4aHRNR0NHZjFJcjg/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4a1hvM3JvdHZveDA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4RFRMN3E0T2Rwd1U/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/03 11:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4c3dadUFGd2RJOFU/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4cUpyNVJpMGVXMjQ/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Y1I2Tm9BZjg3M1k/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4dkwzZkJ3OXJjMG8/edit?usp=drivesdk) |STOP NORMAL|
