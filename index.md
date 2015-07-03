@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/03 16:57:46)
+## Build and test report (2015/07/03 17:13:07)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -31,12 +31,13 @@ FAILURE
 * Stability
   
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-15%
+14%
   
 * Latest Results
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/03 17:00|12 min.|||| |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/03 16:44|12 min.|||| |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/03 16:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4bW5ZNUJ2WFlmOGc/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4RkZPa2o0UklEYXc/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4OVVBUVUxMVF6aVk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4cXJyaTY5R3pFSWM/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/03 15:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WHRGcjhjNnJqaGM/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4SVFiYnhWTjJJNWs/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4UVJqVVFyME9lcXM/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4X3JZeThzLVRVdGs/edit?usp=drivesdk) | |
