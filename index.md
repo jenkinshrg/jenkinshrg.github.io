@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/05 05:28:39)
+## Build and test report (2015/07/05 06:28:29)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -37,6 +37,7 @@ UNSTABLE
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 06:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4LUhZX2pYc3hybnM/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4dXdrcmNxUElZejQ/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4czlKM0RFRkl1czA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Y3NSaTl5cWgzWXc/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 05:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TE5DV3hLZnpGczA/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4U29RYVFTZHVnY2M/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Yzl4bGpFNDZYcXM/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4b1Zrd3NjdG1CT3c/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/05 04:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aWxiZURiOU5DaFE/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4TjVLNklBVDN3Nmc/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4eEdMUmJlV2NaQkE/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4RXV2WmVWTXVfOU0/edit?usp=drivesdk) | |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 03:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4OHc3TVFPbE9sZTg/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4ZmRXcUhEcFI4TDA/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dk9sVk1vV2NTcTA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4cE1zbmJ5RV9XRms/edit?usp=drivesdk) |STOP RED|
