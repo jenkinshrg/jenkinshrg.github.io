@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/05 01:28:23)
+## Build and test report (2015/07/05 02:28:29)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -31,12 +31,13 @@ UNSTABLE
 * Stability
   
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-18%
+17%
   
 * Latest Results
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 02:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4NnptWnNfQmtvQ1E/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4RVRtSW1wQTNlVTg/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4aDZFY3pBTW9leVU/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4WDAwREx0T2FxYmc/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 01:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4cmxXNjBncHVuWnM/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4d3lOZDRlUnRJbEU/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4YkJNdmNrM3VvMXc/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4V1FmUXpnOV96bmc/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 00:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4R19SSmhxQ1F1eDg/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4TnhyZ09PcU02dm8/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4aXFwaWtSTzRVb3M/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4SXFhQTR4ZHlmaWM/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/04 23:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4M0ZjNExGclNiVDQ/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4R2FRS3lKeXFwQ0U/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4VmxiS1BpVkdPWlk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4MWpNSVZSQ2Jac1E/edit?usp=drivesdk) |STOP NORMAL|
