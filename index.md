@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/04 22:28:33)
+## Build and test report (2015/07/04 23:28:43)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -30,13 +30,14 @@ UNSTABLE
   
 * Stability
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
-20%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+19%
   
 * Latest Results
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/04 23:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4M0ZjNExGclNiVDQ/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4R2FRS3lKeXFwQ0U/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4VmxiS1BpVkdPWlk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4MWpNSVZSQ2Jac1E/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/04 22:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4LVU5YTNpdVVMVlU/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4UXJGakwwWlBlZ1k/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dDBWT1VSVjhGV00/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4S1pWRkZ5emxVNW8/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/04 21:00|28 min.|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4UkdEZ2Z2MnpCRzQ/view?usp=drivesdk) |[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SWhNZU83NWUtM2c/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4ZTlfMEhaall3Tmc/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4X1BCWFpUV2ZseEk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4WnZlSHBaXzI0Mzg/edit?usp=drivesdk) | |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/04 20:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QVY3b1l2dk15ems/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4QXJyVWx5SHRJNlk/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4b1R5QnRxQ1Vfdmc/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4S0VBNXctaXh2Ymc/edit?usp=drivesdk) |STOP NORMAL|
