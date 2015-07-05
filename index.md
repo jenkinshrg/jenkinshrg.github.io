@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/05 23:28:33)
+## Build and test report (2015/07/06 00:28:43)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -37,6 +37,7 @@ UNSTABLE
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/06 00:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UnI1Y2EzWVNqbEU/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4eWljd1EtX2lYaE0/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4N3NFcU14eXFPN3M/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4VVlaSE9VRl9LdFk/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 23:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Zm1LVXBoTEVIS3M/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4N0pVWXlBcEpUZUU/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4UXdDSDBFUzNNS1U/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4SzY2amVJUE02Nnc/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 22:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4cE1iMGsxQTZZN2c/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4N1BDc04yLUZraGs/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4NVZlWUpCTmpMMFE/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Nl9pR3VyMzZIQms/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 21:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4MEhJSHExb2p0c0E/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4VEQ4S2dOZS1TdTA/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Vy05a3BFaTNKUEU/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Z2xGNGNEWHE0N1k/edit?usp=drivesdk) |STOP NORMAL|
