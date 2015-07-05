@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/05 11:28:30)
+## Build and test report (2015/07/05 12:28:26)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -25,8 +25,8 @@ ___
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/blue.png)
-SUCCESS
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow.png)
+UNSTABLE
   
 * Stability
   
@@ -37,6 +37,7 @@ SUCCESS
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 12:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4OW8wOGlXQjhkUlk/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4VVRsdDZtZEpwaUk/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dFJqUXk3UWJwU1U/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4ekNFOXJvcU9FNVk/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/05 11:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4LVprMENKa1p5emc/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4ZDN1dmZHdjloOGc/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4SXRRbkotc2RVekk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4OXZEaEJaa2pPcXc/edit?usp=drivesdk) | |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 10:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4S1ZxWEVhbkRSXzg/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Y2c0dGhrNjFjQW8/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4OHFnTk5aZDZ1aDg/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4M2dNYllIcnNkRVU/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 09:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ODVVLW94ckJpRW8/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4TU05S2lybG02Rlk/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4RlMwcnVGOFZzd1k/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4VkFxZl94LVE5Y2M/edit?usp=drivesdk) |STOP RED|
