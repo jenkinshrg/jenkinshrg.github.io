@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/05 14:06:21)
+## Build and test report (2015/07/05 15:28:36)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -25,8 +25,8 @@ ___
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/red.png)
-FAILURE
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow.png)
+UNSTABLE
   
 * Stability
   
@@ -37,6 +37,7 @@ FAILURE
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 15:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dWhURUJjc0Rka1E/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4bXZheVhlUkJGQ2s/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4UHpIdk5UOTFJeGc/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4czgxbjBmTDdMLWc/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/05 14:00|6 min.|||| |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 13:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dG9Cc3hrU1hiWWs/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4TjVOaUdHN0NVbjg/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4V1MzMXh6SGl0WlU/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4U0JoeDRtemktQlU/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/05 12:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4OW8wOGlXQjhkUlk/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4VVRsdDZtZEpwaUk/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dFJqUXk3UWJwU1U/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4ekNFOXJvcU9FNVk/edit?usp=drivesdk) |STOP RED|
