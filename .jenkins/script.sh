@@ -29,7 +29,7 @@ wget -q -O images/test.png http://jenkinshrg:8080/job/${REPORT_JOB}/test/trend
 wget -q -O images/cccc.png http://jenkinshrg:8080/job/${REPORT_JOB}/ccccResult/graph
 wget -q -O images/cppcheck.png http://jenkinshrg:8080/job/${REPORT_JOB}/cppcheckResult/graph
 
-python .jenkins/printJenkinsResult.py ${REPORT_JOB} > index.md
+python .jenkins/printJenkinsResult.py ${REPORT_JOB} ${JENKINS_URL} > index.md
 
 git add --all
 git commit -m "update report"
