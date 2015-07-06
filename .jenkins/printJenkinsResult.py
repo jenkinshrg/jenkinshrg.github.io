@@ -96,15 +96,19 @@ for build in builds:
         url = build['url'] + 'testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]'
         r = urllib2.urlopen(url)
         root = json.loads(r.read())
+        r.close()
         errorDetails = root['suites'][0]['cases'][0]['errorDetails']
         errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
         cause = "(" + errorDetails + "/" + errorStackTrace + ")"
-    path = "/var/lib/jenkins/jobs/" + sys.argv[1] + "/builds/" + str(build['number']) + "/archive/testbed-terrain.url"
+#    path = "/var/lib/jenkins/jobs/" + sys.argv[1] + "/builds/" + str(build['number']) + "/archive/testbed-terrain.url"
+    path = build['url'] + 'artifact/testbed-terrain.url'
     link1 = ""
     link2 = ""
     link3 = ""
-    if os.path.exists(path) :
-        f = open(path)
+#    if os.path.exists(path) :
+    if True :
+#        f = open(path)
+        f = urllib2.urlopen(path)
         line = f.readline()
         while line:
             if "BUILD" in line:
