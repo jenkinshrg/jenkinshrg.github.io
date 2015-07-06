@@ -11,7 +11,7 @@ print "---"
 print "# Jenkins CI report For HRG"
 print "## Build and test report" + " (" + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + ")"
 
-url = sys.argv[2] + '/job/' + sys.argv[1] + '/api/json?tree=color,lastCompletedBuild[result],builds[number,result,timestamp,duration,url]'
+url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=color,lastCompletedBuild[result],builds[number,result,timestamp,duration,url]'
 r = urllib2.urlopen(url)
 root = json.loads(r.read())
 color = root['color']
