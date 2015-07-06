@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/06 12:28:21)
+## Build and test report (2015/07/06 13:18:04)
 ### Build Status
 ___
 ![Build Status](http://jenkinshrg.github.io/images/badge.svg)
@@ -25,7 +25,7 @@ ___
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow.png)
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/disabled.png)
 UNSTABLE
   
 * Stability
