@@ -17,4 +17,5 @@ print "  "
 print "|Name|Distro|Status|"
 print "|---|---|---|"
 
-print "|[" + sys.argv[1] + "](http://jenkinshrg.github.io/" + sys.argv[1] + ")|<span class='badge'>Ubuntu T</span>|![Build Status](http://jenkinshrg.github.io/" + sys.argv[1] + "/badge.svg)|"
+print "|[drcutil](http://jenkinshrg.github.io/drcutil)|<span class='badge'>Ubuntu T</span>|![Build Status](http://jenkinshrg.github.io/drcutil/badge.svg)|"
+print "|[drcutil2](http://jenkinshrg.github.io/drcutil2)|<span class='badge'>Debian W</span>|![Build Status](http://jenkinshrg.github.io/drcutil2/badge.svg)|"
