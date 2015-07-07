@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/07 15:33:55)
+## Build and test report (2015/07/07 16:28:23)
 ### Build Status
 ___
 * Status
@@ -35,6 +35,7 @@ ___
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/07 16:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SUdoNDFSZUxSNE0/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4R3VONDRDVzBRdlU/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4eW5QaDdvQ2NXNUk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4ZFRDaWtWMDN2OTQ/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/07 15:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SHhZaHR2S05uUDg/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4dDNkZ3p5WlhpbGc/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4LXhickdOV1pzZW8/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4SGdKcGstSmlfLUU/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/07 14:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aVpyMVhaREx6WGM/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Q0tRN0M0Y0dSSGM/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dGFsZVlvTW15N1k/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4WC1yOVJoRXU3QlU/edit?usp=drivesdk) | |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/07 13:00|28 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4el9jbUwyTTYxbEU/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4S1FrRWExeklib2M/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Y2pNdkNlYTJrZTA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4SERBM0NQelJxRmM/edit?usp=drivesdk) |STOP NORMAL|
