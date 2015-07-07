@@ -39,11 +39,6 @@ elif stability >= 20:
 else:
     iconUrl = "health-00to19.png"
 
-print "### Build Status"
-print "___"
-print "![Build Status](http://jenkinshrg.github.io/images/badge.svg)"
-print "  "
-
 print "### Build Trend"
 print "___"
 print "* gui test(choreonoid)"

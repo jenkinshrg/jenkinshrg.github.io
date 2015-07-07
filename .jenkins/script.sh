@@ -25,11 +25,12 @@ if [ ! -e images ]; then
 fi
 
 wget -q -O images/badge.svg ${JENKINS_URL}job/${REPORT_JOB}/badge/icon
+python .jenkins/printJenkinsResultSummary.py ${REPORT_JOB} ${JENKINS_URL} > index.md
+
+mkdir -p ${REPORT_JOB}
 wget -q -O images/test.png ${JENKINS_URL}job/${REPORT_JOB}/test/trend
 wget -q -O images/cccc.png ${JENKINS_URL}job/${REPORT_JOB}/ccccResult/graph
 wget -q -O images/cppcheck.png ${JENKINS_URL}job/${REPORT_JOB}/cppcheckResult/graph
-
-mkdir -p ${REPORT_JOB}
 python .jenkins/printJenkinsResult.py ${REPORT_JOB} ${JENKINS_URL} > ${REPORT_JOB}/index.md
 
 git add --all
