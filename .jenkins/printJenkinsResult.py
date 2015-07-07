@@ -39,6 +39,21 @@ elif stability >= 20:
 else:
     iconUrl = "health-00to19.png"
 
+print "### Build Status"
+print "___"
+
+print "* Status"
+print "  "
+print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/"+ color + ".png)"
+print lastCompletedBuild['result']
+print "  "
+
+print "* Stability"
+print "  "
+print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")"
+print str(stability) + "%"
+print "  "
+
 print "### Build Trend"
 print "___"
 print "* gui test(choreonoid)"
@@ -56,18 +71,6 @@ print "  "
 
 print "### Build History"
 print "___"
-
-print "* Status"
-print "  "
-print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/"+ color + ".png)"
-print lastCompletedBuild['result']
-print "  "
-
-print "* Stability"
-print "  "
-print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")"
-print str(stability) + "%"
-print "  "
 
 print "* Latest Results"
 print "  "
