@@ -15,6 +15,6 @@ print "### Build Status"
 print "___"
 print "  "
 print "|Name|Status|"
-print "|---|---|"
+print "|:--|--:|"
 
 print "|[" + sys.argv[1] + "](http://jenkinshrg.github.io/" + sys.argv[1] + ")|![Build Status](http://jenkinshrg.github.io/images/badge.svg)|"
