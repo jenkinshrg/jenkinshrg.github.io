@@ -17,4 +17,4 @@ print "  "
 print "|Name|Distro|Status|"
 print "|:--|--:|"
 
-print "|[" + sys.argv[1] + "](http://jenkinshrg.github.io/" + sys.argv[1] + ")|Ubuntu T|![Build Status](http://jenkinshrg.github.io/" + sys.argv[1] + "/badge.svg)|"
+print "|[" + sys.argv[1] + "](http://jenkinshrg.github.io/" + sys.argv[1] + ")|<span class='badge'>Ubuntu T</span>|![Build Status](http://jenkinshrg.github.io/" + sys.argv[1] + "/badge.svg)|"
