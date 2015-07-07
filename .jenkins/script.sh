@@ -24,10 +24,10 @@ if [ ! -e images ]; then
     sudo cp /var/cache/jenkins/war/images/24x24/disabled.png images/24x24
 fi
 
-wget -q -O images/badge.svg http://jenkinshrg:8080/job/${REPORT_JOB}/badge/icon
-wget -q -O images/test.png http://jenkinshrg:8080/job/${REPORT_JOB}/test/trend
-wget -q -O images/cccc.png http://jenkinshrg:8080/job/${REPORT_JOB}/ccccResult/graph
-wget -q -O images/cppcheck.png http://jenkinshrg:8080/job/${REPORT_JOB}/cppcheckResult/graph
+wget -q -O images/badge.svg ${JENKINS_URL}job/${REPORT_JOB}/badge/icon
+wget -q -O images/test.png ${JENKINS_URL}job/${REPORT_JOB}/test/trend
+wget -q -O images/cccc.png ${JENKINS_URL}job/${REPORT_JOB}/ccccResult/graph
+wget -q -O images/cppcheck.png ${JENKINS_URL}job/${REPORT_JOB}/cppcheckResult/graph
 
 python .jenkins/printJenkinsResult.py ${REPORT_JOB} ${JENKINS_URL} > index.md
 
