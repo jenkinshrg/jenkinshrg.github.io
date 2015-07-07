@@ -17,4 +17,4 @@ print "  "
 print "|Name|Status|"
 print "|:--|--:|"
 
-print "|[" + sys.argv[1] + "](http://jenkinshrg.github.io/" + sys.argv[1] + ")|![Build Status](http://jenkinshrg.github.io/images/badge.svg)|"
+print "|[" + sys.argv[1] + "](http://jenkinshrg.github.io/" + sys.argv[1] + ")|![Build Status](http://jenkinshrg.github.io/" + sys.argv[1] + "/badge.svg)|"

@@ -24,14 +24,14 @@ if [ ! -e images ]; then
     sudo cp /var/cache/jenkins/war/images/24x24/disabled.png images/24x24
 fi
 
-wget -q -O images/badge.svg ${JENKINS_URL}job/${REPORT_JOB}/badge/icon
-python .jenkins/printJenkinsResultSummary.py ${REPORT_JOB} ${JENKINS_URL} > index.md
-
 mkdir -p ${REPORT_JOB}
-wget -q -O images/test.png ${JENKINS_URL}job/${REPORT_JOB}/test/trend
-wget -q -O images/cccc.png ${JENKINS_URL}job/${REPORT_JOB}/ccccResult/graph
-wget -q -O images/cppcheck.png ${JENKINS_URL}job/${REPORT_JOB}/cppcheckResult/graph
+wget -q -O ${REPORT_JOB}/badge.svg ${JENKINS_URL}job/${REPORT_JOB}/badge/icon
+wget -q -O ${REPORT_JOB}/test.png ${JENKINS_URL}job/${REPORT_JOB}/test/trend
+wget -q -O ${REPORT_JOB}/cccc.png ${JENKINS_URL}job/${REPORT_JOB}/ccccResult/graph
+wget -q -O ${REPORT_JOB}/cppcheck.png ${JENKINS_URL}job/${REPORT_JOB}/cppcheckResult/graph
 python .jenkins/printJenkinsResult.py ${REPORT_JOB} ${JENKINS_URL} > ${REPORT_JOB}/index.md
+
+python .jenkins/printJenkinsResultSummary.py ${REPORT_JOB} ${JENKINS_URL} > index.md
 
 git add --all
 git commit -m "update report"
