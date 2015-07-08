@@ -20,8 +20,8 @@ print "## Build and test report" + " (" + datetime.now().strftime("%Y/%m/%d %H:%
 print "### Build Status"
 print "___"
 print "  "
-print "|Name|Distro|Status|"
-print "|---|---|---|"
+print "|Name|Status|"
+print "|---|---|"
 
 for job in jobs:
     print "|[" + job['name'] + "](http://jenkinshrg.github.io/" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + "/badge.svg)|"
