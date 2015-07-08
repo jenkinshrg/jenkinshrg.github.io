@@ -4,13 +4,6 @@
 import sys, os, json, urllib2
 from datetime import datetime
 
-print "---"
-print "layout: default"
-print "---"
-
-print "# drcutil"
-print "## This package provides a set of shell script to setup and maintain development environment for DRC."
-
 url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=color,lastCompletedBuild[result],builds[number,result,timestamp,duration,url]'
 r = urllib2.urlopen(url)
 root = json.loads(r.read())
@@ -38,6 +31,13 @@ elif stability >= 20:
     iconUrl = "health-20to39.png"
 else:
     iconUrl = "health-00to19.png"
+
+print "---"
+print "layout: default"
+print "---"
+
+print "# " + sys.argv[1]
+print "## Build and test report" + " (" + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + ")"
 
 print "### Build Status"
 print "___"

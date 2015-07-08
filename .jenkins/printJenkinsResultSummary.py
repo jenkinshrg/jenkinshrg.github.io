@@ -17,7 +17,7 @@ print "---"
 print "# Jenkins CI report For HRG"
 print "## Build and test report" + " (" + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + ")"
 
-print "### Build Status"
+print "### Build Summary"
 print "___"
 print "  "
 print "|Name|Status|"
