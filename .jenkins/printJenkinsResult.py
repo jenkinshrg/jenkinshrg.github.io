@@ -4,11 +4,11 @@
 import sys, os, json, urllib2
 from datetime import datetime
 
-url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=color,lastCompletedBuild[result],builds[number,result,timestamp,duration,url]'
+url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=color,lastBuild[result],builds[number,result,timestamp,duration,url]'
 r = urllib2.urlopen(url)
 root = json.loads(r.read())
 color = root['color']
-lastCompletedBuild = root['lastCompletedBuild']
+lastBuild = root['lastBuild']
 builds = root['builds']
 r.close()
 
@@ -45,7 +45,7 @@ print "___"
 print "* Status"
 print "  "
 print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/"+ color + ".png)"
-print lastCompletedBuild['result']
+print lastBuild['result']
 print "  "
 
 print "* Stability"
