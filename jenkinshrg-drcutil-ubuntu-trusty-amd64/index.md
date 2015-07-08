@@ -2,7 +2,7 @@
 layout: default
 ---
 # jenkinshrg-drcutil-ubuntu-trusty-amd64
-## Build and test report (2015/07/09 00:12:20)
+## Build and test report (2015/07/09 01:12:21)
 ### Build Status
 ___
 * Status
@@ -21,6 +21,7 @@ ___
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 01:00|12 min.|||| |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 00:00|12 min.|||| |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 23:00|12 min.|||| |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 22:00|12 min.|||| |
