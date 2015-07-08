@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/09 02:12:15)
+## Build and test report (2015/07/09 03:12:21)
 ### Build Summary
 ___
   
