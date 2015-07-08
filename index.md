@@ -2,11 +2,11 @@
 layout: default
 ---
 # Jenkins CI report For HRG
-## Build and test report (2015/07/08 09:28:01)
+## Build and test report (2015/07/08 16:28:41)
 ### Build Status
 ___
   
 |Name|Distro|Status|
 |---|---|---|
-|[drcutil](http://jenkinshrg.github.io/drcutil)|<span class='badge'>Ubuntu T</span>|![Build Status](http://jenkinshrg.github.io/drcutil/badge.svg)|
-|[drcutil2](http://jenkinshrg.github.io/drcutil2)|<span class='badge'>Debian W</span>|![Build Status](http://jenkinshrg.github.io/drcutil2/badge.svg)|
+|[jenkinshrg-drcutil-ubuntu-trusty-amd64](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64)|![Build Status](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64/badge.svg)|
+|[jenkinshrg-drcutil2-debian-wheezy-i386](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386)|![Build Status](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/badge.svg)|

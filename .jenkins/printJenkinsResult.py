@@ -54,20 +54,20 @@ print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")
 print str(stability) + "%"
 print "  "
 
-print "### Build Trend"
-print "___"
-print "* gui test(choreonoid)"
-print "  "
-print "![Test Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/test.png)"
-print "  "
-print "* code counter(cccc)"
-print "  "
-print "![Cccc Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/cccc.png)"
-print "  "
-print "* code checker(cppcheck)"
-print "  "
-print "![Cppcheck Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/cppcheck.png)"
-print "  "
+#print "### Build Trend"
+#print "___"
+#print "* gui test(choreonoid)"
+#print "  "
+#print "![Test Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/test.png)"
+#print "  "
+#print "* code counter(cccc)"
+#print "  "
+#print "![Cccc Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/cccc.png)"
+#print "  "
+#print "* code checker(cppcheck)"
+#print "  "
+#print "![Cppcheck Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/cppcheck.png)"
+#print "  "
 
 print "### Build History"
 print "___"
@@ -90,14 +90,14 @@ for build in builds:
         color = "red"
     errorDetails = ""
     errorStackTrace = ""
-    if result == "UNSTABLE":
-        url = build['url'] + 'testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]'
-        r = urllib2.urlopen(url)
-        root = json.loads(r.read())
-        r.close()
-        errorDetails = root['suites'][0]['cases'][0]['errorDetails']
-        errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
-        cause = "(" + errorDetails + "/" + errorStackTrace + ")"
+#    if result == "UNSTABLE":
+#        url = build['url'] + 'testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]'
+#        r = urllib2.urlopen(url)
+#        root = json.loads(r.read())
+#        r.close()
+#        errorDetails = root['suites'][0]['cases'][0]['errorDetails']
+#        errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
+#        cause = "(" + errorDetails + "/" + errorStackTrace + ")"
     link1 = ""
     link2 = ""
     link3 = ""
