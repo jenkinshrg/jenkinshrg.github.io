@@ -105,7 +105,7 @@ for build in builds:
     link2 = ""
     link3 = ""
     try:
-        url = build['url'] + 'artifact/testbed-terrain.url'
+        url = build['url'] + 'artifact/googledrive.url'
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
