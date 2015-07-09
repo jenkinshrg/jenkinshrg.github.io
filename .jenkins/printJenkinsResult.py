@@ -84,7 +84,7 @@ for build in builds:
     elif result == "FAILURE":
         color = "red"
     else:
-        color = "red"
+        color = "nobuilt"
     errorDetails = ""
     errorStackTrace = ""
     if result == "UNSTABLE":
