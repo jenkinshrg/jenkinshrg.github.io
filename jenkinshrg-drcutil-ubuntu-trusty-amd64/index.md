@@ -6,8 +6,8 @@ layout: default
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow.png)
-UNSTABLE
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/blue.png)
+SUCCESS
   
 * Stability
   
@@ -20,6 +20,7 @@ ___
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 04:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZERSQjA4MUhUSFU/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4UDBZWmU3QVpCcE0/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ZnBGc1dPZzVSc0U/view?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4UmRmS21QcWY4aFU/view?usp=drivesdk) | |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/10 03:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UGU5bWp5LXROUUE/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4WlJzRWNFTXlwTk0/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Qjl4eTZLZzhsdFE/view?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4NGxzWU5Ya3FOWDQ/view?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/10 02:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZjNULTAzR0dPcjQ/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Rlo4ejJmTGF5QlE/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4YXJkdG5KWktCOU0/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4aENGVnp4djlKMTQ/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 01:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QmpCWkw1OFFzZ1E/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4QlVWU2hUQmxBOWs/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4RTNUUDVZTzBrdWM/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4UkdIUTF5SHV0Q2s/edit?usp=drivesdk) | |
