@@ -14,20 +14,6 @@ SUCCESS
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
 100%
   
-### Build Trend
-___
-* test
-  
-![Test Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/test.png)
-  
-* code counter(cccc)
-  
-![Cccc Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/cccc.png)
-  
-* code checker(cppcheck)
-  
-![Cppcheck Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/cppcheck.png)
-  
 ### Build History
 ___
 * Latest Results

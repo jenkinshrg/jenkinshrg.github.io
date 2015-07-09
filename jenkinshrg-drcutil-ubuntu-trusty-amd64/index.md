@@ -14,20 +14,6 @@ UNSTABLE
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
 0%
   
-### Build Trend
-___
-* test
-  
-![Test Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64/test.png)
-  
-* code counter(cccc)
-  
-![Cccc Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64/cccc.png)
-  
-* code checker(cppcheck)
-  
-![Cppcheck Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64/cppcheck.png)
-  
 ### Build History
 ___
 * Latest Results
