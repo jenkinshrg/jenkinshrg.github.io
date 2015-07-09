@@ -6,17 +6,17 @@ layout: default
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/notbuilt_anime.png)
-None
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/blue.png)
+SUCCESS
   
 * Stability
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-0%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
   
 ### Build Trend
 ___
-* gui test(choreonoid)
+* test
   
 ![Test Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/test.png)
   
@@ -34,4 +34,5 @@ ___
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/nobuilt.png)None|2015/07/09 14:33|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 15:10|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 14:33|36 min.|||| |
