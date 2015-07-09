@@ -18,7 +18,6 @@ print "---"
 print "layout: default"
 print "---"
 
-print "# Jenkins CI report For HRG"
 print "## Build and test report" + " (" + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + ")"
 
 print "### Build Summary"

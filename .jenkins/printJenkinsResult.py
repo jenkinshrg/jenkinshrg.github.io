@@ -38,8 +38,7 @@ print "---"
 print "layout: default"
 print "---"
 
-print "# " + sys.argv[1]
-print "## Build and test report" + " (" + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + ")"
+print "## " + sys.argv[1]
 
 print "### Build Status"
 print "___"
