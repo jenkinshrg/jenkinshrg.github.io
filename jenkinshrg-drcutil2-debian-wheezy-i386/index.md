@@ -2,18 +2,32 @@
 layout: default
 ---
 # jenkinshrg-drcutil2-debian-wheezy-i386
-## Build and test report (2015/07/09 09:12:17)
+## Build and test report (2015/07/09 10:39:02)
 ### Build Status
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/blue.png)
-SUCCESS
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/notbuilt_anime.png)
+None
   
 * Stability
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-100%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+0%
+  
+### Build Trend
+___
+* gui test(choreonoid)
+  
+![Test Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/test.png)
+  
+* code counter(cccc)
+  
+![Cccc Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/cccc.png)
+  
+* code checker(cppcheck)
+  
+![Cppcheck Trend](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/cppcheck.png)
   
 ### Build History
 ___
@@ -21,22 +35,4 @@ ___
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 09:06|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 09:05|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 09:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 08:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 07:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 06:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 05:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 04:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 03:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 02:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 01:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 00:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 23:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 22:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 21:00|1 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 20:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 19:00|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 18:42|0 min.|||| |
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/08 17:10|92 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)None|2015/07/09 10:39|0 min.|||| |
