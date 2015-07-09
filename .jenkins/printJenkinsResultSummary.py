@@ -1,14 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import sys, os, json, urllib2
+import sys, urllib2, json
 from datetime import datetime
 
-url = sys.argv[1] + 'api/json?tree=jobs[name]'
-r = urllib2.urlopen(url)
-root = json.loads(r.read())
-jobs = root['jobs']
-r.close()
+try:
+    url = sys.argv[1] + 'api/json?tree=jobs[name]'
+    r = urllib2.urlopen(url)
+    root = json.loads(r.read())
+    jobs = root['jobs']
+except:
+    sys.exit(1)
+finally:
+    r.close()
 
 print "---"
 print "layout: default"

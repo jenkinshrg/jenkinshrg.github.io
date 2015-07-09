@@ -1,16 +1,20 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import sys, os, json, urllib2
+import sys, urllib2, json
 from datetime import datetime
 
-url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=color,lastBuild[result],builds[number,result,timestamp,duration,url]'
-r = urllib2.urlopen(url)
-root = json.loads(r.read())
-color = root['color']
-lastBuild = root['lastBuild']
-builds = root['builds']
-r.close()
+try:
+    url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=color,lastBuild[result],builds[number,result,timestamp,duration,url]'
+    r = urllib2.urlopen(url)
+    root = json.loads(r.read())
+    color = root['color']
+    lastBuild = root['lastBuild']
+    builds = root['builds']
+except:
+    sys.exit(1)
+finally:
+    r.close()
 
 cnt = 0
 okcnt = 0
@@ -88,13 +92,16 @@ for build in builds:
     errorDetails = ""
     errorStackTrace = ""
     if result == "UNSTABLE":
-        url = build['url'] + 'testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]'
-        r = urllib2.urlopen(url)
-        root = json.loads(r.read())
-        r.close()
-        errorDetails = root['suites'][0]['cases'][0]['errorDetails']
-        errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
-        cause = "(" + errorDetails + "/" + errorStackTrace + ")"
+        try:
+            url = build['url'] + 'testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]'
+            r = urllib2.urlopen(url)
+            root = json.loads(r.read())
+            errorDetails = root['suites'][0]['cases'][0]['errorDetails']
+            errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
+        except:
+            pass
+        finally:
+            r.close()
     link1 = ""
     link2 = ""
     link3 = ""
