@@ -18,7 +18,7 @@ print "---"
 print "layout: default"
 print "---"
 
-print "## Build and test report" + " (" + datetime.now().strftime("%Y/%m/%d %H:%M:%S") + ")"
+print "## " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
 
 print "### Build Summary"
 print "___"
