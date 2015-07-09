@@ -2,12 +2,12 @@
 layout: default
 ---
 # jenkinshrg-drcutil-ubuntu-trusty-amd64
-## Build and test report (2015/07/09 11:01:44)
+## Build and test report (2015/07/09 13:07:50)
 ### Build Status
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/notbuilt_anime.png)
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow_anime.png)
 None
   
 * Stability
@@ -35,4 +35,6 @@ ___
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/nobuilt.png)None|2015/07/09 10:39|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/nobuilt.png)None|2015/07/09 13:07|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/09 12:53|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4NWNqY1J2cDlxbzg/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4MnFzVGpQWHgwWXM/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Z1Q3VFJzQ2RlbHc/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4VV9LNDItSXFOVk0/edit?usp=drivesdk) |STOP RED|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/09 12:08|42 min.|||| |

@@ -2,18 +2,18 @@
 layout: default
 ---
 # jenkinshrg-drcutil2-debian-wheezy-i386
-## Build and test report (2015/07/09 11:01:44)
+## Build and test report (2015/07/09 13:07:50)
 ### Build Status
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/notbuilt_anime.png)
-None
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/blue.png)
+SUCCESS
   
 * Stability
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-0%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
   
 ### Build Trend
 ___
@@ -35,4 +35,5 @@ ___
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/nobuilt.png)None|2015/07/09 10:39|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 13:00|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/09 12:11|39 min.|||| |
