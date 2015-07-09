@@ -57,7 +57,7 @@ print "  "
 
 print "### Build Trend"
 print "___"
-print "* gui test(choreonoid)"
+print "* test"
 print "  "
 print "![Test Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/test.png)"
 print "  "
