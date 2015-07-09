@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-# jenkinshrg-drcutil-ubuntu-trusty-amd64
-## Build and test report (2015/07/09 14:29:56)
+## jenkinshrg-drcutil-ubuntu-trusty-amd64
 ### Build Status
 ___
 * Status
