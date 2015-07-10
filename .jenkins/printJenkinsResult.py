@@ -75,7 +75,7 @@ print "___"
 
 print "* Latest Results"
 print "  "
-print "|Status|Time|Duration|Changes|Build|Test|Note|"
+print "|Status|Time|Duration|Changes|Artifact|Note|"
 print "|---|---|---|---|---|---|---|"
 
 for build in builds:
@@ -103,7 +103,6 @@ for build in builds:
             r.close()
     link1 = ""
     link2 = ""
-    link3 = ""
     try:
         url = build['url'] + 'artifact/googledrive.url'
         r = urllib2.urlopen(url)
@@ -122,13 +121,11 @@ for build in builds:
             else:
                 if tag == "CHANGES":
                     link1 = "[" + str(tag) + "](" + line.strip() + ")" + " "
-                elif tag == "BUILD":
-                    link2 = "[" + str(tag) + "](" + line.strip() + ")" + " "
                 else:
-                    link3 += "[" + str(tag) + "](" + line.strip() + ")" + " "
+                    link2 += "[" + str(tag) + "](" + line.strip() + ")" + " "
             line = r.readline()
     except:
         pass
     finally:
         r.close()
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(link1) + "|" + str(link2) + "|" + str(link3) + "|" + str(errorDetails) + " " + str(errorStackTrace) + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(link1) + "|" + str(link2) + "|" + str(errorDetails) + " " + str(errorStackTrace) + "|"
