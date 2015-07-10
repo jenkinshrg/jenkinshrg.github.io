@@ -88,8 +88,7 @@ for build in builds:
         color = "red"
     else:
         color = "nobuilt"
-    errorDetails = ""
-    errorStackTrace = ""
+    cause = ""
     if result == "UNSTABLE":
         try:
             url = build['url'] + "testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]"
@@ -97,6 +96,7 @@ for build in builds:
             root = json.loads(r.read())
             errorDetails = root['suites'][0]['cases'][0]['errorDetails']
             errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
+            cause = errorDetails + " " + errorStackTrace
         except:
             pass
         finally:
@@ -113,4 +113,4 @@ for build in builds:
         pass
     finally:
         r.close()
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(changes) + "|" + str(logs) + "|" + str(errorDetails) + " " + str(errorStackTrace) + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + changes + "|" + logs + "|" + cause + "|"
