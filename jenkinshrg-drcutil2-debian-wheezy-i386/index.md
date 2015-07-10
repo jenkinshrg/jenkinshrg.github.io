@@ -11,4 +11,4 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 15:25|79 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4M1dqTEhkRTNsR28/view?usp=drivesdk) ||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 15:25|79 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4M1dqTEhkRTNsR28/view?usp=drivesdk)<br>||
