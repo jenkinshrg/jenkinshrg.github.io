@@ -67,6 +67,8 @@ print "|Status|Time|Duration|Changes|Logs|Note|"
 print "|---|---|---|---|---|---|---|"
 
 for build in builds:
+    if 'result' not in build:
+        continue
     result = build['result']
     if result == "SUCCESS":
         color = "blue"
