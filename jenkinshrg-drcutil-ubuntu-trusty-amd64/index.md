@@ -2,15 +2,8 @@
 layout: default
 ---
 ## jenkinshrg-drcutil-ubuntu-trusty-amd64
-### Build Status
+### Build Stability
 ___
-* Status
-  
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/notbuilt_anime.png)
-None
-  
-* Stability
-  
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
 0%
   
