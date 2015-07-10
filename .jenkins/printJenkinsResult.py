@@ -75,7 +75,7 @@ print "___"
 
 print "* Latest Results"
 print "  "
-print "|Status|Time|Duration|Changes|Artifact|Note|"
+print "|Status|Time|Duration|Changes|Logs|Note|"
 print "|---|---|---|---|---|---|---|"
 
 for build in builds:
