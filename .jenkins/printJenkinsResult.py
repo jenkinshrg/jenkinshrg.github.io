@@ -63,8 +63,6 @@ print "  "
 print "### Build History"
 print "___"
 
-print "* Latest Results"
-print "  "
 print "|Status|Time|Duration|Changes|Logs|Note|"
 print "|---|---|---|---|---|---|---|"
 
