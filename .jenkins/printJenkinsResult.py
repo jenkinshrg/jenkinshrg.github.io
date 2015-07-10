@@ -40,6 +40,7 @@ if cnt > 0:
     else:
         iconUrl = "health-00to19.png"
 else:
+    stability = 0
     iconUrl = "health-00to19.png"
 
 print "---"
