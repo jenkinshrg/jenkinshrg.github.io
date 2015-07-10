@@ -18,9 +18,9 @@ print "---"
 print "layout: default"
 print "---"
 
-print "## " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
+print "## Build and test report"
 
-print "### Build Summary"
+print "### Job Summary"
 print "___"
 print "  "
 print "|Name|Status|"
@@ -28,3 +28,6 @@ print "|---|---|"
 
 for job in jobs:
     print "|[" + job['name'] + "](http://jenkinshrg.github.io/" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + "/badge.svg)|"
+
+print "  "
+print "Last update : " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
