@@ -22,7 +22,7 @@ for build in builds:
     if build['result'] == "SUCCESS":
         okcnt += 1
     cnt += 1
-stability = int((okcnt / cnt) * 100)
+stability = int(((okcnt * 1.0)/ cnt) * 100)
 if stability >= 80:
     iconUrl = "health-80plus.png"
 elif stability >= 60:
