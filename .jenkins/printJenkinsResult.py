@@ -101,9 +101,21 @@ for build in builds:
             pass
         finally:
             r.close()
+    changes = ""
+    try:
+        url = build['url'] + "artifact/github.txt"
+        r = urllib2.urlopen(url)
+        line = r.readline()
+        while line:
+            changes += "[" + line.split(",")[0] + "](" + line.split(",")[1] + ")" + " "
+            line = r.readline()
+    except:
+        pass
+    finally:
+        r.close()
     logs = ""
     try:
-        url = build['url'] + "artifact/googledrive.url"
+        url = build['url'] + "artifact/googledrive.txt"
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
