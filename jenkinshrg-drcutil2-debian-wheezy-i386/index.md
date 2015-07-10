@@ -18,7 +18,7 @@ SUCCESS
 ___
 * Latest Results
   
-|Status|Time|Duration|Changes|Artifact|Note|
+|Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 13:31|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TVJjUDJaRUplTzg/view?usp=drivesdk) | |
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 13:21|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4RlFBd2ZzRHluVkE/view?usp=drivesdk) | |

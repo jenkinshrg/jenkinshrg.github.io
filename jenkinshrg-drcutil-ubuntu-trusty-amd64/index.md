@@ -18,7 +18,7 @@ UNSTABLE
 ___
 * Latest Results
   
-|Status|Time|Duration|Changes|Artifact|Note|
+|Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/10 13:21|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4c2lsdGcyRzZOTE0/view?usp=drivesdk) [CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4LVBtVzdjRkY2b2s/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ZVB4VHJJQjc5NE0/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4M3ZWZE9qTzBJUG8/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/10 13:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UUdQRVBFcTZ5VEE/view?usp=drivesdk) [CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4X3dfd243ZjZIdmc/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4NkliRE4tNnY1dHM/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4QlA3QUhzOGY4YUk/edit?usp=drivesdk) |STOP NORMAL|
