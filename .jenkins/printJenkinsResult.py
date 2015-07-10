@@ -39,6 +39,8 @@ if cnt > 0:
         iconUrl = "health-20to39.png"
     else:
         iconUrl = "health-00to19.png"
+else:
+    iconUrl = "health-00to19.png"
 
 print "---"
 print "layout: default"
