@@ -5,11 +5,9 @@ import sys, urllib2, json
 from datetime import datetime
 
 try:
-    url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=color,lastBuild[result],builds[number,result,timestamp,duration,url]'
+    url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=builds[number,result,timestamp,duration,url]'
     r = urllib2.urlopen(url)
     root = json.loads(r.read())
-    color = root['color']
-    lastBuild = root['lastBuild']
     builds = root['builds']
 except:
     sys.exit(1)
@@ -40,17 +38,9 @@ print "---"
 
 print "## " + sys.argv[1]
 
-print "### Build Status"
+print "### Build Stability"
 print "___"
 
-print "* Status"
-print "  "
-print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/"+ color + ".png)"
-print lastBuild['result']
-print "  "
-
-print "* Stability"
-print "  "
 print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")"
 print str(stability) + "%"
 print "  "
