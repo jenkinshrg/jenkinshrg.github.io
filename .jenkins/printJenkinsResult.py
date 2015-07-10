@@ -17,8 +17,15 @@ finally:
 cnt = 0
 okcnt = 0
 for build in builds:
-    if build['result'] == "SUCCESS":
+    result = build['result']
+    if result == "SUCCESS":
         okcnt += 1
+    elif result == "UNSTABLE":
+        pass
+    elif result == "FAILURE":
+        pass
+    else:
+        continue
     cnt += 1
 stability = int(((okcnt * 1.0)/ cnt) * 100)
 if stability >= 80:
