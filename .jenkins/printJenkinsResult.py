@@ -106,7 +106,7 @@ for build in builds:
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
-            changes += "[" + line.split(",")[1] + "](" + line.split(",")[0] + ")" + "<br>"
+            changes += "[" + line.split(",")[1] + "](" + line.split(",")[0] + ")" + " "
             line = r.readline()
     except:
         pass
@@ -118,7 +118,7 @@ for build in builds:
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
-            logs += "[" + line.split(",")[0] + "](" + line.split(",")[1] + ")" + "<br>"
+            logs += "[" + line.split(",")[0] + "](" + line.split(",")[1] + ")" + " "
             line = r.readline()
     except:
         pass
