@@ -27,17 +27,18 @@ for build in builds:
     else:
         continue
     cnt += 1
-stability = int(((okcnt * 1.0)/ cnt) * 100)
-if stability >= 80:
-    iconUrl = "health-80plus.png"
-elif stability >= 60:
-    iconUrl = "health-60to79.png"
-elif stability >= 40:
-    iconUrl = "health-40to59.png"
-elif stability >= 20:
-    iconUrl = "health-20to39.png"
-else:
-    iconUrl = "health-00to19.png"
+if cnt > 0:
+    stability = int(((okcnt * 1.0)/ cnt) * 100)
+    if stability >= 80:
+        iconUrl = "health-80plus.png"
+    elif stability >= 60:
+        iconUrl = "health-60to79.png"
+    elif stability >= 40:
+        iconUrl = "health-40to59.png"
+    elif stability >= 20:
+        iconUrl = "health-20to39.png"
+    else:
+        iconUrl = "health-00to19.png"
 
 print "---"
 print "layout: default"
