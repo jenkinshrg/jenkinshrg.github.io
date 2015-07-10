@@ -103,11 +103,11 @@ for build in builds:
             r.close()
     changes = ""
     try:
-        url = build['url'] + "artifact/github.txt"
+        url = build['url'] + "artifact/changes.txt"
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
-            changes += "[" + line.split(",")[0] + "](" + line.split(",")[1] + ")" + " "
+            changes += "[" + line.split(",")[1] + "](" + line.split(",")[0] + ")" + " "
             line = r.readline()
     except:
         pass
