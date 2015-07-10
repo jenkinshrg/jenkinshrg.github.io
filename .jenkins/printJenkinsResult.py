@@ -92,7 +92,7 @@ for build in builds:
     errorStackTrace = ""
     if result == "UNSTABLE":
         try:
-            url = build['url'] + 'testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]'
+            url = build['url'] + "testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]"
             r = urllib2.urlopen(url)
             root = json.loads(r.read())
             errorDetails = root['suites'][0]['cases'][0]['errorDetails']
@@ -101,31 +101,16 @@ for build in builds:
             pass
         finally:
             r.close()
-    link1 = ""
-    link2 = ""
+    logs = ""
     try:
-        url = build['url'] + 'artifact/googledrive.url'
+        url = build['url'] + "artifact/googledrive.url"
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
-            if "BUILD" in line:
-                tag = "BUILD"
-            elif "CHANGES" in line:
-                tag = "CHANGES"
-            elif "CONSOLE" in line:
-                tag = "CONSOLE"
-            elif "IMAGE" in line:
-                tag = "IMAGE"
-            elif "VIDEO" in line:
-                tag = "VIDEO"
-            else:
-                if tag == "CHANGES":
-                    link1 = "[" + str(tag) + "](" + line.strip() + ")" + " "
-                else:
-                    link2 += "[" + str(tag) + "](" + line.strip() + ")" + " "
+            logs += "[" + line.split(",")[0] + "](" + line.split(",")[1] + ")" + " "
             line = r.readline()
     except:
         pass
     finally:
         r.close()
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(link1) + "|" + str(link2) + "|" + str(errorDetails) + " " + str(errorStackTrace) + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(changes) + "|" + str(logs) + "|" + str(errorDetails) + " " + str(errorStackTrace) + "|"
