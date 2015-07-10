@@ -6,8 +6,8 @@ layout: default
 ___
 * Status
   
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow_anime.png)
-None
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/yellow.png)
+UNSTABLE
   
 * Stability
   
@@ -20,7 +20,7 @@ ___
   
 |Status|Time|Duration|Changes|Build|Test|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/nobuilt.png)None|2015/07/10 10:00|0 min.|||| |
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/10 10:00|18 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VExWZ3RpQV84eDg/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Vl9LMjZ0SEFsZjg/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4cV9TMUZHMzQ3NjA/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4djc5UXhubm5vaUk/edit?usp=drivesdk) |STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/10 09:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4eHdxQW5XVlA5U0U/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4UVRKX2dMbGlLRlU/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4UUNFdU16VVNqWTQ/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Ni1adHRac2d5WmM/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/10 08:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4R0lmbnRWUWFjNU0/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4bDJNZk83VnpzZ00/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4VXRNQk5FYVNYQkk/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4QkZ4RFpsQndEQ0k/edit?usp=drivesdk) |STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/10 07:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4RG1QeVpBeVBMN3M/view?usp=drivesdk) |[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4UFQ0dW9SWDRRckk/view?usp=drivesdk) [IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4QTFFaFZhSlJpOTg/edit?usp=drivesdk) [VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Y3J5TTZYVTZqWVk/edit?usp=drivesdk) |STOP RED|
