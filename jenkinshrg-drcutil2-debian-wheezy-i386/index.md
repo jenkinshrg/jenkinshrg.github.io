@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 12:00|0 min.|[6f7fdc6](https://github.com/fkanehiro/hrpsys-base.git/commit/6f7fdc6)<br>[0c6f0eb](https://github.com/fkanehiro/hrpsys-base.git/commit/0c6f0eb)<br>|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4RnRuX2xmazc2NXM/view?usp=drivesdk)<br>[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4d3NwbURmdVlIRjQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 11:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4cEtwd1VPZnc5Vkk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 10:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4THUxN28yZVkzdEk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 09:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZW1mSG5DXzVpbHM/view?usp=drivesdk)<br>||
