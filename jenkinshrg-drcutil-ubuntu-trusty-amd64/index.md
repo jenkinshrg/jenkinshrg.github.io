@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
-21%
+20%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/11 20:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4NHh6dTRLaVp4Sjg/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4OXpwYzJpbk5iR1k/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4UDFiQ3J1NUJmTTA/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4a2p6ckUyblJSUVk/edit?usp=drivesdk)<br>|STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/11 19:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4YVZ4b3lhVWlXMXc/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4ZDlnRm1tRnRfMFU/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4cEFVTkt0U1lkWjQ/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4aDZYQ2I1elowUlE/edit?usp=drivesdk)<br>|STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/11 18:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4X3VoSGFxMmJBZVE/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4SWo4enRqeG9tZTA/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4SXJhaXZwcXlhTGs/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4R2NPOU9seGN3aFk/edit?usp=drivesdk)<br>|STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 17:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SzVHUjhhQ0lHbVU/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4cDBXbzk2WU94Nmc/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4THRON0tXc3plcVE/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4V2xhWEFTelJMV0k/edit?usp=drivesdk)<br>||
