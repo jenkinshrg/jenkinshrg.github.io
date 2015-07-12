@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/12 12:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4emZMc29xZm9WV2s/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/12 11:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4OUplQ2ZUTDIyWXc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/12 10:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4eVUycWhjaW1UMW8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/12 09:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UlRtRFJzVXJsTnc/view?usp=drivesdk)<br>||

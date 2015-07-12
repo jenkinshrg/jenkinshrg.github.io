@@ -10,4 +10,4 @@ ___
 |[jenkinshrg-drcutil-ubuntu-trusty-amd64](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64)|![Build Status](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64/badge.svg)|
 |[jenkinshrg-drcutil2-debian-wheezy-i386](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386)|![Build Status](http://jenkinshrg.github.io/jenkinshrg-drcutil2-debian-wheezy-i386/badge.svg)|
   
-Last update : 2015/07/12 11:30:12
+Last update : 2015/07/12 12:30:09
