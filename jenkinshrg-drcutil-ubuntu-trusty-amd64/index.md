@@ -4,13 +4,14 @@ layout: default
 ## jenkinshrg-drcutil-ubuntu-trusty-amd64
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
-20%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+19%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/13 09:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4by1KcEtZYWZhQzg/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4QUtoR2NtU0Z3Nms/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dm1UMmt0RzdXems/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4MnJvaXZtclVBWTg/edit?usp=drivesdk)<br>|STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/13 08:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZGNGb3dsTUpBVE0/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Ym5NUFNTclFGUGc/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ODIwOXpQa29XQlU/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4czhXOEtnVEk0WHc/edit?usp=drivesdk)<br>|STOP NORMAL|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/13 07:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SHZISm9zX3k1WlU/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4NTBrV0FvTTdHS00/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4UlNycXZpQl9TNVk/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4QjF0blhXcWZGdGc/edit?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/13 06:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4M0UzajdxN0N2XzQ/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4a09Tb0NvRzUzZVU/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4UEprWlBXOUdGY3c/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4LUdtMGN0TEVjTGs/edit?usp=drivesdk)<br>|STOP NORMAL|
