@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-18%
+19%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 00:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4elJwaWVnWjRiSkE/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4NHVkOU50eFF2SzA/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dkZsNENDVmJtcUE/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4a0FIaExBb2hzRU0/edit?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/13 23:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TUs1QUVVWlgtYkk/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4RjNLaUFEdktxcUk/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4LW1oU3JjTGhZTEE/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4MjFJVEV6T3I1aEE/edit?usp=drivesdk)<br>|STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/13 22:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TFhJMko5UmNEZ3M/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4cDVSM1ZBX2QzMmM/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4MXZOQ2xOMEVRcjQ/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4cWhtaXg5eHZZZXc/edit?usp=drivesdk)<br>|STOP RED|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/13 21:00|13 min.|[b211c6f](https://github.com/jrl-umi3218/hmc2/commit/b211c6f)<br>|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4X1BRbUFTclpCRXc/view?usp=drivesdk)<br>[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4U2NHVUd0VGtKMDQ/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Q1FVRFllaW1hejA/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Z09EdnI5NjVrd00/edit?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4bHp4RHlwcFVFSVE/edit?usp=drivesdk)<br>|STOP NORMAL|
