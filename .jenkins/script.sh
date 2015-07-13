@@ -2,7 +2,7 @@
 
 JENKINS_URL=http://jenkinshrg.a01.aist.go.jp/
 
-REPORT_JOB=jenkinshrg-drcutil-ubuntu-trusty-amd64
+REPORT_JOB=jenkinshrg-drcutil-feature1-ubuntu-trusty-amd64
 mkdir -p ${REPORT_JOB}
 wget -q -O ${REPORT_JOB}/badge.svg ${JENKINS_URL}job/${REPORT_JOB}/badge/icon
 #wget -q -O ${REPORT_JOB}/test.png ${JENKINS_URL}job/${REPORT_JOB}/test/trend
@@ -10,7 +10,7 @@ wget -q -O ${REPORT_JOB}/badge.svg ${JENKINS_URL}job/${REPORT_JOB}/badge/icon
 #wget -q -O ${REPORT_JOB}/cppcheck.png ${JENKINS_URL}job/${REPORT_JOB}/cppcheckResult/graph
 python .jenkins/printJenkinsResult.py ${REPORT_JOB} ${JENKINS_URL} > ${REPORT_JOB}/index.md
 
-REPORT_JOB=jenkinshrg-drcutil2-debian-wheezy-i386
+REPORT_JOB=jenkinshrg-drcutil-feature2-debian-wheezy-i386
 mkdir -p ${REPORT_JOB}
 wget -q -O ${REPORT_JOB}/badge.svg ${JENKINS_URL}job/${REPORT_JOB}/badge/icon
 #wget -q -O ${REPORT_JOB}/test.png ${JENKINS_URL}job/${REPORT_JOB}/test/trend
