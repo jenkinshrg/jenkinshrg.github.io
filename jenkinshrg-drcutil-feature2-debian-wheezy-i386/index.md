@@ -5,12 +5,18 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-97%
+95%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:40|7 min.|[d81301e](https://github.com/jrl-umi3218/hmc2/commit/d81301e)<br>|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4T0hqUi1EWFZzWm8/view?usp=drivesdk)<br>[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WUZfZ2lzZEtKZFE/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
+  Actual: false
+Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:41
+Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
+  Actual: false
+Expected: true|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:20|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dk44RkhYdTVpZnM/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
   Actual: false
 Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:41
@@ -124,5 +130,3 @@ Expected: true|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 08:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZGs0bkcwVWdUVWM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 07:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TFVUMk9wSUVXdjA/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 06:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4d291T3FDejB1Z00/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 05:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4a0xkZWRTYWhjSlU/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 04:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Tm5xS0tVM2I1WGs/view?usp=drivesdk)<br>||
