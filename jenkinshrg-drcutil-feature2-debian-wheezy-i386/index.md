@@ -5,12 +5,34 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-100%
+97%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:20|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dk44RkhYdTVpZnM/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
+  Actual: false
+Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:41
+Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
+  Actual: false
+Expected: true|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:10|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WTFDSDFoQzNIc0k/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
+  Actual: false
+Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:30
+Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
+  Actual: false
+Expected: true|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:06|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SHNCcHk0TVl3Rlk/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
+  Actual: false
+Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:28
+Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
+  Actual: false
+Expected: true|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 14:04|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4YzdKYUR3U3JDdFk/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 14:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QlhUbTFGSXpjVU0/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 13:54|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VkJXajMtYkN4WUE/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 13:38|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dlAyWVFkX3F2NFU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 13:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WFlqRmpxcTVGOHM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 12:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QmNacUhlVFpBRDg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 11:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZUxkYzJQem5Fc0E/view?usp=drivesdk)<br>||
@@ -104,10 +126,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 06:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4d291T3FDejB1Z00/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 05:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4a0xkZWRTYWhjSlU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 04:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Tm5xS0tVM2I1WGs/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 03:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TjV5aXltX0JOSlE/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 02:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4eE5XS3FEakYyZEU/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 01:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4RGxMTnJLaDBPajA/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/11 00:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TEhhc2lnR19kd3c/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 23:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4cy1qNm9uSDA0a2c/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 22:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aGl5VjIxaXV6MUU/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 21:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4REUwMm1UblM3aEU/view?usp=drivesdk)<br>||
