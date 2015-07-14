@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 12:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QmNacUhlVFpBRDg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 11:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZUxkYzJQem5Fc0E/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 10:34|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZlRuQkYzRDVTR1E/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 10:18|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TVoybWo5N0dGbVU/view?usp=drivesdk)<br>||
@@ -110,4 +111,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 22:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aGl5VjIxaXV6MUU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 21:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4REUwMm1UblM3aEU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 20:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aGl3ckh6UlQwVlE/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/10 19:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ME1zMk1fNXc0OVE/view?usp=drivesdk)<br>||
