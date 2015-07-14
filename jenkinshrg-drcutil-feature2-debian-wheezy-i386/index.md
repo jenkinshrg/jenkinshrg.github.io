@@ -11,30 +11,10 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:40|7 min.|[d81301e](https://github.com/jrl-umi3218/hmc2/commit/d81301e)<br>|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4T0hqUi1EWFZzWm8/view?usp=drivesdk)<br>[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WUZfZ2lzZEtKZFE/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
-  Actual: false
-Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:41
-Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
-  Actual: false
-Expected: true|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:20|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dk44RkhYdTVpZnM/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
-  Actual: false
-Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:41
-Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
-  Actual: false
-Expected: true|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:10|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WTFDSDFoQzNIc0k/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
-  Actual: false
-Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:30
-Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
-  Actual: false
-Expected: true|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:06|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SHNCcHk0TVl3Rlk/view?usp=drivesdk)<br>|Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
-  Actual: false
-Expected: true /home/vagrant/workspace/jenkinshrg-drcutil-feature2-debian-wheezy-i386/temp/openhrp3_test.cpp:28
-Value of: !isnan(v(0)) && !isnan(v(1)) && !isnan(v(2))
-  Actual: false
-Expected: true|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:40|7 min.|[d81301e](https://github.com/jrl-umi3218/hmc2/commit/d81301e)<br>|[CHANGES](https://drive.google.com/file/d/0B54sHwaxmuM4T0hqUi1EWFZzWm8/view?usp=drivesdk)<br>[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WUZfZ2lzZEtKZFE/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:20|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dk44RkhYdTVpZnM/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:10|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WTFDSDFoQzNIc0k/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/14 14:06|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SHNCcHk0TVl3Rlk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 14:04|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4YzdKYUR3U3JDdFk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 14:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QlhUbTFGSXpjVU0/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/14 13:54|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VkJXajMtYkN4WUE/view?usp=drivesdk)<br>||
