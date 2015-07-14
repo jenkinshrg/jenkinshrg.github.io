@@ -88,18 +88,18 @@ for build in builds:
     else:
         continue
     cause = ""
-    if result == "UNSTABLE":
-        try:
-            url = build['url'] + "testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]"
-            r = urllib2.urlopen(url)
-            root = json.loads(r.read())
-            errorDetails = root['suites'][0]['cases'][0]['errorDetails']
-            errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
-            cause = errorDetails + " " + errorStackTrace
-        except:
-            pass
-        finally:
-            r.close()
+#    if result == "UNSTABLE":
+#        try:
+#            url = build['url'] + "testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]"
+#            r = urllib2.urlopen(url)
+#            root = json.loads(r.read())
+#            errorDetails = root['suites'][0]['cases'][0]['errorDetails']
+#            errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
+#            cause = errorDetails + " " + errorStackTrace
+#        except:
+#            pass
+#        finally:
+#            r.close()
     changes = ""
     try:
         url = build['url'] + "artifact/changes.txt"
