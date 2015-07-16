@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-50%
+51%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 05:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4b2MyVl8weHNMME0/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 04:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4bUpMblhiY191UGs/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 03:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ay0yOHFUcFNjb2M/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 02:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4clphSUFaWUpCN1E/view?usp=drivesdk)<br>||

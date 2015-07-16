@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
-24%
+23%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/17 05:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TGx3RnZCTWF4eWs/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4YW56YnFBazlTc1U/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4VC1YUlUzWUJGalE/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4M3c5UVM5bEV4SXM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/17 04:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UmdSYmh3T0N1ZEk/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4c3oyMklUaEZOMlE/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4cF9URGlZSDdNNTg/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4UkplaENYd3pTUG8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 03:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4MFRFQjIxREJ4RkE/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4WlRpSGZJR2FJUVE/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4enBZaGZzNGo3bDA/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4Wi1BOXA5SWhCVlE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 02:00|13 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4bVJvYkNBWWV3dlU/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4YlFBNm5kblBjOEE/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Y1JEalA0RWxhaFE/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4V3JDOE5IYm1DMFE/view?usp=drivesdk)<br>||
