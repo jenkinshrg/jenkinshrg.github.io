@@ -4,13 +4,15 @@ layout: default
 ## jenkinshrg-drcutil-feature2-debian-wheezy-i386
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-59%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
+61%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 15:12|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4eTgxOGJnbjZ0MUk/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 15:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Um5IakUzZEl0bDg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 14:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Z0JaRHVfeE14b3c/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 13:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4RDJINkZTckM1OG8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/17 12:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4cUZqUDJ5SVBiVEU/view?usp=drivesdk)<br>||
