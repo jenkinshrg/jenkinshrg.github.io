@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-89%
+90%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/20 00:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4MFZDcWt5TndlaXc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/19 23:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UFpib2t4QWY1T2s/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/19 22:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QW5zdkR6Rmd4Nmc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/19 21:00|0 min.|[5a6226d](https://github.com/fkanehiro/hrpsys-base/commit/5a6226d80e30daf2acce01ced67a98ddadc54d19)<br>[445b8ea](https://github.com/fkanehiro/hrpsys-base/commit/445b8ea1e222b94157d416e342035e6a8a1f7ec0)<br>[6483286](https://github.com/fkanehiro/hrpsys-base/commit/64832860bec123a05dff88ca8db767cfa9a8b38a)<br>[1d4fb22](https://github.com/fkanehiro/hrpsys-base/commit/1d4fb222989226082703fdf98fbdce5280a75f66)<br>[58eea5f](https://github.com/fkanehiro/hrpsys-base/commit/58eea5f9bd460fcbb1c6b3834ed494891981df9a)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dl92V2xKcUlWSTQ/view?usp=drivesdk)<br>||
@@ -110,4 +111,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/16 04:00|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dkhmOWdlMnh2M2s/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/16 03:00|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4X3JVQ09iNlViZEk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/16 02:00|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4S2hmY3hvN0dBRjg/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/16 01:00|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WWV2QWRlWml6bzA/view?usp=drivesdk)<br>||
