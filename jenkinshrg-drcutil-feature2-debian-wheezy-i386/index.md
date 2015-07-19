@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-94%
+95%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/20 05:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dUVrdzlxMkgyWXc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/20 04:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4QnNNZkhORnZYaXM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/20 03:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UGlBZDd5QlZuQU0/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/20 02:00|0 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4a3hYTWlvWnhISUE/view?usp=drivesdk)<br>||
@@ -110,4 +111,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/16 09:00|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4YzhjX1ZPN09qVXM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/16 08:00|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4X21JeVp6MTlSSmc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/16 07:00|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TjdwbmlzVWhLYUk/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/16 06:00|7 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WExmNnljSS1Vd0U/view?usp=drivesdk)<br>||
