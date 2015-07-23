@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/23 10:00|44 min.|[eff3463](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/eff34630ede85bb8d4837f5dfe58dc9c6b9d48f5)<br>[0b90ce2](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/0b90ce238380b999bfb2a38eb80e930c4287b0a0)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZzhUYUpwQmpBMTA/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/23 09:00|23 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4d25LRklncF9vb0E/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/23 08:00|23 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VGdMbnJCcmJmaUE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/23 07:00|23 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4NGpwZ0NlY3cxZlk/view?usp=drivesdk)<br>||
