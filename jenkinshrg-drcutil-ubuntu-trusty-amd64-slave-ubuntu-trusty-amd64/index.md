@@ -4,13 +4,15 @@ layout: default
 ## jenkinshrg-drcutil-ubuntu-trusty-amd64-slave-ubuntu-trusty-amd64
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
-63%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
+59%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 02:00|26 min.||||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 01:10|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 00:44|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/24 23:32|71 min.|[bdac680](https://github.com/fkanehiro/hrpsys-base/commit/bdac6805df698bbf14f2746fb6a55d54aac9046c)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dFkzZFpLZnoyeUU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/24 22:18|73 min.|[0413978](https://github.com/fkanehiro/hrpsys-base/commit/041397837be9ea72a89061876ecfc68e88b9d2c9)<br>[6ddffa0](https://github.com/fkanehiro/hrpsys-base/commit/6ddffa0c6b9777c0aabcc38a90aff0b4d07d9e8e)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4bzQwRmM3MEpfNDQ/view?usp=drivesdk)<br>||
