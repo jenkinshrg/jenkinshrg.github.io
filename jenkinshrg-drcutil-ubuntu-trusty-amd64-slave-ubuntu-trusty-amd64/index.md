@@ -4,13 +4,14 @@ layout: default
 ## jenkinshrg-drcutil-ubuntu-trusty-amd64-slave-ubuntu-trusty-amd64
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-82%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
+79%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/24 18:00|79 min.|[18f7481](https://github.com/fkanehiro/hrpsys-base/commit/18f74811f3a5b778d90fe90c6614e7128eaced8c)<br>[90ee5ba](https://github.com/fkanehiro/hrpsys-base/commit/90ee5ba529b69a4d940e5388a9f5efc9a193c0ad)<br>[87c24fc](https://github.com/fkanehiro/hrpsys-base/commit/87c24fc9051235aeb6ca8ab0904ab5d449846fa1)<br>[1dad2b1](https://github.com/fkanehiro/hrpsys-base/commit/1dad2b18c79df8a145cfc86760450adf7acf97ca)<br>[6cb1bfb](https://github.com/fkanehiro/hrpsys-base/commit/6cb1bfbddf9a8e36b020ea2dbfd5de8bb3230968)<br>[57ed1ab](https://github.com/fkanehiro/hrpsys-base/commit/57ed1ab86bab84c33c969e30870ffb3c35b358aa)<br>[9420b04](https://github.com/fkanehiro/hrpsys-base/commit/9420b04eae2f0563b3706f1f413322e9051c37df)<br>[23c53a1](https://github.com/fkanehiro/hrpsys-base/commit/23c53a164c16ce0d1d7fef22160e55e6f7e265ec)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SEJvQ1RxVGRqNjA/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/24 17:01|26 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/24 15:47|74 min.|[bdd77f4](https://github.com/jrl-umi3218/hmc2/commit/bdd77f43dc11af3c167b94bbd968c1a49b072126)<br>[2ed3321](https://github.com/jrl-umi3218/hmc2/commit/2ed33212812beb7eebe04b2ce140b6b4c1e94fa1)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZEViejQ1OU44T0k/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/24 14:31|74 min.||[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Unl1eHp3OU82ems/view?usp=drivesdk)<br>||
