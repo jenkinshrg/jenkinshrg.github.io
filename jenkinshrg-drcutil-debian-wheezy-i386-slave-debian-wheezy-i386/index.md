@@ -4,13 +4,14 @@ layout: default
 ## jenkinshrg-drcutil-debian-wheezy-i386-slave-debian-wheezy-i386
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
-60%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
+58%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 02:00|31 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 01:00|32 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 00:00|32 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/24 23:00|55 min.|[bdac680](https://github.com/fkanehiro/hrpsys-base/commit/bdac6805df698bbf14f2746fb6a55d54aac9046c)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4NzFjLUMxbEFocm8/view?usp=drivesdk)<br>||
