@@ -4,13 +4,14 @@ layout: default
 ## jenkinshrg-drcutil-ubuntu-trusty-amd64-slave-ubuntu-trusty-amd64
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-40%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
+39%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 18:00|26 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 17:00|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 16:00|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/25 15:00|26 min.||||
