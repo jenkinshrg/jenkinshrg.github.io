@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-12%
+11%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 12:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Z0NtalpPdnVMTTQ/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4Tm0ybUtId1pNS00/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4NHNyTS1JYkFHMWc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 11:00|12 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4QXc1NlZ2NWhKX0U/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4UFg0eHF5bkdxVmc/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4SEJkQjZrNDNaSTQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 10:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4QkZnRFN3MkN6SEU/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4OFZsdDYxMlBTQ3M/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4U0pzUmlBdjFWb2M/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 09:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4MmlGWlR4UlI0UlE/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4YWpYcUNmSG83am8/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4UkRDa2lxVThJTlk/view?usp=drivesdk)<br>||
