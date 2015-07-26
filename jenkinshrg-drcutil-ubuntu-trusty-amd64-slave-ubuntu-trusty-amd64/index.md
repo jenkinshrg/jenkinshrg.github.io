@@ -5,12 +5,14 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
-31%
+30%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 09:00|25 min.||||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 08:19|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 07:00|79 min.|[9d4fa0f](https://github.com/fkanehiro/hrpsys-base/commit/9d4fa0fe0d799b1883f226ec13c43820dcb82ac2)<br>[07f4889](https://github.com/fkanehiro/hrpsys-base/commit/07f4889eda0e3e6bfa7b0aefaead2109a70600fb)<br>[74ebb2d](https://github.com/fkanehiro/hrpsys-base/commit/74ebb2de2eeff605539313068c53913cf368b777)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4azdBOFUxVE8tRHc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 06:00|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/26 05:00|25 min.||||
