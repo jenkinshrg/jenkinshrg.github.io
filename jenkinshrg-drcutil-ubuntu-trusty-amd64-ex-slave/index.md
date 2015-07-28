@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-13%
+15%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/29 08:00|14 min.|[3bdd6cf](https://github.com/fkanehiro/hrpsys-base/commit/3bdd6cf136c94f5fdc0bfad29b85f208db96eba9)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZkhUa0tNS2RHOFU/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4bjNhZGpBTWpHQ3M/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ZzBHZkhyWmxQQWs/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4WGNJbUpyUUU4Q0U/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/29 07:00|13 min.|[7cf454d](https://github.com/fkanehiro/hrpsys-base/commit/7cf454d39cd7f108c394604e1dc833f02b636d7f)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dENhMkRYemR6N2s/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4SXktYW1oVkJDQ0E/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4OG1BdUttdmFrc1k/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4V0EtWkJQTzk3Yzg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/29 06:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4ejlZYllzNW4xNEU/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4X2lNbnVOaXBjWVk/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4cXNxVW9CVUJMbWc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/29 05:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4VGxjZU5za0NPSm8/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4R3ZJYlk5UVE0N3M/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4NkhmY2NPOXZ3T1k/view?usp=drivesdk)<br>||
