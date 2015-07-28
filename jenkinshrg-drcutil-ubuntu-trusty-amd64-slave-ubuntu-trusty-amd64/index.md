@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/07/28 14:00|5 min.|[9bcb93e](https://github.com/jrl-umi3218/hmc2/commit/9bcb93e10c6c29f8bea862f4d8c07d999bfe29aa)<br>[c8e8caf](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/c8e8caf0fc1dc0a7dcf6c4f404da13720fd63de2)<br>|||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/28 13:00|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/28 12:00|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/28 11:00|25 min.||||
