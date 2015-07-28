@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
-26%
+28%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/29 00:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 23:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 22:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 21:00|30 min.|[029a5a5](https://github.com/jrl-umi3218/hmc2/commit/029a5a50cb83e3e3253fb0e332be037ad4fe4984)<br>[f942b62](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/f942b622993b4ba9755beb79060b2fc2531321c4)<br>[03ca45b](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/03ca45b16da9ba6aea88cf8fd51b8f87267fdc1a)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZFlMYmg1bXZrMUU/view?usp=drivesdk)<br>||
