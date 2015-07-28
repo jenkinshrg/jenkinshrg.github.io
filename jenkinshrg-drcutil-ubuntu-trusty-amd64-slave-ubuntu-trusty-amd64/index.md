@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-13%
+16%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 19:00|25 min.|[3f20fab](https://github.com/fkanehiro/hrpsys-base/commit/3f20fab8feda6709cc9068cd3d921aa07b5b6c12)<br>[47ddde8](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/47ddde8db2d067922ffbcc1ade298da41aaa2eb3)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VDdYY0pBaUdaRnc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 18:00|24 min.|[e7ee225](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/e7ee22562be9cda2487f0da69c015f4f1d38a76a)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SFV6aEdGUWwtNm8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 17:00|27 min.|[d9d854a](https://github.com/jrl-umi3218/hrp2-drc/commit/d9d854a7f05532f048643fb2786e38eb3077ee97)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4MDRUU0dsY2lWdDQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 16:00|24 min.||||

@@ -11,4 +11,5 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 18:19|30 min.|[47ddde8](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/47ddde8db2d067922ffbcc1ade298da41aaa2eb3)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4Ti1oNHNGdWVBOVU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 17:28|50 min.|[e7ee225](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/e7ee22562be9cda2487f0da69c015f4f1d38a76a)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4bk5MTFpEWWdsTFU/view?usp=drivesdk)<br>||
