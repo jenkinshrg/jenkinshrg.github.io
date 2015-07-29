@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-54%
+55%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/29 21:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/29 20:00|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/29 19:00|28 min.|[13d8523](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/13d8523ae7dacd0a9f6cbbc4ecbee85426777cf8)<br>[dd44411](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/dd444116c9cd39150a186f57dc281b80ac91709a)<br>[6a3c6ee](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/6a3c6eec09fd044502385d4141eb1689f9434c6b)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4eGVyOGJ1QWxVTEk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/29 18:00|25 min.||||
