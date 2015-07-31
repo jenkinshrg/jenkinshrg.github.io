@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-84%
+85%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/01 03:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/01 02:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/01 01:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/01 00:00|25 min.||||
@@ -110,4 +111,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/28 02:00|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/28 01:00|25 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/28 00:00|26 min.|[fcb89f0](https://github.com/jrl-umi3218/hmc2/commit/fcb89f0a08fd431cf55bcce835744ea569c92614)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4TkZmYlo3NnVRLVE/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/07/27 23:00|26 min.|[5bd2fc5](https://github.com/fkanehiro/hrpsys-base/commit/5bd2fc5c4207936be7fb08460a2597bef6c006b5)<br>[441b3f9](https://github.com/fkanehiro/hrpsys-base/commit/441b3f98270d7a15caff7ea601c1e12e2c720ba6)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4YXAtRXJ0TElvNE0/view?usp=drivesdk)<br>||
