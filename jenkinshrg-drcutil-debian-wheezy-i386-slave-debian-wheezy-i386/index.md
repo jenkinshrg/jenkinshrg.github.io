@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/31 17:00|31 min.|[acdd321](https://github.com/jrl-umi3218/hmc2/commit/acdd3214bb5bf375fbd4c31d8179756ed7439c69)<br>[dec1dc3](https://github.com/jrl-umi3218/hmc2/commit/dec1dc359085967a3fdf1f818931e2eb59ef3e83)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aVFEcjJMdlB5S1E/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/31 16:00|30 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/31 15:00|30 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/31 14:00|30 min.||||
