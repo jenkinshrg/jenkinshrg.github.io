@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/01 19:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/01 18:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/01 17:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/01 16:00|24 min.||||
@@ -110,4 +111,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 18:00|24 min.|[e7ee225](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/e7ee22562be9cda2487f0da69c015f4f1d38a76a)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4SFV6aEdGUWwtNm8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 17:00|27 min.|[d9d854a](https://github.com/jrl-umi3218/hrp2-drc/commit/d9d854a7f05532f048643fb2786e38eb3077ee97)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4MDRUU0dsY2lWdDQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 16:00|24 min.||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/28 15:00|25 min.|[5d6cbbd](https://github.com/jrl-umi3218/hmc2/commit/5d6cbbdb796c14c0f5c6adfeb129a07bd3930733)<br>[42798c9](https://github.com/jrl-umi3218/hmc2/commit/42798c9973a33cb500910bf0a410e8a74516a488)<br>[1b55edd](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/1b55edd17ef06dc36fab668b6b87665b6becd8f7)<br>[b62425a](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/b62425a4244bf5210d5818ff4e4012592f79bb28)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4V2FYRG4tLTBuYlE/view?usp=drivesdk)<br>||
