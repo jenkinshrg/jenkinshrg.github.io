@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/03 20:00|29 min.|[304ec2c](https://github.com/jrl-umi3218/hmc2/commit/304ec2c2f694c76e2e994dac4b4fdefb77fa015f)<br>[f734579](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/f7345796cbfd39a355bd8321a7075e88ff9bcb3f)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4RGMzdlphWE91dWM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/03 19:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/03 18:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/03 17:00|24 min.||||
@@ -110,4 +111,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/30 19:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/30 18:00|24 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/30 17:00|25 min.|[efd8998](https://github.com/fkanehiro/hrpsys-base/commit/efd89988efa33bbe9ff35e9d2af028ce44803e0e)<br>[1550fc6](https://github.com/fkanehiro/hrpsys-base/commit/1550fc63cf175455e2be89b69b9e138e87ff9389)<br>[3293f3b](https://github.com/fkanehiro/hrpsys-base/commit/3293f3bfd82bf170ce3aef133e76cb02b6d5f26c)<br>[c324daa](https://github.com/fkanehiro/hrpsys-base/commit/c324daa0bd2a5d43ba28f7e883d3bf64964c2777)<br>[d860d08](https://github.com/fkanehiro/hrpsys-base/commit/d860d084cd4ce1a5703041a1f7c15ca0a4f03560)<br>[7f83d8a](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/7f83d8ae433ded15d6d5d12b130a92a833b0d1f1)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZWw1MHR3a3VtbUk/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/07/30 16:00|33 min.|[eab34e6](https://github.com/jrl-umi3218/hmc2/commit/eab34e65635a25c1500d91c191dd4be3520d394c)<br>[bf320f1](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/bf320f123c981a9d716698faed5e874641482fec)<br>[a377129](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/a377129d6dbccae37d7f9812fbd4ab2667e7fd31)<br>[a4a9099](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/a4a9099f7aae123ba86d74c6911a58e5aedfcddb)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4LWhCbnRvaTQ0Rms/view?usp=drivesdk)<br>||
