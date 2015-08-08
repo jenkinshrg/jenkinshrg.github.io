@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/08 09:00|27 min.|[519b7a6](https://github.com/fkanehiro/openhrp3/commit/519b7a6bedd658343f6fb74f255174d88189036e)<br>[a559f80](https://github.com/fkanehiro/openhrp3/commit/a559f80bad269709c79471fe0b23e6fa52364dda)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UjV0MkhlNHpuQzg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/08 08:00|0 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/08 07:00|0 min.||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/08 06:00|0 min.||||
