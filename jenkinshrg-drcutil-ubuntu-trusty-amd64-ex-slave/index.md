@@ -4,13 +4,14 @@ layout: default
 ## jenkinshrg-drcutil-ubuntu-trusty-amd64-ex-slave
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-40%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
+39%
   
 ### Build History
 ___
 |Status|Time|Duration|Changes|Logs|Note|
 |---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/08/09 14:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4LUgyNERTc2c3Nm8/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ZzJVQWl4cFNQM2s/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4by1hdnduR0lZODA/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/08/09 13:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4Y2FXVm9JWko5OUk/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4ekZoT2IzZjdVSTg/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4M05TbDRzQUdwYlU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2015/08/09 12:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4N01DelhlX0puUUU/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4azRCQU1TbHN0Qms/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4dWJLckpPcm1YMW8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/09 11:00|13 min.||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4UVQ1OURFMTBqUGs/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4dzg2dTl0alItd0E/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4eGs0amZxcUJ2RGc/view?usp=drivesdk)<br>||
