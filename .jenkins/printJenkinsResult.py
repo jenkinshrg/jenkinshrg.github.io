@@ -28,7 +28,7 @@ for build in builds:
         continue
     cnt += 1
 if cnt > 0:
-    stability = int(((okcnt * 1.0)/ cnt) * 100)
+    stability = int(round(((okcnt * 1.0)/ cnt) * 100))
     if stability >= 80:
         iconUrl = "health-80plus.png"
     elif stability >= 60:
@@ -92,7 +92,7 @@ for build in builds:
         n = 0
         for element in elements:
             if (n == 4):
-                ratio = element['ratio']
+                ratio = int(round(element['ratio']))
             n += 1;
     except:
         pass
