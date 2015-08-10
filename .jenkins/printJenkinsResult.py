@@ -115,7 +115,12 @@ for build in builds:
         line = r.readline()
         while line:
             line = line.strip()
-            changes += "[" + line.split(",")[1] + "](" + line.split(",")[0] + ")" + "<br>"
+            url = line.split(",")[0]
+            commit = line.split(",")[1]
+            if (url != ""):
+                changes += "[" + line.split(",")[1] + "](" + line.split(",")[0] + ")" + "<br>"
+            else:
+                changes += line.split(",")[0] + "<br>"
             line = r.readline()
     except:
         pass
