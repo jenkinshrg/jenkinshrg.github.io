@@ -11,7 +11,7 @@ ___
 ___
 |Status|Time|Duration|Test|Inspection|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/08/10 10:17|2 min.||||||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/08/10 10:37|18 min.|0|||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/10 10:00|0 min.|0|||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/10 09:00|0 min.|0|||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/10 08:00|0 min.|0|||||
