@@ -5,14 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-98%
+100%
   
 ### Build History
 ___
 |Status|Time|Duration|Test|Coverage|Inspection|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/10 11:10|0 min.|0||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/08/10 10:36|33 min.|0||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/10 10:00|0 min.|0||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/10 09:00|0 min.|0||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/10 08:00|0 min.|0||||||
