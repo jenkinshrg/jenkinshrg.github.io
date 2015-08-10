@@ -59,8 +59,8 @@ print "  "
 print "### Build History"
 print "___"
 
-print "|Status|Time|Duration|Test|Inspection|Changes|Logs|Note|"
-print "|---|---|---|---|---|---|---|---|---|"
+print "|Status|Time|Duration|Test|Coverage|Inspection|Changes|Logs|Note|"
+print "|---|---|---|---|---|---|---|---|---|---|"
 
 for build in builds:
     result = build['result']
@@ -74,7 +74,7 @@ for build in builds:
         continue
     failCount = ""
     try:
-        url = build['url'] + "testReport/api/json"
+        url = build['url'] + "testReport/api/json?tree=failCount"
         r = urllib2.urlopen(url)
         root = json.loads(r.read())
         failCount = root['failCount']
@@ -83,9 +83,24 @@ for build in builds:
     finally:
         r.close()
     cause = ""
+    ratio = ""
+    try:
+        url = build['url'] + "cobertura/api/json?tree=results[elements[*]]"
+        r = urllib2.urlopen(url)
+        root = json.loads(r.read())
+        elements = root['results']['elements']
+        n = 0
+        for element in elements:
+            if (n == 4):
+                ratio = element['ratio']
+            n += 1;
+    except:
+        pass
+    finally:
+        r.close()
     numberErrorSeverity = ""
     try:
-        url = build['url'] + "cppcheckResult/api/json"
+        url = build['url'] + "cppcheckResult/api/json?tree=numberErrorSeverity"
         r = urllib2.urlopen(url)
         root = json.loads(r.read())
         numberErrorSeverity = root['numberErrorSeverity']
@@ -119,4 +134,4 @@ for build in builds:
         pass
     finally:
         r.close()
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(failCount) + "|" + str(numberErrorSeverity) + "|" + changes + "|" + logs + "|" + cause + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(failCount) + "|" + str(ratio) + "|" + str(numberErrorSeverity) + "|" + changes + "|" + logs + "|" + cause + "|"
