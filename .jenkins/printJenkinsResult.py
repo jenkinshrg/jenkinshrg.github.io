@@ -56,26 +56,11 @@ print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")
 print str(stability) + "%"
 print "  "
 
-#print "### Build Trend"
-#print "___"
-#print "* test"
-#print "  "
-#print "![Test Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/test.png)"
-#print "  "
-#print "* code counter(cccc)"
-#print "  "
-#print "![Cccc Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/cccc.png)"
-#print "  "
-#print "* code checker(cppcheck)"
-#print "  "
-#print "![Cppcheck Trend](http://jenkinshrg.github.io/" + sys.argv[1] + "/cppcheck.png)"
-#print "  "
-
 print "### Build History"
 print "___"
 
-print "|Status|Time|Duration|Changes|Logs|Note|"
-print "|---|---|---|---|---|---|---|"
+print "|Status|Time|Duration|Test|Inspection|Changes|Logs|Note|"
+print "|---|---|---|---|---|---|---|---|---|"
 
 for build in builds:
     result = build['result']
@@ -87,19 +72,27 @@ for build in builds:
         color = "red"
     else:
         continue
+    failCount = ""
+    try:
+        url = build['url'] + "testReport/api/json"
+        r = urllib2.urlopen(url)
+        root = json.loads(r.read())
+        failCount = root['failCount']
+    except:
+        pass
+    finally:
+        r.close()
     cause = ""
-#    if result == "UNSTABLE":
-#        try:
-#            url = build['url'] + "testReport/api/json?tree=suites[cases[errorDetails,errorStackTrace]]"
-#            r = urllib2.urlopen(url)
-#            root = json.loads(r.read())
-#            errorDetails = root['suites'][0]['cases'][0]['errorDetails']
-#            errorStackTrace = root['suites'][0]['cases'][0]['errorStackTrace']
-#            cause = errorDetails + " " + errorStackTrace
-#        except:
-#            pass
-#        finally:
-#            r.close()
+    numberErrorSeverity = ""
+    try:
+        url = build['url'] + "cppcheckResult/api/json"
+        r = urllib2.urlopen(url)
+        root = json.loads(r.read())
+        numberErrorSeverity = root['numberErrorSeverity']
+    except:
+        pass
+    finally:
+        r.close()
     changes = ""
     try:
         url = build['url'] + "artifact/changes.txt"
@@ -126,4 +119,4 @@ for build in builds:
         pass
     finally:
         r.close()
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + changes + "|" + logs + "|" + cause + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" failCount + "|" + numberErrorSeverity + "|" + changes + "|" + logs + "|" + cause + "|"
