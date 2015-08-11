@@ -11,7 +11,7 @@ ___
 ___
 |Status|Time|Duration|Test|Coverage|Inspection|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/11 11:08|0 min.||38|||||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/11 11:08|34 min.|0|38|75||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/11 10:00|35 min.|0|38|75||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/11 09:00|34 min.|0|38|75||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/11 08:00|34 min.|0|38|75||||
