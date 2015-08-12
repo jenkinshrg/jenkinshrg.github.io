@@ -11,4 +11,4 @@ ___
 |[jenkinshrg-drcutil-ubuntu-trusty-amd64-ex-slave](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64-ex-slave)|![Build Status](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64-ex-slave/badge.svg)|
 |[jenkinshrg-drcutil-ubuntu-trusty-amd64-slave-ubuntu-trusty-amd64](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64-slave-ubuntu-trusty-amd64)|![Build Status](http://jenkinshrg.github.io/jenkinshrg-drcutil-ubuntu-trusty-amd64-slave-ubuntu-trusty-amd64/badge.svg)|
   
-Last update : 2015/08/12 20:30:07
+Last update : 2015/08/12 21:30:08
