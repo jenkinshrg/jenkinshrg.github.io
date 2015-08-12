@@ -5,7 +5,7 @@ import sys, urllib2, json
 from datetime import datetime
 
 try:
-    url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=builds[number,result,timestamp,duration,url]'
+    url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=builds[building,duration,number,result,timestamp,url]'
     r = urllib2.urlopen(url)
     root = json.loads(r.read())
     builds = root['builds']
