@@ -63,6 +63,9 @@ print "|Status|Time|Duration|Test|Coverage|Inspection|Changes|Logs|Note|"
 print "|---|---|---|---|---|---|---|---|---|---|"
 
 for build in builds:
+    building = build['building']
+    if building == True:
+        continue
     result = build['result']
     if result == "SUCCESS":
         color = "blue"
@@ -70,8 +73,6 @@ for build in builds:
         color = "yellow"
     elif result == "FAILURE":
         color = "red"
-    else:
-        continue
     failCount = ""
     try:
         url = build['url'] + "testReport/api/json?tree=failCount"
@@ -82,7 +83,6 @@ for build in builds:
         pass
     finally:
         r.close()
-    cause = ""
     ratio = ""
     try:
         url = build['url'] + "cobertura/api/json?tree=results[elements[*]]"
@@ -139,4 +139,5 @@ for build in builds:
         pass
     finally:
         r.close()
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + str(result) + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(failCount) + "|" + str(ratio) + "|" + str(numberErrorSeverity) + "|" + changes + "|" + logs + "|" + cause + "|"
+    causes = ""
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(failCount) + "|" + str(ratio) + "|" + str(numberErrorSeverity) + "|" + changes + "|" + logs + "|" + causes + "|"
