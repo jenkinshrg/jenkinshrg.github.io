@@ -59,7 +59,7 @@ print "  "
 print "### Build History"
 print "___"
 
-print "|Status|Time|Duration|Test|Coverage|<span class='badge'>cppcheck</span>|Changes|Logs|Note|"
+print "|Status|Time|Duration|Coverage|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Changes|Logs|Note|"
 print "|---|---|---|---|---|---|---|---|---|---|"
 
 for build in builds:
@@ -140,4 +140,4 @@ for build in builds:
     finally:
         r.close()
     causes = ""
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(failCount) + "|" + str(ratio) + "|" + str(numberErrorSeverity) + "|" + changes + "|" + logs + "|" + causes + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(ratio) + "|" + str(failCount) + "|" + str(numberErrorSeverity) + "|" + changes + "|" + logs + "|" + causes + "|"
