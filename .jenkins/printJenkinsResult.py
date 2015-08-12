@@ -59,7 +59,7 @@ print "  "
 print "### Build History"
 print "___"
 
-print "|Status|Time|Duration|Test|Coverage|<span class="badge">cppcheck</span>|Changes|Logs|Note|"
+print "|Status|Time|Duration|Test|Coverage|<span class='badge'>cppcheck</span>|Changes|Logs|Note|"
 print "|---|---|---|---|---|---|---|---|---|---|"
 
 for build in builds:
