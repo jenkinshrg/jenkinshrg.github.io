@@ -4,8 +4,8 @@ layout: default
 ## drcutil-64
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-100%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+0%
   
 ### Build History
 ___
