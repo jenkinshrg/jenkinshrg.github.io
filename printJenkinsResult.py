@@ -4,8 +4,14 @@
 import sys, urllib2, json
 from datetime import datetime
 
+name = sys.argv[1]
+if len(sys.argv) > 2:
+    url = sys.argv[2]
+else:
+    url = "http://localhost:8080"
+
 try:
-    url = sys.argv[2] + 'job/' + sys.argv[1] + '/api/json?tree=builds[building,duration,number,result,timestamp,url]'
+    url = url + '/job/' + name + '/api/json?tree=builds[building,duration,number,result,timestamp,url]'
     r = urllib2.urlopen(url)
     root = json.loads(r.read())
     builds = root['builds']
