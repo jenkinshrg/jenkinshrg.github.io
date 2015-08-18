@@ -11,4 +11,4 @@ ___
 |[drcutil-32](http://jenkinshrg.github.io/drcutil-32)|![Build Status](http://jenkinshrg.github.io/drcutil-32/badge.svg)|
 |[drcutil-64](http://jenkinshrg.github.io/drcutil-64)|![Build Status](http://jenkinshrg.github.io/drcutil-64/badge.svg)|
   
-Last update : 2015/08/18 23:30:06
+Last update : 2015/08/19 00:30:06
