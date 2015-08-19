@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## drcutil-64
+## drcutil-desktop
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
