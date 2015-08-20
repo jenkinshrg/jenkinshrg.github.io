@@ -32,7 +32,8 @@ print "|Name|Status|"
 print "|---|---|"
 
 for job in jobs:
-    print "|[" + job['name'] + "](http://jenkinshrg.github.io/" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + "/badge.svg)|"
+    if job['name'] != "drcutil":
+        print "|[" + job['name'] + "](http://jenkinshrg.github.io/" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + "/badge.svg)|"
 
 print "  "
 print "Last update : " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
