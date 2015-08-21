@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-82%
+83%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/21 14:38|1 min.|0|54|38||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/21 12:01|0 min.|0|54|38||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/08/20 23:01|0 min.|0|54|38||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/08/20 20:01|0 min.|0|||[48d574b](https://github.com/jrl-umi3218/hmc2/commit/48d574b63e8fc0f5aeddcdec56070e17f02c1142)<br>[be912f8](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/be912f8edce611b040545de22060705c4fc15086)<br>|||
