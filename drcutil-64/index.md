@@ -4,13 +4,14 @@ layout: default
 ## drcutil-64
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-59%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
+60%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/08 14:01|53 min.|0|75|38|[5b4fa6e](https://github.com/fkanehiro/hrpsys-base/commit/5b4fa6e)<br>[89eabe7](https://github.com/fkanehiro/hrpsys-base/commit/89eabe7)<br>[35d38a1](https://github.com/fkanehiro/hrpsys-base/commit/35d38a1)<br>[877feb9](https://github.com/fkanehiro/hrpsys-base/commit/877feb9)<br>[b72693e](https://github.com/fkanehiro/hrpsys-base/commit/b72693e)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4T3c5MXZQcDZaaUk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/08 13:01|53 min.|0|75|38|[d27ff20](https://github.com/jrl-umi3218/hrp2-drc/commit/d27ff20)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dkhiTG9KZFpBaHM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/08 11:01|50 min.|0|75|38|66e04f3<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4X0N1ODRnYWZMTm8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/08 09:03|34 min.|||||||
