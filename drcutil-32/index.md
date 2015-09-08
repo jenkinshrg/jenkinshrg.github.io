@@ -4,13 +4,14 @@ layout: default
 ## drcutil-32
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-59%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
+60%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/09 01:01|26 min.|0|54|38|[a89235b](https://github.com/jrl-umi3218/hmc2/commit/a89235bf7a5e10e382e87a9b6383ca20ddf407c1)<br>[437317d](https://github.com/jrl-umi3218/hmc2/commit/437317d70d081efb8f8a878f8711df9d2e7cc3d7)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ejFROFg5dWZOX0k/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/08 17:01|26 min.|0|54|38|[1b50f6e](https://github.com/fkanehiro/hrpsys-base/commit/1b50f6ec85ad798d21f72af8d57834ecd911a73f)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4RFlLVktVN2pLSHM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/08 15:02|26 min.|0|54|38|[9265718](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/92657188e6b9d7b3e7c75dbe7a1d763e573dcb5a)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4dWRXUGhRdVZ6Qm8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/08 14:01|25 min.|0|54|38|[5b4fa6e](https://github.com/fkanehiro/hrpsys-base/commit/5b4fa6eb25a1056622d1c8c6a8e3814f6d69e3e3)<br>[89eabe7](https://github.com/fkanehiro/hrpsys-base/commit/89eabe7e29e4f16d9105f12f4e9115ba3cc5e525)<br>[35d38a1](https://github.com/fkanehiro/hrpsys-base/commit/35d38a1210a46be14e5a85e8a97c95e21ae3920d)<br>[877feb9](https://github.com/fkanehiro/hrpsys-base/commit/877feb92c4febaeeef34638c721b8c2d49f0963a)<br>[b72693e](https://github.com/fkanehiro/hrpsys-base/commit/b72693e15a8f55bfccf55d789e4fcdc6f82e118d)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZHA1MlllM293b2c/view?usp=drivesdk)<br>||
