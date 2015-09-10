@@ -11,6 +11,7 @@ ___
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/10 20:01|26 min.|0|54|38|[34f7b86](https://github.com/jrl-umi3218/hmc2/commit/34f7b869bd097f413a80e1d8feb07d6d30e58fee)<br>[ced5dde](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/ced5dde37600c41eec4d79e419bc588b07bf5194)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4R3VNMHFNaGNqZlE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/10 17:01|0 min.|0|54|38||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/10 16:01|0 min.|0|54|38||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/10 14:02|0 min.|0|54|38||||
