@@ -5,12 +5,14 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-0%
+6%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/17 17:26|0 min.|||||||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 16:49|36 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 15:49|26 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 07:01|0 min.||||[8e0d27d](https://github.com/jrl-umi3218/hmc2/commit/8e0d27d)<br>[c3ec423](https://github.com/jrl-umi3218/hrpcnoid/commit/c3ec423)<br>[9f8de88](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/9f8de88)<br>|||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 02:01|0 min.||||9189a8a<br>8859267<br>9b13703<br>5d0dbeb<br>cbdde6a<br>8873f4a<br>53f70d2<br>|||
