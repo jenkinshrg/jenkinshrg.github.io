@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-52%
+54%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/18 13:01|26 min.|0|54|38|[e01562b](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/e01562be74df144d07c2fcd6b51930cfa7eda6fc)<br>[5703767](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/5703767462aed42f74328fbcbc555e83ada00894)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4d1ZqS2JPTnp4Ym8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/18 10:01|26 min.|0|54|38|[43b4652](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/43b4652f6596e69553adbe6f29a44a24f97305c4)<br>[39e6922](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/39e69229c55ba547547e6c430a7300c54398fcd4)<br>[6741536](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/6741536c31f3d463c41c97d3519ab1cef7657fd6)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VkFJZ2ZsekwtUXM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/18 09:29|0 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/18 08:46|43 min.|||||||
