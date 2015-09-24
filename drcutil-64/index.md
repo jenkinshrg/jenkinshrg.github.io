@@ -4,13 +4,14 @@ layout: default
 ## drcutil-64
 ### Build Stability
 ___
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-50%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
+61%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/24 08:01|51 min.|0|75|38|[272cdae](https://github.com/jrl-umi3218/hrpcnoid/commit/272cdae)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4X1BvOXhUZUxBSGM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/23 21:01|54 min.|0|75|38|[15fe735](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/15fe735)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4cjdTcmE3QU1rTmM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/23 14:01|55 min.|0|75|38|[c449852](https://github.com/jrl-umi3218/hmc2/commit/c449852)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4YjlkaEpRSU14aG8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/23 13:01|0 min.|0|||[b3be635](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/b3be635)<br>|||
@@ -28,6 +29,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/17 17:26|0 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 16:49|36 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 15:49|26 min.|||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 07:01|0 min.||||[8e0d27d](https://github.com/jrl-umi3218/hmc2/commit/8e0d27d)<br>[c3ec423](https://github.com/jrl-umi3218/hrpcnoid/commit/c3ec423)<br>[9f8de88](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/9f8de88)<br>|||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 02:01|0 min.||||9189a8a<br>8859267<br>9b13703<br>5d0dbeb<br>cbdde6a<br>8873f4a<br>53f70d2<br>|||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/16 22:01|0 min.||||[1e9499f](https://github.com/fkanehiro/openhrp3/commit/1e9499f)<br>[580709f](https://github.com/fkanehiro/openhrp3/commit/580709f)<br>|||
