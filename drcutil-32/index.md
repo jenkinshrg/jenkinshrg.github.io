@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-89%
+95%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/24 16:01|26 min.|0|54|38|[da3d5c0](https://github.com/fkanehiro/hrpsys-base/commit/da3d5c03278fa29e6f90aa7f1c8db77d18071fbe)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4bklPTExRQm85Um8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/24 10:02|26 min.|0|54|38|[b20afe2](https://github.com/fkanehiro/hrpsys-base/commit/b20afe2242b6243af881dc100e3259bc193e28e0)<br>[72e81a3](https://github.com/fkanehiro/hrpsys-base/commit/72e81a398a610b2da6f34eac63e86937ce231b41)<br>[ff82bfb](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/ff82bfb5e04451e5c11c3f929c01370f6065b9bc)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aEZSSTFRNVJrR0E/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/24 08:01|0 min.|0|54|38||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/23 21:01|26 min.|0|54|38|[15fe735](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/15fe735e3fc5dca80c655e6e332c0d886d2a9419)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4T3pBRWZWeEhPbEU/view?usp=drivesdk)<br>||
@@ -29,4 +30,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/17 18:01|0 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/17 17:29|0 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/17 16:50|39 min.|||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2015/09/17 16:04|29 min.|||||||
