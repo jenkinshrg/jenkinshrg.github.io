@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-96%
+97%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/28 13:01|0 min.|0|54|38||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/28 11:01|26 min.|0|54|38|[4b029d4](https://github.com/jrl-umi3218/hmc2/commit/4b029d40350d4b6b25ffc3df1118bdcf1b445b4d)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4OGk5aW5BRXAxaWs/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/28 09:01|0 min.|0|54|38||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/09/27 23:01|0 min.|0|54|38||||
