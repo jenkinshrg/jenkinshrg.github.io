@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
-62%
+63%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/10/05 23:01|55 min.|0|75|38|c2b73fb<br>c5a82c5<br>095b7e7<br>df78dfb<br>0be0fbc<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4cXBVQlpDbm1DZGc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/10/05 19:01|56 min.|0|75|38|6c40366<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ZlJlMWhVQ2ktT1k/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/10/05 17:01|55 min.|0|75|38|54e4205<br>[c24af6a](https://github.com/jvrc/JVRCPlugin/commit/c24af6a)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UFVIa1YyWUNHNk0/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/10/05 16:01|55 min.|0|75|38|f9aa95d<br>1b07446<br>[3eab3c9](https://github.com/jvrc/JVRCPlugin/commit/3eab3c9)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4YlVQN2NSak13NWs/view?usp=drivesdk)<br>||
