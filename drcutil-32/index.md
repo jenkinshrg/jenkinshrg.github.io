@@ -5,12 +5,13 @@ layout: default
 ### Build Stability
 ___
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-86%
+87%
   
 ### Build History
 ___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/12/16 13:00|29 min.|0|54|47|[d64c6bf](https://github.com/jrl-umi3218/hmc2/commit/d64c6bf40dc7599511a7a785dae54e1021ab5640)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4di0xb0pZSUZtNzQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/12/16 12:00|0 min.|0|54|47||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/12/15 21:00|26 min.|0|54|47|[740d8ba](https://github.com/fkanehiro/hrpsys-base/commit/740d8baa4e6804c8457525782e59e9eee27ce5f6)<br>[bf7fb45](https://github.com/fkanehiro/hrpsys-base/commit/bf7fb45dec1253b5d3978f8b6a24aa11f217efe8)<br>[448e96e](https://github.com/fkanehiro/hrpsys-base/commit/448e96e8d8a862c9ae3fc41ce06e9f7901c81131)<br>[c6011b8](https://github.com/fkanehiro/hrpsys-base/commit/c6011b865283d9892934d2e2c76a63b15c0f0074)<br>[36badb4](https://github.com/fkanehiro/hrpsys-base/commit/36badb407b504a35de84e93efc548667498b6368)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4UkNTV2lXbm9CWGM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2015/12/15 18:00|0 min.|0|54|47||||
