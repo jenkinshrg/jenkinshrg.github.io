@@ -2,16 +2,16 @@
 layout: default
 ---
 ## Build and test report
-Last update : 2016/01/07 14:14:09
+Last update : 2016/01/07 14:29:42
   
 ### Job Summary
 ___
   
 |Name|Status|
 |---|---|
-|[drcutil-32](http://jenkinshrg.github.io/drcutil-32)|![Build Status](http://jenkinshrg.github.io/drcutil-32.svg)|
-|[drcutil-64](http://jenkinshrg.github.io/drcutil-64)|![Build Status](http://jenkinshrg.github.io/drcutil-64.svg)|
-|[drcutil-desktop](http://jenkinshrg.github.io/drcutil-desktop)|![Build Status](http://jenkinshrg.github.io/drcutil-desktop.svg)|
+|[drcutil-32](http://jenkinshrg.github.io#drcutil-32)|![Build Status](http://jenkinshrg.github.io/drcutil-32.svg)|
+|[drcutil-64](http://jenkinshrg.github.io#drcutil-64)|![Build Status](http://jenkinshrg.github.io/drcutil-64.svg)|
+|[drcutil-desktop](http://jenkinshrg.github.io#drcutil-desktop)|![Build Status](http://jenkinshrg.github.io/drcutil-desktop.svg)|
 ## drcutil-32
 ### Build Stability
 ___
