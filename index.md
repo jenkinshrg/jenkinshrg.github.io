@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Build and test report
-Last update : 2016/01/07 14:29:42
+Last update : 2016/01/07 14:30:07
   
 ### Job Summary
 ___
