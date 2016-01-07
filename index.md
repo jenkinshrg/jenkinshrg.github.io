@@ -11,10 +11,7 @@ ___
 |[drcutil-64](http://jenkinshrg.github.io/drcutil-64)|![Build Status](http://jenkinshrg.github.io/drcutil-64.svg)|
 |[drcutil-desktop](http://jenkinshrg.github.io/drcutil-desktop)|![Build Status](http://jenkinshrg.github.io/drcutil-desktop.svg)|
   
-Last update : 2016/01/07 14:03:16
----
-layout: default
----
+Last update : 2016/01/07 14:04:43
 ## drcutil-32
 ### Build Stability
 ___
@@ -31,9 +28,6 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 16:01|0 min.|0||47|[cf9bc89](https://github.com/jrl-umi3218/hmc2/commit/cf9bc8928ba9ad7fb82fabbf17760751c6a500ce)<br>[1c63337](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/1c63337987437b682e389cc447295624f55418ab)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aUEyVmplQzRzTUE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 14:01|0 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 08:51|74 min.|||||||
----
-layout: default
----
 ## drcutil-64
 ### Build Stability
 ___
@@ -50,9 +44,6 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 16:01|52 min.|0|71|47|[cf9bc89](https://github.com/jrl-umi3218/hmc2/commit/cf9bc89)<br>[1c63337](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/1c63337)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4RVA2T3dwRUlkbDQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 14:01|53 min.|0|71|47|[c6a6bd8](https://github.com/jrl-umi3218/hrpcnoid/commit/c6a6bd8)<br>[7e7e997](https://github.com/jrl-umi3218/hrpcnoid/commit/7e7e997)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VXpHUzZ1a3B0QXc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 08:51|79 min.|||||||
----
-layout: default
----
 ## drcutil-desktop
 ### Build Stability
 ___
