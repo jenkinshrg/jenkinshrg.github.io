@@ -24,6 +24,8 @@ print "layout: default"
 print "---"
 
 print "## Build and test report"
+print "Last update : " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
+print "  "
 
 print "### Job Summary"
 print "___"
@@ -35,5 +37,3 @@ for job in jobs:
     if job['name'] != "drcutil":
         print "|[" + job['name'] + "](http://jenkinshrg.github.io/" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + ".svg)|"
 
-print "  "
-print "Last update : " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
