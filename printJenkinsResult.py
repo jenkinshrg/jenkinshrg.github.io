@@ -49,10 +49,6 @@ else:
     stability = 0
     iconUrl = "health-00to19.png"
 
-print "---"
-print "layout: default"
-print "---"
-
 print "## " + sys.argv[1]
 
 print "### Build Stability"
