@@ -52,13 +52,13 @@ else:
 print "### " + sys.argv[1]
 print "___"
 
-print "### Build Stability"
+print "#### Build Stability"
 
 print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")"
 print str(stability) + "%"
 print "  "
 
-print "### Build History"
+print "#### Build History"
 
 print "|Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|"
 print "|---|---|---|---|---|---|---|---|---|---|"
