@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-## Build and test report
-Last update : 2016/01/08 13:59:06
+Last update : 2016/01/08 14:05:12
   
 ### Job Summary
 ___
@@ -12,16 +11,16 @@ ___
 |[drcutil-32](http://jenkinshrg.github.io#drcutil-32)|![Build Status](http://jenkinshrg.github.io/drcutil-32.svg)|
 |[drcutil-64](http://jenkinshrg.github.io#drcutil-64)|![Build Status](http://jenkinshrg.github.io/drcutil-64.svg)|
 |[drcutil-desktop](http://jenkinshrg.github.io#drcutil-desktop)|![Build Status](http://jenkinshrg.github.io/drcutil-desktop.svg)|
-## drcutil-32
-### Build Stability
+### drcutil-32
 ___
+### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
 100%
   
 ### Build History
-___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/08 14:01|0 min.|0||47||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/08 12:01|0 min.|0||47||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/07 20:01|0 min.|0||47|[fe2eb60](https://github.com/jrl-umi3218/hmc2/commit/fe2eb609ccc6bcf361f5b6be7c2feb026e8080ab)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4bDlQckh0U0RHdUE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/07 19:01|1 min.|0||47|[93ca5f1](https://github.com/jrl-umi3218/hmc2/commit/93ca5f13ecb58fa52c3c2fe2a04855b2785ff210)<br>[3df67aa](https://github.com/fkanehiro/hrpsys-base/commit/3df67aa98d6c7eed60fe5f4ccfe1541cb1d4d796)<br>[ea439e9](https://github.com/fkanehiro/hrpsys-base/commit/ea439e926e5161181cb4d8b1a4a6488ffcb37b4a)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4WnVXdXV1Qm42X3M/view?usp=drivesdk)<br>||
@@ -33,14 +32,13 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 16:01|0 min.|0||47|[cf9bc89](https://github.com/jrl-umi3218/hmc2/commit/cf9bc8928ba9ad7fb82fabbf17760751c6a500ce)<br>[1c63337](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/1c63337987437b682e389cc447295624f55418ab)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4aUEyVmplQzRzTUE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 14:01|0 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 08:51|74 min.|||||||
-## drcutil-64
-### Build Stability
+### drcutil-64
 ___
+### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
 100%
   
 ### Build History
-___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/08 12:01|56 min.|0|71|47|feaafb7<br>a08fc7b<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4ejVLdGM1eTNzS00/view?usp=drivesdk)<br>||
@@ -54,14 +52,13 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 16:01|52 min.|0|71|47|[cf9bc89](https://github.com/jrl-umi3218/hmc2/commit/cf9bc89)<br>[1c63337](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/1c63337)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4RVA2T3dwRUlkbDQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 14:01|53 min.|0|71|47|[c6a6bd8](https://github.com/jrl-umi3218/hrpcnoid/commit/c6a6bd8)<br>[7e7e997](https://github.com/jrl-umi3218/hrpcnoid/commit/7e7e997)<br>|[BUILD](https://drive.google.com/file/d/0B54sHwaxmuM4VXpHUzZ1a3B0QXc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/06 08:51|79 min.|||||||
-## drcutil-desktop
-### Build Stability
+### drcutil-desktop
 ___
+### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
 16%
   
 ### Build History
-___
 |Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|
 |---|---|---|---|---|---|---|---|---|---|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/01/08 13:00|30 min.|1||||[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4UjNOZFV5QWNrVUk/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4WHkyWnlLU2lELVk/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4MktoREpQT1FkQzA/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4TFZQTGJxT1hWSkU/view?usp=drivesdk)<br>[IMAGE](https://drive.google.com/file/d/0B54sHwaxmuM4bmFIYmxxTVJvdTQ/view?usp=drivesdk)<br>[VIDEO](https://drive.google.com/file/d/0B54sHwaxmuM4OFo0SVZmRHdVNG8/view?usp=drivesdk)<br>[CONSOLE](https://drive.google.com/file/d/0B54sHwaxmuM4bGpkcm9GbFVlOVk/view?usp=drivesdk)<br>||
@@ -163,4 +160,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/01/04 15:00|0 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/01/04 14:00|0 min.|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/01/04 13:00|0 min.|||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/01/04 12:00|0 min.|||||||
