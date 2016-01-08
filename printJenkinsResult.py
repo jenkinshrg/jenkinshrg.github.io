@@ -49,17 +49,16 @@ else:
     stability = 0
     iconUrl = "health-00to19.png"
 
-print "## " + sys.argv[1]
+print "### " + sys.argv[1]
+print "___"
 
 print "### Build Stability"
-print "___"
 
 print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")"
 print str(stability) + "%"
 print "  "
 
 print "### Build History"
-print "___"
 
 print "|Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|"
 print "|---|---|---|---|---|---|---|---|---|---|"
