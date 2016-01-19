@@ -36,3 +36,7 @@ for job in jobs:
     if job['name'] != "drcutil":
         print "|[" + job['name'] + "](http://jenkinshrg.github.io#" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + ".svg)|"
 
+print "### Test Trend"
+print "___"
+print "![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)"
+print "![Test Trend](http://jenkinshrg.github.io/drcutil-desktop.png)"

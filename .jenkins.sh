@@ -1,5 +1,7 @@
 #!/bin/bash
 
+wget -q -O drcutil-64.png http://localhost:8080/job/drcutil-64/test/trend
+wget -q -O drcutil-desktop.png http://localhost:8080/job/drcutil-desktop/test/trend
 python printJenkinsResultSummary.py > index.md
 
 REPORT_JOB=drcutil-32
