@@ -38,5 +38,7 @@ for job in jobs:
 
 print "### Test Trend"
 print "___"
+print "#### Unit Test"
 print "![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)"
+print "#### Task Sequence"
 print "![Test Trend](http://jenkinshrg.github.io/drcutil-desktop.png)"
