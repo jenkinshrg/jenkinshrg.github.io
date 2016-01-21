@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/01/21 14:59:07
+Last update : 2016/01/21 15:14:10
   
 ### Job Summary
 ___
@@ -27,6 +27,7 @@ ___
 #### Build History
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 15:01|1 min.||0 err.|47 %|[7da57ea](https://github.com/jrl-umi3218/hmc2/commit/7da57eae9da789da96241c63092c83e16e114380)<br>[41aa1b9](https://github.com/jrl-umi3218/hmc2/commit/41aa1b9c47c5f2a5ecf4adaaebb0c58644fbe61d)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 14:01|0 min.||0 err.|47 %|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 10:01|0 min.||0 err.|47 %|[16a0988](https://github.com/jrl-umi3218/hmc2/commit/16a09885a2a9ace665007a3ef3214b2d45e6f407)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/20 19:01|0 min.||0 err.|47 %|||||||
@@ -56,7 +57,6 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 23:01|1 min.||0 err.|47 %|[bcadc5a](https://github.com/fkanehiro/hrpsys-base/commit/bcadc5a587fd825a0c994d25241761c42f08057c)<br>[5eb9954](https://github.com/fkanehiro/hrpsys-base/commit/5eb9954f7123e94c1176da6ee38e9327c21e638c)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 19:01|0 min.||0 err.|47 %|[3411bf4](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/3411bf41aebce71dd5f9ef5397d4f620c3c9cb6b)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 16:01|0 min.||0 err.|47 %|||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 15:01|1 min.||0 err.|47 %|[a24320c](https://github.com/jrl-umi3218/hmc2/commit/a24320ce4103d8cfd77433f65d03c82e4b5b8392)<br>[8aab7b6](https://github.com/jrl-umi3218/hmc2/commit/8aab7b66b7f51d3a0d93bca6cf5416c6cde7553a)<br>||||||
 <div id='drcutil-64'></div>
 ### drcutil-64
 ___
@@ -206,4 +206,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 07:31|68 min.||4 err.||||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 06:22|68 min.||3 err.||||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 05:13|68 min.||2 err.||||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 04:04|69 min.||2 err.||||||||
