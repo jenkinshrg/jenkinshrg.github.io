@@ -22,23 +22,25 @@ finally:
 print "---"
 print "layout: default"
 print "---"
-
 print "Last update : " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
 print "  "
-
+print "<div>"
+print "<div style='float: left'>"
 print "### Job Summary"
 print "___"
 print "  "
 print "|Name|Status|"
 print "|---|---|"
-
 for job in jobs:
     if job['name'] != "drcutil":
         print "|[" + job['name'] + "](http://jenkinshrg.github.io#" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + ".svg)|"
-
+print "</div>"
+print "<div style='float: right'>"
 print "### Test Trend"
 print "___"
 print "#### Unit Test"
 print "![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)"
 print "#### Task Sequence"
 print "![Test Trend](http://jenkinshrg.github.io/drcutil-desktop.png)"
+print "</div>"
+print "</div>"
