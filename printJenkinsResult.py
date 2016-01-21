@@ -62,8 +62,8 @@ print "  "
 
 print "#### Build History"
 
-print "|Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Logs|Note|"
-print "|---|---|---|---|---|---|---|---|---|---|"
+print "|Status|Time|Duration|<span class='badge'>ctest</span>|<span class='badge'>cppcheck</span>|Coverage|Changes|Build|Console|Image|Video|Note|"
+print "|---|---|---|---|---|---|---|---|---|---|---|---|---|"
 
 for build in builds:
     building = build['building']
@@ -129,20 +129,31 @@ for build in builds:
         pass
     finally:
         r.close()
-    logs = ""
+    build_files = ""
+    console_files = ""
+    image_files = ""
+    video_files = ""
     try:
         url = build['url'] + "artifact/googledrive.txt"
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
             line = line.strip()
-            label = line.split(",")[0]
-            url = line.split(",")[1]
-            logs += "[" + label + "](" + url + ")" + "<br>"
+            label = line.split(":")[0]
+            filename = line.split(":")[1]
+            url = line.split(":")[2]
+            if label == "BUILD":
+                build_files += "[" + filename + "](" + url + ")" + "<br>"
+            elif label == "CONSOLE":
+                console_files += "[" + filename + "](" + url + ")" + "<br>"
+            elif label == "IMAGE":
+                image_files += "[" + filename + "](" + url + ")" + "<br>"
+            elif label == "VIDEO":
+                video_files += "[" + filename + "](" + url + ")" + "<br>"
             line = r.readline()
     except:
         pass
     finally:
         r.close()
     causes = ""
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(failCount) + "|" + str(numberErrorSeverity) + "|" + str(ratio) + "|" + changes + "|" + logs + "|" + causes + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + str(failCount) + "|" + str(numberErrorSeverity) + "|" + str(ratio) + "|" + changes + "|" + build_files + "|" + console_files + "|" + image_files + "|" + video_files + "|" + causes + "|"
