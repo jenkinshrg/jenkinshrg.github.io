@@ -145,9 +145,9 @@ for build in builds:
         line = r.readline()
         while line:
             line = line.strip()
-            label = line.split(":")[0]
-            filename = line.split(":")[1]
-            url = line.split(":")[2]
+            label = line.split(",")[0]
+            filename = line.split(",")[1]
+            url = line.split(",")[2]
             if label == "BUILD":
                 build_files += "[" + filename + "](" + url + ")" + "<br>"
             elif label == "CONSOLE":
