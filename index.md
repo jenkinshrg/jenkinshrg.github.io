@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/01/21 13:24:17
+Last update : 2016/01/21 15:14:10
   
 ### Job Summary
 ___
@@ -22,11 +22,13 @@ ___
 ___
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-94%
+100%
   
 #### Build History
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 15:01|1 min.||0 err.|47 %|[7da57ea](https://github.com/jrl-umi3218/hmc2/commit/7da57eae9da789da96241c63092c83e16e114380)<br>[41aa1b9](https://github.com/jrl-umi3218/hmc2/commit/41aa1b9c47c5f2a5ecf4adaaebb0c58644fbe61d)<br>||||||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 14:01|0 min.||0 err.|47 %|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 10:01|0 min.||0 err.|47 %|[16a0988](https://github.com/jrl-umi3218/hmc2/commit/16a09885a2a9ace665007a3ef3214b2d45e6f407)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/20 19:01|0 min.||0 err.|47 %|||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/20 17:01|0 min.||0 err.|47 %|[ec14f64](https://github.com/jrl-umi3218/hmc2/commit/ec14f647136c313da28c9721fc5095fc25cc3962)<br>||||||
@@ -55,11 +57,6 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 23:01|1 min.||0 err.|47 %|[bcadc5a](https://github.com/fkanehiro/hrpsys-base/commit/bcadc5a587fd825a0c994d25241761c42f08057c)<br>[5eb9954](https://github.com/fkanehiro/hrpsys-base/commit/5eb9954f7123e94c1176da6ee38e9327c21e638c)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 19:01|0 min.||0 err.|47 %|[3411bf4](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/3411bf41aebce71dd5f9ef5397d4f620c3c9cb6b)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 16:01|0 min.||0 err.|47 %|||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 15:01|1 min.||0 err.|47 %|[a24320c](https://github.com/jrl-umi3218/hmc2/commit/a24320ce4103d8cfd77433f65d03c82e4b5b8392)<br>[8aab7b6](https://github.com/jrl-umi3218/hmc2/commit/8aab7b66b7f51d3a0d93bca6cf5416c6cde7553a)<br>||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 12:57|0 min.||||||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 11:04|57 min.||||||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/01/14 10:32|5 min.||||||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/01/14 10:23|4 min.||||||||||
 <div id='drcutil-64'></div>
 ### drcutil-64
 ___
@@ -70,6 +67,7 @@ ___
 #### Build History
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 14:01|51 min.|71 err.|0 err.|47 %|[baad1bb](https://github.com/jrl-umi3218/hrpcnoid/commit/baad1bb)<br>[2f9cc15](https://github.com/jrl-umi3218/hrpcnoid/commit/2f9cc15)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 10:01|51 min.|71 err.|0 err.|47 %|[16a0988](https://github.com/jrl-umi3218/hmc2/commit/16a0988)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/20 19:01|50 min.|71 err.|0 err.|47 %|xxxxxxx<br>[ff10597](https://github.com/jrl-umi3218/hrpcnoid/commit/ff10597)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/20 17:01|51 min.|71 err.|0 err.|47 %|[ec14f64](https://github.com/jrl-umi3218/hmc2/commit/ec14f64)<br>||||||
@@ -99,7 +97,6 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 19:01|51 min.|71 err.|0 err.|47 %|[3411bf4](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/3411bf4)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 16:01|51 min.|71 err.|0 err.|47 %|[7d9d75d](https://github.com/jrl-umi3218/hrpcnoid/commit/7d9d75d)<br>[07a4d32](https://github.com/jrl-umi3218/hrpcnoid/commit/07a4d32)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 15:01|51 min.|71 err.|0 err.|47 %|[a24320c](https://github.com/jrl-umi3218/hmc2/commit/a24320c)<br>[8aab7b6](https://github.com/jrl-umi3218/hmc2/commit/8aab7b6)<br>||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 12:57|0 min.||||||||||
 <div id='drcutil-desktop'></div>
 ### drcutil-desktop
 ___
@@ -110,6 +107,8 @@ ___
 #### Build History
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/21 14:00|45 min.||2 err.||[baad1bb](https://github.com/jrl-umi3218/hrpcnoid/commit/baad1bb)<br>[2f9cc15](https://github.com/jrl-umi3218/hrpcnoid/commit/2f9cc15)<br>||||||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/21 13:00|44 min.||2 err.||||[jenkinshrg.txt](https://drive.google.com/file/d/0B54sHwaxmuM4Q2lJVmNmdVR3eFE/view?usp=drivesdk)<br>[testbed-terrain.txt](https://drive.google.com/file/d/0B54sHwaxmuM4bG5vZGhobzJqckk/view?usp=drivesdk)<br>[drc-valves.txt](https://drive.google.com/file/d/0B54sHwaxmuM4OF9xRGliMW14Nnc/view?usp=drivesdk)<br>[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4bjl4WjB6TlRJWmM/view?usp=drivesdk)<br>[irex-balance-beam-auto.txt](https://drive.google.com/file/d/0B54sHwaxmuM4ZXYwWTI4RVk3Um8/view?usp=drivesdk)<br>|[jenkinshrg.png](https://drive.google.com/file/d/0B54sHwaxmuM4cjMxRGNPTFMzT2s/view?usp=drivesdk)<br>[testbed-terrain.png](https://drive.google.com/file/d/0B54sHwaxmuM4QWtnT3ZEeHJFTTg/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4dEFldFp3OHpwYTA/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4QkFLMi00eFpsSWM/view?usp=drivesdk)<br>[irex-balance-beam-auto.png](https://drive.google.com/file/d/0B54sHwaxmuM4WHJSY0g0WV96bms/view?usp=drivesdk)<br>|[jenkinshrg.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4a3V2SkNacURLeGM/view?usp=drivesdk)<br>[testbed-terrain.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4cGVDZlQ2aUJwczA/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4c2RKblptd255Mnc/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4dk8xMUpueW5HM1k/view?usp=drivesdk)<br>[irex-balance-beam-auto.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4aFhiRzFSQmZ4M2s/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/21 12:00|44 min.||1 err.||||[jenkinshrg.txt](https://drive.google.com/file/d/0B54sHwaxmuM4MmFpaFE3V1poSjQ/view?usp=drivesdk)<br>[testbed-terrain.txt](https://drive.google.com/file/d/0B54sHwaxmuM4Wnc0ckN4bG5VSk0/view?usp=drivesdk)<br>[drc-valves.txt](https://drive.google.com/file/d/0B54sHwaxmuM4aTNiQzFQcUVtSDA/view?usp=drivesdk)<br>[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4cVdkY053SmFqLWs/view?usp=drivesdk)<br>[irex-balance-beam-auto.txt](https://drive.google.com/file/d/0B54sHwaxmuM4RGc3RW9yMk12YUk/view?usp=drivesdk)<br>|[jenkinshrg.png](https://drive.google.com/file/d/0B54sHwaxmuM4ZzZGd2xvZ05fdEE/view?usp=drivesdk)<br>[testbed-terrain.png](https://drive.google.com/file/d/0B54sHwaxmuM4YnU3QVlfQ1Boa1U/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4TUxhVGNVN0RDcDg/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4c3BrYkQwMXVyMzQ/view?usp=drivesdk)<br>[irex-balance-beam-auto.png](https://drive.google.com/file/d/0B54sHwaxmuM4VEE2QXMtSUJNblU/view?usp=drivesdk)<br>|[jenkinshrg.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4MHdwXzdzbURQYmM/view?usp=drivesdk)<br>[testbed-terrain.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4RE00WjdZamI0aGM/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4YlNWbm0wb1gyX1U/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4NDMtbFZXMVJtLW8/view?usp=drivesdk)<br>[irex-balance-beam-auto.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4Z2syTEM0dEgwYUE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/21 11:00|44 min.||1 err.||||[jenkinshrg.txt](https://drive.google.com/file/d/0B54sHwaxmuM4cTFQaFBYQUM2RDg/view?usp=drivesdk)<br>[testbed-terrain.txt](https://drive.google.com/file/d/0B54sHwaxmuM4QWFLNjZ0VDduaXc/view?usp=drivesdk)<br>[drc-valves.txt](https://drive.google.com/file/d/0B54sHwaxmuM4OWg1aEFKcldZSnc/view?usp=drivesdk)<br>[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4NThNLThJUUlVcE0/view?usp=drivesdk)<br>[irex-balance-beam-auto.txt](https://drive.google.com/file/d/0B54sHwaxmuM4QzNRVDY0X2RlMEk/view?usp=drivesdk)<br>|[jenkinshrg.png](https://drive.google.com/file/d/0B54sHwaxmuM4SzhZN1JYY3VLMW8/view?usp=drivesdk)<br>[testbed-terrain.png](https://drive.google.com/file/d/0B54sHwaxmuM4SzZONXBSRllJRlE/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4VjRXQjZvel90TFU/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4aGQ0cFFWekVRUlU/view?usp=drivesdk)<br>[irex-balance-beam-auto.png](https://drive.google.com/file/d/0B54sHwaxmuM4WDNlOGMyZDI1Y2M/view?usp=drivesdk)<br>|[jenkinshrg.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4Ym5ibHotdjhBcWM/view?usp=drivesdk)<br>[testbed-terrain.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4eWZDTWxvN1d1aVE/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4cDQ5R21qT0dMeGc/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4UEFJVU9QWE1nVjg/view?usp=drivesdk)<br>[irex-balance-beam-auto.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4MWVWUTdmUGdnbFE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/21 10:00|45 min.||1 err.||[16a0988](https://github.com/jrl-umi3218/hmc2/commit/16a0988)<br>||||||
@@ -207,5 +206,3 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 07:31|68 min.||4 err.||||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 06:22|68 min.||3 err.||||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 05:13|68 min.||2 err.||||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 04:04|69 min.||2 err.||||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/01/17 02:55|69 min.||2 err.||||||||
