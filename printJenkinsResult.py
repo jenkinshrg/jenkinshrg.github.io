@@ -140,7 +140,7 @@ for build in builds:
     image_files = ""
     video_files = ""
     try:
-        url = build['url'] + "artifact/googledrive.txt"
+        url = build['url'] + "artifact/artifacts.txt"
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
