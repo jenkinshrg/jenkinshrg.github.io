@@ -104,7 +104,7 @@ for build in builds:
     finally:
         r.close()
     if ratio != "":
-        ratio += " %"
+        ratio = str(ratio) + " %"
     numberErrorSeverity = ""
     try:
         url = build['url'] + "cppcheckResult/api/json?tree=numberErrorSeverity"
@@ -116,7 +116,7 @@ for build in builds:
     finally:
         r.close()
     if numberErrorSeverity != "":
-        numberErrorSeverity += " err."
+        numberErrorSeverity = str(numberErrorSeverity) + " err."
     changes = ""
     try:
         url = build['url'] + "artifact/changes.txt"
