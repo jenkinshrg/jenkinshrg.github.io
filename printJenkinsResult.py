@@ -124,12 +124,14 @@ for build in builds:
         line = r.readline()
         while line:
             line = line.strip()
-            githuburl = line.split(",")[0]
+            dirname = line.split(",")[0]
             commitid = line.split(",")[1]
+            githuburl = line.split(",")[2]
+            tmp = dirname + "/" + commitid
             if (githuburl != ""):
-                changes += "[" + commitid + "](" + githuburl + ")" + "<br>"
+                changes += "[" + tmp + "](" + githuburl + ")" + "<br>"
             else:
-                changes += commitid + "<br>"
+                changes += tmp + "<br>"
             line = r.readline()
     except:
         pass
@@ -147,15 +149,15 @@ for build in builds:
             line = line.strip()
             label = line.split(",")[0]
             filename = line.split(",")[1]
-            url = line.split(",")[2]
+            googleurl = line.split(",")[2]
             if label == "BUILD":
-                build_files += "[" + filename + "](" + url + ")" + "<br>"
+                build_files += "[" + filename + "](" + googleurl + ")" + "<br>"
             elif label == "CONSOLE":
-                console_files += "[" + filename + "](" + url + ")" + "<br>"
+                console_files += "[" + filename + "](" + googleurl + ")" + "<br>"
             elif label == "IMAGE":
-                image_files += "[" + filename + "](" + url + ")" + "<br>"
+                image_files += "[" + filename + "](" + googleurl + ")" + "<br>"
             elif label == "VIDEO":
-                video_files += "[" + filename + "](" + url + ")" + "<br>"
+                video_files += "[" + filename + "](" + googleurl + ")" + "<br>"
             line = r.readline()
     except:
         pass
