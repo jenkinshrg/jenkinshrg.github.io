@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-Last update : 2016/01/21 15:25:47
+Last update : 2016/01/21 15:28:46
   
-<div>
-<div style='float: left'>
 ### Job Summary
 ___
   
@@ -13,16 +11,12 @@ ___
 |[drcutil-32](http://jenkinshrg.github.io#drcutil-32)|![Build Status](http://jenkinshrg.github.io/drcutil-32.svg)|
 |[drcutil-64](http://jenkinshrg.github.io#drcutil-64)|![Build Status](http://jenkinshrg.github.io/drcutil-64.svg)|
 |[drcutil-desktop](http://jenkinshrg.github.io#drcutil-desktop)|![Build Status](http://jenkinshrg.github.io/drcutil-desktop.svg)|
-</div>
-<div style='float: right'>
 ### Test Trend
 ___
 #### Unit Test
 ![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)
 #### Task Sequence
 ![Test Trend](http://jenkinshrg.github.io/drcutil-desktop.png)
-</div>
-</div>
 <div id='drcutil-32'></div>
 ### drcutil-32
 ___
