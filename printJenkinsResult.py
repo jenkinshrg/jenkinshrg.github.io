@@ -49,7 +49,7 @@ else:
     stability = 0
     iconUrl = "health-00to19.png"
 
-print "<div id='" + sys.argv[1] + "'>"
+print "<div id='" + sys.argv[1] + "'></div>"
 
 print "### " + sys.argv[1]
 print "___"
