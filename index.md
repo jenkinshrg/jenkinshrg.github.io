@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/01/21 10:51:56
+Last update : 2016/01/21 10:59:06
   
 ### Job Summary
 ___
@@ -70,6 +70,7 @@ ___
 #### Build History
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/21 10:01|51 min.|71 err.|0 err.|47 %|[16a0988](https://github.com/jrl-umi3218/hmc2/commit/16a0988)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/20 19:01|50 min.|71 err.|0 err.|47 %|xxxxxxx<br>[ff10597](https://github.com/jrl-umi3218/hrpcnoid/commit/ff10597)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/20 17:01|51 min.|71 err.|0 err.|47 %|[ec14f64](https://github.com/jrl-umi3218/hmc2/commit/ec14f64)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/20 14:01|51 min.|71 err.|0 err.|47 %|[9de1fa9](https://github.com/jrl-umi3218/hmc2/commit/9de1fa9)<br>[7733bdd](https://github.com/jrl-umi3218/hmc2/commit/7733bdd)<br>[39ea973](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/39ea973)<br>||||||
@@ -99,7 +100,6 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 16:01|51 min.|71 err.|0 err.|47 %|[7d9d75d](https://github.com/jrl-umi3218/hrpcnoid/commit/7d9d75d)<br>[07a4d32](https://github.com/jrl-umi3218/hrpcnoid/commit/07a4d32)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 15:01|51 min.|71 err.|0 err.|47 %|[a24320c](https://github.com/jrl-umi3218/hmc2/commit/a24320c)<br>[8aab7b6](https://github.com/jrl-umi3218/hmc2/commit/8aab7b6)<br>||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 12:57|0 min.| err.| err.| %|||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/14 10:17|76 min.| err.| err.| %|||||||
 <div id='drcutil-desktop'></div>
 ### drcutil-desktop
 ___
