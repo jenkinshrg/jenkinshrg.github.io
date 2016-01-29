@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/01/29 13:30:59
+Last update : 2016/01/29 13:36:11
   
 ### Job Summary
 ___
@@ -21,6 +21,7 @@ ___
 #### Unit Test
 ![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)
 #### Task Test
+![Test Trend](http://jenkinshrg.github.io/drcutil-task-balancebeam.png)
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-valve.png)
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-walk.png)
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-wall.png)
@@ -29,11 +30,12 @@ ___
 ___
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-87%
+88%
   
 #### Build History
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/29 13:34|0 min.||||||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/01/29 12:34|54 min.||||||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/28 20:01|1 min.||||[hmc2/e62034c](https://github.com/jrl-umi3218/hmc2/commit/e62034c7ece8e73c6ffb5fa7e98ad6e311ddede8)<br>[hrpsys-base/b50e275](https://github.com/fkanehiro/hrpsys-base/commit/b50e27503a6d82e04ca9e0a7be98adde35755b08)<br>[hrpsys-base/420fe4e](https://github.com/fkanehiro/hrpsys-base/commit/420fe4ec109f4965100fe29705cd9ff2ff187aae)<br>[hrpsys-humanoid/2adc58d](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/2adc58dacb077fe4da1c3ee70d3d4de897855e5c)<br>[hrpsys-humanoid/257129f](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/257129fc9bcbac4fc3153f71ae0a4ff52a259f1e)<br>|[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4UEowYXQtVlo0UnM/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4Q2M4N01TSng0RWc/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4YS1MYTFydzQ0M2c/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4bzJCTnhkZUZQLUE/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4N2JiXzJvUUFfbWs/view?usp=drivesdk)<br>|||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/28 17:01|0 min.||||[hrpsys-humanoid/bd9a092](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/bd9a0925811643baff42ea25eb46bfba8035483f)<br>|[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4ZXJxbjRzTE5CZ00/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4dkZvMzNNbU5TdTg/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4TVAxQzRDZ0VEeHc/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4SjJBbmNzSFg1Y2M/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4UXlTNkFYR0NkTTg/view?usp=drivesdk)<br>|||||
