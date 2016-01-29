@@ -37,10 +37,15 @@ print "___"
 print "#### Unit Test"
 for job in jobs:
     if job['name'] == "drcutil-64":
-        print "* " + job['name'] + "  "
+        print "* " + job['name']
+        print ""
         print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
+        print ""
+print ""
 print "#### Task Test"
 for job in jobs:
     if job['name'] == "drcutil-task-walk" or job['name'] == "drcutil-task-terrain" or job['name'] == "drcutil-task-valve" or job['name'] == "drcutil-task-wall" or job['name'] == "drcutil-task-balancebeam":
-        print "* " + job['name'] + "  "
+        print "* " + job['name']
+        print ""
         print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
+        print ""

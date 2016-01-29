@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/01/29 13:58:47
+Last update : 2016/01/29 14:00:15
   
 ### Job Summary
 ___
@@ -18,19 +18,32 @@ ___
 ### Test Trend
 ___
 #### Unit Test
-* drcutil-64  
+* drcutil-64
+
 ![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)
+
+
 #### Task Test
-* drcutil-task-balancebeam  
+* drcutil-task-balancebeam
+
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-balancebeam.png)
-* drcutil-task-terrain  
+
+* drcutil-task-terrain
+
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-terrain.png)
-* drcutil-task-valve  
+
+* drcutil-task-valve
+
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-valve.png)
-* drcutil-task-walk  
+
+* drcutil-task-walk
+
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-walk.png)
-* drcutil-task-wall  
+
+* drcutil-task-wall
+
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-wall.png)
+
 <div id='drcutil-32'></div>
 ### drcutil-32
 ___
