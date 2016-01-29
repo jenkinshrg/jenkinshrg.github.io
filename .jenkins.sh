@@ -18,6 +18,10 @@ REPORT_JOB=drcutil-desktop
 wget -q -O ${REPORT_JOB}.svg ${URL}/job/${REPORT_JOB}/badge/icon
 python printJenkinsResult.py ${REPORT_JOB} >> index.md
 
+REPORT_JOB=drcutil-task-terrain
+wget -q -O ${REPORT_JOB}.svg ${URL}/job/${REPORT_JOB}/badge/icon
+python printJenkinsResult.py ${REPORT_JOB} >> index.md
+
 git add --all
 git commit -m "update report"
 git push origin master
