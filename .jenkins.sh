@@ -1,5 +1,3 @@
-#!/bin/bash
-
 JENKINS_URL=http://jenkinshrg.a01.aist.go.jp
 
 wget -q -O drcutil-64.png ${JENKINS_URL}/job/drcutil-64/test/trend
