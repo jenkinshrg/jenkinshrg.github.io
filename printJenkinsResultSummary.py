@@ -10,7 +10,7 @@ else:
     url = "http://localhost:8080"
 
 try:
-    url = url + '/api/json?tree=jobs[name,builds]'
+    url = url + '/api/json?tree=jobs[name,lastStableBuild]'
     r = urllib2.urlopen(url)
     root = json.loads(r.read())
     jobs = root['jobs']
@@ -39,5 +39,5 @@ print "![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)"
 print "#### Task Test"
 for job in jobs:
     if job['name'] in {"drcutil-task-walk"}:
-        if len(job['builds']) > 0:
+        if job['lastStableBuild']:
             print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
