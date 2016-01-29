@@ -76,6 +76,8 @@ for build in builds:
         color = "yellow"
     elif result == "FAILURE":
         color = "red"
+    elif result == "ABORTED":
+        color = "aborted"
     failCount = ""
     try:
         url = build['url'] + "testReport/api/json?tree=failCount"
