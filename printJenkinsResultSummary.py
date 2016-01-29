@@ -39,5 +39,6 @@ print "![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)"
 print "#### Task Test"
 for job in jobs:
     if job['name'] != "drcutil":
+        print job['lastBuild']
         if job['lastBuild'] != None:
             print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
