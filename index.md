@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/01/29 21:15:28
+Last update : 2016/01/29 21:21:17
   
 ### Job Summary
 ___
@@ -195,11 +195,12 @@ ___
 ___
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
-75%
+78%
   
 #### Build History
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/29 21:13|5 min.||0 err.||||[jenkinshrg.txt](https://drive.google.com/file/d/0B54sHwaxmuM4R1hiVGVhb25KV2s/view?usp=drivesdk)<br>|[jenkinshrg.png](https://drive.google.com/file/d/0B54sHwaxmuM4NG9SOE94eWxsX3c/view?usp=drivesdk)<br>|[jenkinshrg.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4Z3otVHREMEZwT00/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/29 20:13|5 min.||0 err.||||[jenkinshrg.txt](https://drive.google.com/file/d/0B54sHwaxmuM4S0x5VVBXbU52QmM/view?usp=drivesdk)<br>|[jenkinshrg.png](https://drive.google.com/file/d/0B54sHwaxmuM4RU5pVEVQeXZTanM/view?usp=drivesdk)<br>|[jenkinshrg.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4b2pXRi1LaUZYOFE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/29 19:13|5 min.||0 err.||||[jenkinshrg.txt](https://drive.google.com/file/d/0B54sHwaxmuM4emczM3piSVRsbG8/view?usp=drivesdk)<br>|[jenkinshrg.png](https://drive.google.com/file/d/0B54sHwaxmuM4dTdibnZYelFldXc/view?usp=drivesdk)<br>|[jenkinshrg.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4OHZtd1ZGdnNhUzg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/29 18:54|5 min.||0 err.||||[jenkinshrg.txt](https://drive.google.com/file/d/0B54sHwaxmuM4bWQ1dzd6QndvdWM/view?usp=drivesdk)<br>|[jenkinshrg.png](https://drive.google.com/file/d/0B54sHwaxmuM4RnJERDhDendoY3c/view?usp=drivesdk)<br>|[jenkinshrg.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4M09OSkREcTZ0QkE/view?usp=drivesdk)<br>||
