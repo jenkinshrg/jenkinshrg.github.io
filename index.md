@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/01/29 13:36:11
+Last update : 2016/01/29 13:39:11
   
 ### Job Summary
 ___
@@ -21,7 +21,11 @@ ___
 #### Unit Test
 ![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)
 #### Task Test
+![Test Trend](http://jenkinshrg.github.io/drcutil-32.png)
+![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)
+![Test Trend](http://jenkinshrg.github.io/drcutil-desktop.png)
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-balancebeam.png)
+![Test Trend](http://jenkinshrg.github.io/drcutil-task-terrain.png)
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-valve.png)
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-walk.png)
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-wall.png)
@@ -152,9 +156,10 @@ ___
 ### drcutil-task-balancebeam
 ___
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-0%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
   
 #### Build History
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/29 13:00|39 min.||0 err.||||[irex-balance-beam-auto.txt](https://drive.google.com/file/d/0B54sHwaxmuM4RUF2WDJKWFZJcjQ/view?usp=drivesdk)<br>|[irex-balance-beam-auto.png](https://drive.google.com/file/d/0B54sHwaxmuM4VVdRaVZxM3daeGs/view?usp=drivesdk)<br>|[irex-balance-beam-auto.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4bDJsRUtNZzJJUDg/view?usp=drivesdk)<br>||
