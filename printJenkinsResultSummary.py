@@ -40,5 +40,5 @@ print "#### Task Test"
 for job in jobs:
     if job['name'] != "drcutil":
         print job['lastBuild']
-        if job['lastBuild'] != None:
+        if job['lastBuild'] != {}:
             print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
