@@ -39,5 +39,5 @@ print "![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)"
 print "#### Task Test"
 for job in jobs:
     if job['name'] in {"drcutil-task-walk"}:
-        if len(builds) > 0:
+        if len(job['builds']) > 0:
             print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
