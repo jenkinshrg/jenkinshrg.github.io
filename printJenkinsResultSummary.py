@@ -10,7 +10,7 @@ else:
     url = "http://localhost:8080"
 
 try:
-    url = url + '/api/json?tree=jobs[name]'
+    url = url + '/api/json?tree=jobs[name,lastBuild]'
     r = urllib2.urlopen(url)
     root = json.loads(r.read())
     jobs = root['jobs']
@@ -37,8 +37,7 @@ print "___"
 print "#### Unit Test"
 print "![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)"
 print "#### Task Test"
-print "![Test Trend](http://jenkinshrg.github.io/drcutil-task-walk.png)"
-print "![Test Trend](http://jenkinshrg.github.io/drcutil-task-terrain.png)"
-print "![Test Trend](http://jenkinshrg.github.io/drcutil-task-valve.png)"
-print "![Test Trend](http://jenkinshrg.github.io/drcutil-task-wall.png)"
-print "![Test Trend](http://jenkinshrg.github.io/drcutil-task-balancebeam.png)"
+for job in jobs:
+    if job['name'] != "drcutil":
+        if job['lastBuild'] != None:
+            print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
