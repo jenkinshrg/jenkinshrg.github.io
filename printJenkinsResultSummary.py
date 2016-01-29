@@ -38,6 +38,6 @@ print "#### Unit Test"
 print "![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)"
 print "#### Task Test"
 for job in jobs:
-    if job['name'] in {"drcutil-task-walk"}:
+    if job['name'] in {"drcutil-task-walk","drcutil-task-terrain","drcutil-task-valve","drcutil-task-wall","drcutil-task-balancebeam"}:
         if job['lastStableBuild']:
             print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
