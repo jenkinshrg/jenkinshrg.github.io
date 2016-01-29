@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/01/29 13:30:43
+Last update : 2016/01/29 13:30:59
   
 ### Job Summary
 ___
@@ -21,16 +21,8 @@ ___
 #### Unit Test
 ![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)
 #### Task Test
-{}
-{}
-{}
-{}
-{}
-None
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-valve.png)
-None
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-walk.png)
-None
 ![Test Trend](http://jenkinshrg.github.io/drcutil-task-wall.png)
 <div id='drcutil-32'></div>
 ### drcutil-32
