@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Last update : 2016/02/01 09:04:40
+Last update : 2016/02/01 09:03:33
   
 ### Job Summary
 ___
@@ -15,35 +15,6 @@ ___
 |[drcutil-task-valve](http://jenkinshrg.github.io#drcutil-task-valve)|![Build Status](http://jenkinshrg.github.io/drcutil-task-valve.svg)|
 |[drcutil-task-walk](http://jenkinshrg.github.io#drcutil-task-walk)|![Build Status](http://jenkinshrg.github.io/drcutil-task-walk.svg)|
 |[drcutil-task-wall](http://jenkinshrg.github.io#drcutil-task-wall)|![Build Status](http://jenkinshrg.github.io/drcutil-task-wall.svg)|
-### Test Trend
-___
-#### Unit Test
-* drcutil-64
-
-![Test Trend](http://jenkinshrg.github.io/drcutil-64.png)
-
-
-#### Task Test
-* drcutil-task-balancebeam
-
-![Test Trend](http://jenkinshrg.github.io/drcutil-task-balancebeam.png)
-
-* drcutil-task-terrain
-
-![Test Trend](http://jenkinshrg.github.io/drcutil-task-terrain.png)
-
-* drcutil-task-valve
-
-![Test Trend](http://jenkinshrg.github.io/drcutil-task-valve.png)
-
-* drcutil-task-walk
-
-![Test Trend](http://jenkinshrg.github.io/drcutil-task-walk.png)
-
-* drcutil-task-wall
-
-![Test Trend](http://jenkinshrg.github.io/drcutil-task-wall.png)
-
 <div id='drcutil-32'></div>
 ### drcutil-32
 ___
