@@ -60,6 +60,7 @@ print str(stability) + "%"
 print ""
 
 print "#### Build History"
+print ""
 
 print "|Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|"
 print "|---|---|---|---|---|---|---|---|---|---|---|---|---|"
