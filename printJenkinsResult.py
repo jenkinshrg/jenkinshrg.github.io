@@ -8,10 +8,10 @@ name = sys.argv[1]
 if len(sys.argv) > 2:
     url = sys.argv[2]
 else:
-    url = "http://localhost:8080"
+    url = "http://localhost:8080/"
 
 try:
-    url = url + '/job/' + name + '/api/json?tree=builds[building,duration,number,result,timestamp,url]'
+    url = url + 'job/' + name + '/api/json?tree=builds[building,duration,number,result,timestamp,url]'
     r = urllib2.urlopen(url)
     root = json.loads(r.read())
     builds = root['builds']

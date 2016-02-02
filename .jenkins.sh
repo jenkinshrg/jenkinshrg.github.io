@@ -1,4 +1,4 @@
-JENKINS_URL=http://jenkinshrg.a01.aist.go.jp
+JENKINS_URL=http://jenkinshrg.a01.aist.go.jp/
 
 python printJenkinsResultSummary.py ${JENKINS_URL} > index.md
 

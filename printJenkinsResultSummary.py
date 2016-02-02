@@ -7,10 +7,10 @@ from datetime import datetime
 if len(sys.argv) > 1:
     url = sys.argv[1]
 else:
-    url = "http://localhost:8080"
+    url = "http://localhost:8080/"
 
 try:
-    url = url + '/api/json?tree=jobs[name,lastStableBuild]'
+    url = url + 'api/json?tree=jobs[name,lastStableBuild]'
     r = urllib2.urlopen(url)
     root = json.loads(r.read())
     jobs = root['jobs']
