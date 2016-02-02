@@ -23,10 +23,10 @@ print "---"
 print "layout: default"
 print "---"
 print "Last update : " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
-#print "  "
+print ""
 print "### Job Summary"
 print "___"
-#print "  "
+print ""
 print "|Name|Status|"
 print "|---|---|"
 for job in jobs:
