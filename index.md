@@ -1,22 +1,22 @@
 ---
 layout: default
 ---
-Last update : 2016/02/02 10:54:41
+Last update : 2016/02/02 10:56:34
   
 ### Job Summary
 ___
   
 |Name|Status|
 |---|---|
-|[drcutil-32](http://jenkinshrg.github.io#drcutil-32)|![Build Status](http://jenkinshrg.github.io/drcutil-32.svg)|
-|[drcutil-64](http://jenkinshrg.github.io#drcutil-64)|![Build Status](http://jenkinshrg.github.io/drcutil-64.svg)|
+|[drcutil-build-32](http://jenkinshrg.github.io#drcutil-build-32)|![Build Status](http://jenkinshrg.github.io/drcutil-build-32.svg)|
+|[drcutil-build-64](http://jenkinshrg.github.io#drcutil-build-64)|![Build Status](http://jenkinshrg.github.io/drcutil-build-64.svg)|
 |[drcutil-task-balancebeam](http://jenkinshrg.github.io#drcutil-task-balancebeam)|![Build Status](http://jenkinshrg.github.io/drcutil-task-balancebeam.svg)|
 |[drcutil-task-terrain](http://jenkinshrg.github.io#drcutil-task-terrain)|![Build Status](http://jenkinshrg.github.io/drcutil-task-terrain.svg)|
 |[drcutil-task-valve](http://jenkinshrg.github.io#drcutil-task-valve)|![Build Status](http://jenkinshrg.github.io/drcutil-task-valve.svg)|
 |[drcutil-task-walk](http://jenkinshrg.github.io#drcutil-task-walk)|![Build Status](http://jenkinshrg.github.io/drcutil-task-walk.svg)|
 |[drcutil-task-wall](http://jenkinshrg.github.io#drcutil-task-wall)|![Build Status](http://jenkinshrg.github.io/drcutil-task-wall.svg)|
-<div id='drcutil-32'></div>
-### drcutil-32
+<div id='drcutil-build-32'></div>
+### drcutil-build-32
 ___
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
@@ -32,8 +32,8 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/01 10:01|0 min.||||||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/01 09:02|0 min.||||||||||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/01/31 10:00|0 min.||||||||||
-<div id='drcutil-64'></div>
-### drcutil-64
+<div id='drcutil-build-64'></div>
+### drcutil-build-64
 ___
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)

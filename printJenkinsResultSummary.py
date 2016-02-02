@@ -30,22 +30,5 @@ print "  "
 print "|Name|Status|"
 print "|---|---|"
 for job in jobs:
-    if job['name'] == "drcutil-32" or job['name'] == "drcutil-64" or job['name'] == "drcutil-task-walk" or job['name'] == "drcutil-task-terrain" or job['name'] == "drcutil-task-valve" or job['name'] == "drcutil-task-wall" or job['name'] == "drcutil-task-balancebeam":
+    if job['name'] == "drcutil-build-32" or job['name'] == "drcutil-build-64" or job['name'] == "drcutil-task-walk" or job['name'] == "drcutil-task-terrain" or job['name'] == "drcutil-task-valve" or job['name'] == "drcutil-task-wall" or job['name'] == "drcutil-task-balancebeam":
         print "|[" + job['name'] + "](http://jenkinshrg.github.io#" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + ".svg)|"
-#print "### Test Trend"
-#print "___"
-#print "#### Unit Test"
-#for job in jobs:
-#    if job['name'] == "drcutil-64":
-#        print "* " + job['name']
-#        print ""
-#        print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
-#        print ""
-#print ""
-#print "#### Task Test"
-#for job in jobs:
-#    if job['name'] == "drcutil-task-walk" or job['name'] == "drcutil-task-terrain" or job['name'] == "drcutil-task-valve" or job['name'] == "drcutil-task-wall" or job['name'] == "drcutil-task-balancebeam":
-#        print "* " + job['name']
-#        print ""
-#        print "![Test Trend](http://jenkinshrg.github.io/" + job['name'] + ".png)"
-#        print ""
