@@ -50,15 +50,17 @@ else:
     iconUrl = "health-00to19.png"
 
 print "<div id='" + sys.argv[1] + "'></div>"
+print ""
 
 print "### " + sys.argv[1]
 print "___"
+print ""
 
 print "#### Build Stability"
 
 print "![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/" + iconUrl + ")"
 print str(stability) + "%"
-print "  "
+print ""
 
 print "#### Build History"
 

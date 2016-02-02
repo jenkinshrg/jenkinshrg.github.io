@@ -22,6 +22,7 @@ finally:
 print "---"
 print "layout: default"
 print "---"
+print ""
 print "Last update : " + datetime.now().strftime("%Y/%m/%d %H:%M:%S")
 print ""
 print "### Job Summary"
@@ -32,3 +33,4 @@ print "|---|---|"
 for job in jobs:
     if job['name'] == "drcutil-build-32" or job['name'] == "drcutil-build-64" or job['name'] == "drcutil-task-walk" or job['name'] == "drcutil-task-terrain" or job['name'] == "drcutil-task-valve" or job['name'] == "drcutil-task-wall" or job['name'] == "drcutil-task-balancebeam":
         print "|[" + job['name'] + "](http://jenkinshrg.github.io#" + job['name'] + ")|![Build Status](http://jenkinshrg.github.io/"+ job['name'] + ".svg)|"
+print ""
