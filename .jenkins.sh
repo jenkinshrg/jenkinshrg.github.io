@@ -1,5 +1,5 @@
 if [ ! -v JENKINS_URL ]; then
-    JENKINS_URL=http://localhost:8080/
+    JENKINS_URL=http://jenkinshrg.a01.aist.go.jp/
 fi
 
 python printJenkinsResultSummary.py ${JENKINS_URL} > index.md
