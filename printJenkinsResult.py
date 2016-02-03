@@ -62,8 +62,8 @@ print ""
 print "#### Build History"
 print ""
 
-print "|Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Artifacts|Notes|"
-print "|------|----|--------|----------|----|--------|-------|-----|---------|-----|"
+print "|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|"
+print "|------|----|--------|----------|----|--------|-------|------|----------------------|-----|"
 
 for build in builds:
     building = build['building']
@@ -139,11 +139,11 @@ for build in builds:
         pass
     finally:
         r.close()
-    artifacts = ""
     build_files = ""
     console_files = ""
     image_files = ""
     video_files = ""
+    test_files = ""
     try:
         url = build['url'] + "artifact/artifacts.txt"
         r = urllib2.urlopen(url)
@@ -166,7 +166,7 @@ for build in builds:
         pass
     finally:
         r.close()
-    artifacts = build_files + console_files + image_files + video_files
+    test_files = console_files + image_files + video_files
     notes = ""
     memory_used = ""
     memory_change = ""
@@ -183,5 +183,5 @@ for build in builds:
     finally:
         r.close()
     notes = memory_used + memory_change
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + numberErrorSeverity + "|" + failCount + "|" + ratio + "|" + changes + "|" + artifacts + "|" + notes + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + numberErrorSeverity + "|" + failCount + "|" + ratio + "|" + changes + "|" + build_files + "|" + test_files + "|" + notes + "|"
 print ""
