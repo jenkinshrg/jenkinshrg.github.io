@@ -165,7 +165,7 @@ for build in builds:
         pass
     finally:
         r.close()
-    used = ""
+    memory_change = ""
     try:
         url = build['url'] + "artifact/system.csv"
         r = urllib2.urlopen(url)
