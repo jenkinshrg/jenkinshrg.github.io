@@ -62,7 +62,7 @@ print ""
 print "#### Build History"
 print ""
 
-print "|Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Memory|"
+print "|Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Artifacts|Notes|"
 print "|---|---|---|---|---|---|---|---|---|---|---|---|---|"
 
 for build in builds:
@@ -139,6 +139,7 @@ for build in builds:
         pass
     finally:
         r.close()
+    artifacts = ""
     build_files = ""
     console_files = ""
     image_files = ""
@@ -165,6 +166,9 @@ for build in builds:
         pass
     finally:
         r.close()
+    artifacts = build_files + console_files + image_files + video_files
+    notes = ""
+    memory_used = ""
     memory_change = ""
     try:
         url = build['url'] + "artifact/system.csv"
@@ -172,10 +176,12 @@ for build in builds:
         line = r.readline()
         line = r.readline()
         line = line.strip()
-        memory_change = line.split(",")[1]
+        memory_used = line.split(",")[0] + "KB used" + "<br>"
+        memory_change = line.split(",")[1] + "KB change" + "<br>"
     except:
         pass
     finally:
         r.close()
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + numberErrorSeverity + "|" + failCount + "|" + ratio + "|" + changes + "|" + build_files + "|" + console_files + "|" + image_files + "|" + video_files + "|" + memory_change + "|"
+    notes = memory_used + memory_change
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + numberErrorSeverity + "|" + failCount + "|" + ratio + "|" + changes + "|" + artifacts + "|" + memory_change + "|"
 print ""
