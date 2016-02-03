@@ -63,7 +63,7 @@ print "#### Build History"
 print ""
 
 print "|Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Artifacts|Notes|"
-print "|---|---|---|---|---|---|---|---|---|---|---|---|---|"
+print "|------|----|--------|----------|----|--------|-------|-----|---------|-----|"
 
 for build in builds:
     building = build['building']
