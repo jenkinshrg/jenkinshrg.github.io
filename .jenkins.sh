@@ -1,6 +1,4 @@
-if [ ! -v JENKINS_URL ]; then
-    JENKINS_URL=http://jenkinshrg.a01.aist.go.jp/
-fi
+JENKINS_URL=http://jenkinshrg.a01.aist.go.jp/
 
 python printJenkinsResultSummary.py ${JENKINS_URL} > index.md
 
