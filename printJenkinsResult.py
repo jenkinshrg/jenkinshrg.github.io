@@ -62,7 +62,7 @@ print ""
 print "#### Build History"
 print ""
 
-print "|Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Note|"
+print "|Status|Time|Duration|Inspection|Test|Coverage|Changes|Build|Console|Image|Video|Memory|"
 print "|---|---|---|---|---|---|---|---|---|---|---|---|---|"
 
 for build in builds:
@@ -165,6 +165,17 @@ for build in builds:
         pass
     finally:
         r.close()
-    causes = ""
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + numberErrorSeverity + "|" + failCount + "|" + ratio + "|" + changes + "|" + build_files + "|" + console_files + "|" + image_files + "|" + video_files + "|" + causes + "|"
+    used = ""
+    try:
+        url = build['url'] + "artifact/system.csv"
+        r = urllib2.urlopen(url)
+        line = r.readline()
+        line = r.readline()
+        line = line.strip()
+        used = line.split(",")[0]
+    except:
+        pass
+    finally:
+        r.close()
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + numberErrorSeverity + "|" + failCount + "|" + ratio + "|" + changes + "|" + build_files + "|" + console_files + "|" + image_files + "|" + video_files + "|" + used + "|"
 print ""
