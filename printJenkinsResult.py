@@ -172,10 +172,10 @@ for build in builds:
         line = r.readline()
         line = r.readline()
         line = line.strip()
-        used = line.split(",")[0]
+        memory_change = line.split(",")[1]
     except:
         pass
     finally:
         r.close()
-    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + numberErrorSeverity + "|" + failCount + "|" + ratio + "|" + changes + "|" + build_files + "|" + console_files + "|" + image_files + "|" + video_files + "|" + used + "|"
+    print "|" + "![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/"+ color + ".png)" + result + "|" + str(datetime.fromtimestamp(build['timestamp'] / 1000).strftime("%Y/%m/%d %H:%M")) + "|" + str(build['duration'] / 60 / 1000) + " min." + "|" + numberErrorSeverity + "|" + failCount + "|" + ratio + "|" + changes + "|" + build_files + "|" + console_files + "|" + image_files + "|" + video_files + "|" + memory_change + "|"
 print ""
