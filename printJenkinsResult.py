@@ -171,7 +171,7 @@ for build in builds:
     memory_used = ""
     memory_change = ""
     try:
-        url = build['url'] + "artifact/system.csv"
+        url = build['url'] + "artifact/choreonoid.csv"
         r = urllib2.urlopen(url)
         line = r.readline()
         line = r.readline()
