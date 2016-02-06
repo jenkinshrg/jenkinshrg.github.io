@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/06 22:55:09
+Last update : 2016/02/06 23:17:18
 
 ### Job Summary
 ___
@@ -333,6 +333,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/06 22:53|22 min.||0 err.||||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4YzJoREZKVFZrcUU/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4M2V4X0tvb0dDNUU/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4WnNfTzJBSU1Mc0U/view?usp=drivesdk)<br>|1766184KB used<br>917892KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/06 21:46|22 min.||0 err.||||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4cmplVlZTR0NzNEE/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4TmJNZ2IzWkJzU1U/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4OGIzLXBaYjFoRVk/view?usp=drivesdk)<br>|1778888KB used<br>924208KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/06 20:39|22 min.||0 err.||||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4UEw2Y2dZZ1R4bVk/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4c2VFTlY3ZnBfalk/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4cFRmRlNPSmtDT00/view?usp=drivesdk)<br>|1782980KB used<br>902424KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/06 19:06|22 min.||0 err.||||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4ak1EMG9nYkJTSGc/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4TEhPRlNNQjJFXzQ/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4aXFLa2RoZ0h6aG8/view?usp=drivesdk)<br>|1769228KB used<br>927780KB change<br>|
@@ -372,7 +373,6 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/02/05 02:46|10 min.||0 err.||||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4amNyMzB4WVdPdTg/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4aFlWSXJoSHZlSUk/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4bDZzc0IybmY2LVE/view?usp=drivesdk)<br>|1749924KB used<br>889028KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/05 01:40|21 min.||0 err.||||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4amNyMzB4WVdPdTg/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4aFlWSXJoSHZlSUk/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4bDZzc0IybmY2LVE/view?usp=drivesdk)<br>|1749924KB used<br>889028KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/05 00:39|22 min.||0 err.||||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4RjF2T0N0NzczbE0/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4VnFzWUt3U2UxaEk/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4b0pjeHhuZU5YOHc/view?usp=drivesdk)<br>|1782832KB used<br>905512KB change<br>|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/04 23:07|22 min.||0 err.||||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4c0NUSVlMWEdQQUk/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4c242dnJxdDd0TG8/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4dzRwSjVhalZlcms/view?usp=drivesdk)<br>|1634724KB used<br>782832KB change<br>|
 
 ### drcutil-test
 ___
