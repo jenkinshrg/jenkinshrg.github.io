@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/08 17:29:47
+Last update : 2016/02/08 17:27:52
 
 ### Job Summary
 ___
@@ -18,6 +18,43 @@ ___
 |[drcutil-task-walk](http://jenkinshrg.github.io#drcutil-task-walk)|![Build Status](http://jenkinshrg.github.io/drcutil-task-walk.svg)|
 |[drcutil-task-wall](http://jenkinshrg.github.io#drcutil-task-wall)|![Build Status](http://jenkinshrg.github.io/drcutil-task-wall.svg)|
 |[drcutil-test](http://jenkinshrg.github.io#drcutil-test)|![Build Status](http://jenkinshrg.github.io/drcutil-test.svg)|
+
+### drcutil-build-32
+___
+
+#### Build Stability
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+0%
+
+#### Build History
+
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
+|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+
+### drcutil-build-64
+___
+
+#### Build Stability
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
+
+#### Build History
+
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
+|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 16:32|50 min.||||||||
+
+### drcutil-inspection
+___
+
+#### Build Stability
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+0%
+
+#### Build History
+
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
+|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
 
 ### drcutil-task-balancebeam
 ___
@@ -85,4 +122,16 @@ ___
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 15:58|53 min.||0 err.|||||2898956KB used<br>1994708KB change<br>|
+
+### drcutil-test
+___
+
+#### Build Stability
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+0%
+
+#### Build History
+
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
+|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
 
