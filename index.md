@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/08 13:47:09
+Last update : 2016/02/08 14:36:42
 
 ### Job Summary
 ___
@@ -26,19 +26,19 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/02/08 12:47|58 min.||0 err.|||||1803072KB used<br>1091232KB change<br>|
 
 ### drcutil-task-terrain
 ___
 
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-0%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 13:46|49 min.||0 err.|||||1857404KB used<br>1147180KB change<br>|
 
 ### drcutil-task-valve
 ___
