@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/08 17:56:15
+Last update : 2016/02/08 17:57:40
 
 ### Job Summary
 ___
@@ -123,6 +123,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 17:35|22 min.||0 err.|||||2852028KB used<br>1948728KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 15:58|53 min.||0 err.|||||2898956KB used<br>1994708KB change<br>|
 
 ### drcutil-test
