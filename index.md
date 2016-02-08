@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/08 12:45:34
+Last update : 2016/02/08 13:27:31
 
 ### Job Summary
 ___
@@ -26,7 +26,6 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/02/08 12:45|0 min.||||||||
 
 ### drcutil-task-terrain
 ___

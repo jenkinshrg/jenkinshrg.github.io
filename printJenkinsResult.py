@@ -145,7 +145,7 @@ for build in builds:
     video_files = ""
     test_files = ""
     try:
-        url = build['url'] + "artifact/artifacts.txt"
+        url = build['url'] + "artifact/uploads.txt"
         r = urllib2.urlopen(url)
         line = r.readline()
         while line:
