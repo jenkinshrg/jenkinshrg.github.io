@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/09 03:29:05
+Last update : 2016/02/09 03:41:59
 
 ### Job Summary
 ___
@@ -95,6 +95,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/09 03:28|12 min.||0 err.|||||1827468KB used<br>1116400KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/09 02:21|12 min.||0 err.|||||1838632KB used<br>1123136KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/09 01:02|12 min.||0 err.|||||1839604KB used<br>1127264KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 23:56|12 min.||0 err.|||||1831944KB used<br>1124260KB change<br>|
