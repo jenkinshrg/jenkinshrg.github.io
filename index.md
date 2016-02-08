@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/08 18:23:11
+Last update : 2016/02/08 18:31:41
 
 ### Job Summary
 ___
@@ -49,13 +49,14 @@ ___
 ___
 
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-0%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 17:56|35 min.||||||||
 
 ### drcutil-task-balancebeam
 ___
