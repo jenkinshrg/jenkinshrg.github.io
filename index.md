@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/09 01:28:34
+Last update : 2016/02/09 01:41:09
 
 ### Job Summary
 ___
@@ -108,12 +108,13 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
-75%
+78%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/09 01:28|12 min.||0 err.|||||1944152KB used<br>893676KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/09 00:22|12 min.||0 err.|||||1956660KB used<br>909476KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/08 23:01|13 min.||1 err.||[openhrp3/f3de5d6](https://github.com/fkanehiro/openhrp3/commit/f3de5d64cafd6996ac269e4384a8e4653aff61e2)<br>[openhrp3/c4ff236](https://github.com/fkanehiro/openhrp3/commit/c4ff23631745d2085bceccec468f94ea6e122845)<br>|||1950672KB used<br>901616KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 21:43|15 min.||0 err.||[hrpsys-base/4f467e9](https://github.com/fkanehiro/hrpsys-base/commit/4f467e98671fb5ba67ce4350715ff9ab5cfe9fa0)<br>[hrpsys-base/bc68391](https://github.com/fkanehiro/hrpsys-base/commit/bc68391d98f52870c063e7f7c3d30bced8ba9318)<br>|||1947060KB used<br>900768KB change<br>|
