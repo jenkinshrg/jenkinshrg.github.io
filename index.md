@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/09 04:22:21
+Last update : 2016/02/09 04:35:06
 
 ### Job Summary
 ___
@@ -66,12 +66,13 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
-64%
+67%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/09 04:22|12 min.||0 err.|||||1792336KB used<br>1082848KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/09 03:16|12 min.||0 err.|||||1789232KB used<br>1083172KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/09 02:08|12 min.||0 err.|||||1797236KB used<br>1091968KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/09 01:15|12 min.||1 err.|||||1728096KB used<br>1017136KB change<br>|
