@@ -26,10 +26,6 @@ REPORT_JOB=drcutil-task-valve
 wget -q -O ${REPORT_JOB}.svg ${JENKINS_URL}/job/${REPORT_JOB}/badge/icon
 python printJenkinsResult.py ${REPORT_JOB} ${JENKINS_URL} >> index.md
 
-REPORT_JOB=drcutil-task-walk
-wget -q -O ${REPORT_JOB}.svg ${JENKINS_URL}/job/${REPORT_JOB}/badge/icon
-python printJenkinsResult.py ${REPORT_JOB} ${JENKINS_URL} >> index.md
-
 REPORT_JOB=drcutil-task-wall
 wget -q -O ${REPORT_JOB}.svg ${JENKINS_URL}/job/${REPORT_JOB}/badge/icon
 python printJenkinsResult.py ${REPORT_JOB} ${JENKINS_URL} >> index.md
