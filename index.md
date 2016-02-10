@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/10 15:49:31
+Last update : 2016/02/10 15:45:17
 
 ### Job Summary
 ___
@@ -27,9 +27,9 @@ ___
 
 #### Build History
 
-|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
-|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:30|62 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4MHJNWmhwMXB4YU0/view?usp=drivesdk)<br>|||
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:30|62 min.|||||||
 
 ### drcutil-build-64
 ___
@@ -40,9 +40,9 @@ ___
 
 #### Build History
 
-|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
-|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:30|43 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4TFdhSnRkdlZHWFE/view?usp=drivesdk)<br>|||
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:30|43 min.|||||||
 
 ### drcutil-inspection
 ___
@@ -53,9 +53,9 @@ ___
 
 #### Build History
 
-|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
-|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 12:08|80 min.|72 err.|||[hmc2/85b4aef](https://github.com/jrl-umi3218/hmc2/commit/85b4aefaba3bd4c80afe296adf9d4dfc474faf42)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4RDdiN2ZPcUlpMXM/view?usp=drivesdk)<br>[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4UmoxVVFoVTNlVzQ/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4cldKYS1IODdOblU/view?usp=drivesdk)<br>[HRP2.log](https://drive.google.com/file/d/0B54sHwaxmuM4RExyNUhJejM4Y1E/view?usp=drivesdk)<br>[HRP2KAI.log](https://drive.google.com/file/d/0B54sHwaxmuM4YkVpQ3VFb3dXY1E/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4Y1EyZ2phd2Jfa3M/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4NW5nX2RNVnpQVkk/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4bldwQzZsNTBoNVU/view?usp=drivesdk)<br>[hrpsys-private.log](https://drive.google.com/file/d/0B54sHwaxmuM4SUFzWG5yN3RyejQ/view?usp=drivesdk)<br>[choreonoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4NHRhX3BXTXdGSmM/view?usp=drivesdk)<br>|||
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 12:08|80 min.|72 err.|||[hmc2/85b4aef](https://github.com/jrl-umi3218/hmc2/commit/85b4aefaba3bd4c80afe296adf9d4dfc474faf42)<br>|||
 
 ### drcutil-task-balancebeam
 ___
@@ -66,10 +66,10 @@ ___
 
 #### Build History
 
-|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
-|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/10 14:00|12 min.||1 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4RF9PS1ZyOEhMVTQ/view?usp=drivesdk)<br>|[irex-balance-beam-auto.txt](https://drive.google.com/file/d/0B54sHwaxmuM4ZEJyV3FfenFqbGM/view?usp=drivesdk)<br>[irex-balance-beam-auto.png](https://drive.google.com/file/d/0B54sHwaxmuM4b1FJZXdTOXF2SnM/view?usp=drivesdk)<br>[irex-balance-beam-auto.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4dHpNRl9LajVNb1k/view?usp=drivesdk)<br>|1790088KB used<br>1086188KB change<br>|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 13:24|13 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4SzdYaXhLMTdMcDQ/view?usp=drivesdk)<br>|[irex-balance-beam-auto.txt](https://drive.google.com/file/d/0B54sHwaxmuM4ZmtLUEhhZTlVUzA/view?usp=drivesdk)<br>[irex-balance-beam-auto.png](https://drive.google.com/file/d/0B54sHwaxmuM4dkN5d3FSQlFmZHc/view?usp=drivesdk)<br>[irex-balance-beam-auto.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4ek1aWGQyMFQ5LXM/view?usp=drivesdk)<br>|1808944KB used<br>1110320KB change<br>|
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/10 14:00|12 min.||1 err.|||[irex-balance-beam-auto.txt](https://drive.google.com/file/d/0B54sHwaxmuM4ZEJyV3FfenFqbGM/view?usp=drivesdk)<br>[irex-balance-beam-auto.png](https://drive.google.com/file/d/0B54sHwaxmuM4b1FJZXdTOXF2SnM/view?usp=drivesdk)<br>[irex-balance-beam-auto.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4dHpNRl9LajVNb1k/view?usp=drivesdk)<br>|1790088KB used<br>1086188KB change<br>|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 13:24|13 min.||0 err.|||[irex-balance-beam-auto.txt](https://drive.google.com/file/d/0B54sHwaxmuM4ZmtLUEhhZTlVUzA/view?usp=drivesdk)<br>[irex-balance-beam-auto.png](https://drive.google.com/file/d/0B54sHwaxmuM4dkN5d3FSQlFmZHc/view?usp=drivesdk)<br>[irex-balance-beam-auto.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4ek1aWGQyMFQ5LXM/view?usp=drivesdk)<br>|1808944KB used<br>1110320KB change<br>|
 
 ### drcutil-task-terrain
 ___
@@ -80,9 +80,9 @@ ___
 
 #### Build History
 
-|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
-|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:12|12 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4OGxhdm1QbFRMamc/view?usp=drivesdk)<br>|[testbed-terrain.png](https://drive.google.com/file/d/0B54sHwaxmuM4UGUxaUhFbERlRmc/view?usp=drivesdk)<br>[testbed-terrain.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4Vlh1X1hUR0x1N3c/view?usp=drivesdk)<br>|1827816KB used<br>1123148KB change<br>|
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:12|12 min.||0 err.|||[testbed-terrain.png](https://drive.google.com/file/d/0B54sHwaxmuM4UGUxaUhFbERlRmc/view?usp=drivesdk)<br>[testbed-terrain.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4Vlh1X1hUR0x1N3c/view?usp=drivesdk)<br>|1827816KB used<br>1123148KB change<br>|
 
 ### drcutil-task-valve
 ___
@@ -93,10 +93,10 @@ ___
 
 #### Build History
 
-|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
-|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/10 14:25|19 min.||1 err.||[hmc2/85b4aef](https://github.com/jrl-umi3218/hmc2/commit/85b4aefaba3bd4c80afe296adf9d4dfc474faf42)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4cWxKc0Q1WFRHZTQ/view?usp=drivesdk)<br>|[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4QzhHbjVMZW5OVXc/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4eHNyNnZkMkJRSVE/view?usp=drivesdk)<br>|1948648KB used<br>900352KB change<br>|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 11:40|13 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4ZUJvelpPY1UyaVk/view?usp=drivesdk)<br>[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4eWhULXVzR3FkQkE/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4TVVZVXY5SThpS1E/view?usp=drivesdk)<br>[HRP2.log](https://drive.google.com/file/d/0B54sHwaxmuM4UmVsR2ZOT3B2VFE/view?usp=drivesdk)<br>[HRP2KAI.log](https://drive.google.com/file/d/0B54sHwaxmuM4TEFsUURzNDZ5TkU/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4NC1XOTdhdHVFWjA/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4S2NXbGtGTEJ0Zm8/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4LWFnSnE4RXZHenc/view?usp=drivesdk)<br>[hrpsys-private.log](https://drive.google.com/file/d/0B54sHwaxmuM4OXdvWEJOTnY4bDA/view?usp=drivesdk)<br>[choreonoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4OEpXWUwwSmp1eXc/view?usp=drivesdk)<br>|[drc-valves.txt](https://drive.google.com/file/d/0B54sHwaxmuM4eGdJcjAwMEd6b3c/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4OWo2M0hKM0JoaEk/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4bE9NMzEzelFkYVk/view?usp=drivesdk)<br>|1946628KB used<br>893712KB change<br>|
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/10 14:25|19 min.||1 err.||[hmc2/85b4aef](https://github.com/jrl-umi3218/hmc2/commit/85b4aefaba3bd4c80afe296adf9d4dfc474faf42)<br>|[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4QzhHbjVMZW5OVXc/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4eHNyNnZkMkJRSVE/view?usp=drivesdk)<br>|1948648KB used<br>900352KB change<br>|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 11:40|13 min.||0 err.|||[drc-valves.txt](https://drive.google.com/file/d/0B54sHwaxmuM4eGdJcjAwMEd6b3c/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4OWo2M0hKM0JoaEk/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4bE9NMzEzelFkYVk/view?usp=drivesdk)<br>|1946628KB used<br>893712KB change<br>|
 
 ### drcutil-task-wall
 ___
@@ -107,11 +107,11 @@ ___
 
 #### Build History
 
-|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
-|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:44|57 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4T2xqOHZZb2ZpNHc/view?usp=drivesdk)<br>|[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4OEVweUhvMXJ2Ync/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4QmNfMTRNYTBlRTQ/view?usp=drivesdk)<br>|2913812KB used<br>2011272KB change<br>|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/10 13:02|22 min.||1 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4UTRTVXlZcnFvSWs/view?usp=drivesdk)<br>|[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4TlctMlhSNXlaSlE/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4c295eTlkMmNKcVE/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4MmVQRU9YUnFzRzQ/view?usp=drivesdk)<br>|2759596KB used<br>1872248KB change<br>|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 10:51|22 min.||0 err.|||[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4NXBKWnlVX2ZsUms/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4YWNvTDJyRUZTUHM/view?usp=drivesdk)<br>[HRP2.log](https://drive.google.com/file/d/0B54sHwaxmuM4LXNkRW01UEI1aXc/view?usp=drivesdk)<br>[HRP2KAI.log](https://drive.google.com/file/d/0B54sHwaxmuM4dHZzLURzS2JUblU/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4NkplQXRoQW1fUlk/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4Ymw0TlJrc01PcFE/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4SHhhcDBEUG52aVE/view?usp=drivesdk)<br>[hrpsys-private.log](https://drive.google.com/file/d/0B54sHwaxmuM4Nm5aMjYwcXVycFE/view?usp=drivesdk)<br>[choreonoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4eHRzNDdHNndIREk/view?usp=drivesdk)<br>|[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4X2JQdFlRUVV6Nnc/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4U2lYS1VJSmt6Z3c/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4VDlTOTgxRXowbnM/view?usp=drivesdk)<br>|2910844KB used<br>1999108KB change<br>|
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:44|57 min.||0 err.|||[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4OEVweUhvMXJ2Ync/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4QmNfMTRNYTBlRTQ/view?usp=drivesdk)<br>|2913812KB used<br>2011272KB change<br>|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/10 13:02|22 min.||1 err.|||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4TlctMlhSNXlaSlE/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4c295eTlkMmNKcVE/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4MmVQRU9YUnFzRzQ/view?usp=drivesdk)<br>|2759596KB used<br>1872248KB change<br>|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 10:51|22 min.||0 err.|||[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4X2JQdFlRUVV6Nnc/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4U2lYS1VJSmt6Z3c/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4VDlTOTgxRXowbnM/view?usp=drivesdk)<br>|2910844KB used<br>1999108KB change<br>|
 
 ### drcutil-test
 ___
@@ -122,8 +122,8 @@ ___
 
 #### Build History
 
-|Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
-|------|----|--------|----------|----|--------|-------|------|----------------------|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 15:14|35 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4c2ZGNFg5WlVKX1k/view?usp=drivesdk)<br>|||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 13:29|7 min.||0 err.|47 %|[hmc2/85b4aef](https://github.com/jrl-umi3218/hmc2/commit/85b4aefaba3bd4c80afe296adf9d4dfc474faf42)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4d1FkcExLVGtVdlE/view?usp=drivesdk)<br>[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4M3hjWFJ6X0lmZGM/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4OGNBck8yR21OUU0/view?usp=drivesdk)<br>[HRP2.log](https://drive.google.com/file/d/0B54sHwaxmuM4MGVTN3BVaXV6XzA/view?usp=drivesdk)<br>[HRP2KAI.log](https://drive.google.com/file/d/0B54sHwaxmuM4NzB2ek04bFdFckU/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4bzIxWWVnZEZLdnc/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4bmpfWUlibU9vVVE/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4U2lyX0JUeG5PVXc/view?usp=drivesdk)<br>[hrpsys-private.log](https://drive.google.com/file/d/0B54sHwaxmuM4aHN3MDdYRmNaUzA/view?usp=drivesdk)<br>[choreonoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4UjFnTXFSbTZZNU0/view?usp=drivesdk)<br>|||
+|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 15:14|35 min.|||||||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 13:29|7 min.||0 err.|47 %|[hmc2/85b4aef](https://github.com/jrl-umi3218/hmc2/commit/85b4aefaba3bd4c80afe296adf9d4dfc474faf42)<br>|||
 
