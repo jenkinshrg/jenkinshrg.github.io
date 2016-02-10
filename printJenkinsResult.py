@@ -140,7 +140,6 @@ for build in builds:
     finally:
         r.close()
     build_files = ""
-    console_files = ""
     image_files = ""
     video_files = ""
     uploads = ""
@@ -155,8 +154,6 @@ for build in builds:
             googleurl = line.split(",")[2]
             if label == "BUILD":
                 build_files += "[" + filename + "](" + googleurl + ")" + "<br>"
-            elif label == "CONSOLE":
-                console_files += "[" + filename + "](" + googleurl + ")" + "<br>"
             elif label == "IMAGE":
                 image_files += "[" + filename + "](" + googleurl + ")" + "<br>"
             elif label == "VIDEO":
@@ -166,7 +163,7 @@ for build in builds:
         pass
     finally:
         r.close()
-    uploads = console_files + image_files + video_files
+    uploads = build_files + image_files + video_files
     notes = ""
     memory_used = ""
     memory_change = ""
