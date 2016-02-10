@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/10 16:05:08
+Last update : 2016/02/10 16:06:15
 
 ### Job Summary
 ___
@@ -102,15 +102,14 @@ ___
 ___
 
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-50%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:44|57 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4T2xqOHZZb2ZpNHc/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4OEVweUhvMXJ2Ync/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4QmNfMTRNYTBlRTQ/view?usp=drivesdk)<br>|2913812KB used<br>2011272KB change<br>|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/10 13:02|22 min.||1 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4UTRTVXlZcnFvSWs/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4c295eTlkMmNKcVE/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4MmVQRU9YUnFzRzQ/view?usp=drivesdk)<br>|2759596KB used<br>1872248KB change<br>|
 
 ### drcutil-test
 ___
