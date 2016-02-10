@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/10 09:21:01
+Last update : 2016/02/10 09:17:59
 
 ### Job Summary
 ___
@@ -121,7 +121,7 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/08 20:09|12 min.||1 err.|||||1772372KB used<br>1063696KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/08 19:03|12 min.||1 err.|||||1707132KB used<br>1004284KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 17:57|12 min.||0 err.|||||1794316KB used<br>1087284KB change<br>|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 16:51|12 min.||0 err.|||||1790896KB used<br>1082840KB change<br>|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/08 16:51|12 min.||0 err.||||[irex-balance-beam-auto.txt](http://jenkinshrg.a01.aist.go.jp/job/drcutil-task-balancebeam/1/artifact/irex-balance-beam-auto.txt)<br>[irex-balance-beam-auto.png](http://jenkinshrg.a01.aist.go.jp/job/drcutil-task-balancebeam/1/artifact/irex-balance-beam-auto.png)<br>[irex-balance-beam-auto.ogv](http://jenkinshrg.a01.aist.go.jp/job/drcutil-task-balancebeam/1/artifact/irex-balance-beam-auto.ogv)<br>|1790896KB used<br>1082840KB change<br>|
 
 ### drcutil-task-terrain
 ___
