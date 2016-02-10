@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/10 15:33:20
+Last update : 2016/02/10 15:42:41
 
 ### Job Summary
 ___
@@ -30,7 +30,6 @@ ___
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:30|62 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4MHJNWmhwMXB4YU0/view?usp=drivesdk)<br>|||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 12:00|13 min.||||[hmc2/85b4aef](https://github.com/jrl-umi3218/hmc2/commit/85b4aefaba3bd4c80afe296adf9d4dfc474faf42)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Z2psVENDcEg3UDQ/view?usp=drivesdk)<br>[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4T2E4WGQ5d3NjRlU/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4bUxoUHRSYlNzVzQ/view?usp=drivesdk)<br>[HRP2.log](https://drive.google.com/file/d/0B54sHwaxmuM4VVIxWmFpQ244azA/view?usp=drivesdk)<br>[HRP2KAI.log](https://drive.google.com/file/d/0B54sHwaxmuM4UHhIOFlrMjFrcVU/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4cGxIN19hQi1DYms/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4MThIUXZBM0ZwSms/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4emZPWUpVZklkRmc/view?usp=drivesdk)<br>[hrpsys-private.log](https://drive.google.com/file/d/0B54sHwaxmuM4cDRXenV1YXRIMjQ/view?usp=drivesdk)<br>|||
 
 ### drcutil-build-64
 ___
@@ -44,7 +43,6 @@ ___
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:30|43 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4TFdhSnRkdlZHWFE/view?usp=drivesdk)<br>|||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 12:00|7 min.||||[hmc2/85b4aef](https://github.com/jrl-umi3218/hmc2/commit/85b4aefaba3bd4c80afe296adf9d4dfc474faf42)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WTlXM1NzZzI1RDA/view?usp=drivesdk)<br>[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4eFlDek1LeENRd28/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4Y29QQU9jVHp6MVU/view?usp=drivesdk)<br>[HRP2.log](https://drive.google.com/file/d/0B54sHwaxmuM4UV80ZjBRODZVOVk/view?usp=drivesdk)<br>[HRP2KAI.log](https://drive.google.com/file/d/0B54sHwaxmuM4dU5tMWRnTU5LMUk/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4dVBUU0ttVG1YcDQ/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4cVB2bk9YTUtmUVU/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4bXlUWDd3LWNOVEU/view?usp=drivesdk)<br>[hrpsys-private.log](https://drive.google.com/file/d/0B54sHwaxmuM4MS1nQXJMRlptX1E/view?usp=drivesdk)<br>[choreonoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4RWJ6MzhWaDVVaGc/view?usp=drivesdk)<br>|||
 
 ### drcutil-inspection
 ___
@@ -104,13 +102,14 @@ ___
 ___
 
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-40to59.png)
-50%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
+67%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Builds|Consoles/Images/Videos|Notes|
 |------|----|--------|----------|----|--------|-------|------|----------------------|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 14:44|57 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4T2xqOHZZb2ZpNHc/view?usp=drivesdk)<br>|[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4OEVweUhvMXJ2Ync/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4QmNfMTRNYTBlRTQ/view?usp=drivesdk)<br>|2913812KB used<br>2011272KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/02/10 13:02|22 min.||1 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4UTRTVXlZcnFvSWs/view?usp=drivesdk)<br>|[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4TlctMlhSNXlaSlE/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4c295eTlkMmNKcVE/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4MmVQRU9YUnFzRzQ/view?usp=drivesdk)<br>|2759596KB used<br>1872248KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 10:51|22 min.||0 err.|||[openhrp3.log](https://drive.google.com/file/d/0B54sHwaxmuM4NXBKWnlVX2ZsUms/view?usp=drivesdk)<br>[hrpsys-base.log](https://drive.google.com/file/d/0B54sHwaxmuM4YWNvTDJyRUZTUHM/view?usp=drivesdk)<br>[HRP2.log](https://drive.google.com/file/d/0B54sHwaxmuM4LXNkRW01UEI1aXc/view?usp=drivesdk)<br>[HRP2KAI.log](https://drive.google.com/file/d/0B54sHwaxmuM4dHZzLURzS2JUblU/view?usp=drivesdk)<br>[HRP2DRC.log](https://drive.google.com/file/d/0B54sHwaxmuM4NkplQXRoQW1fUlk/view?usp=drivesdk)<br>[hmc2.log](https://drive.google.com/file/d/0B54sHwaxmuM4Ymw0TlJrc01PcFE/view?usp=drivesdk)<br>[hrpsys-humanoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4SHhhcDBEUG52aVE/view?usp=drivesdk)<br>[hrpsys-private.log](https://drive.google.com/file/d/0B54sHwaxmuM4Nm5aMjYwcXVycFE/view?usp=drivesdk)<br>[choreonoid.log](https://drive.google.com/file/d/0B54sHwaxmuM4eHRzNDdHNndIREk/view?usp=drivesdk)<br>|[drc-wall-testbed.txt](https://drive.google.com/file/d/0B54sHwaxmuM4X2JQdFlRUVV6Nnc/view?usp=drivesdk)<br>[drc-wall-testbed.png](https://drive.google.com/file/d/0B54sHwaxmuM4U2lYS1VJSmt6Z3c/view?usp=drivesdk)<br>[drc-wall-testbed.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4VDlTOTgxRXowbnM/view?usp=drivesdk)<br>|2910844KB used<br>1999108KB change<br>|
 
