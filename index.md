@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/16 13:35:38
+Last update : 2016/02/16 13:42:13
 
 ### Job Summary
 ___
@@ -59,6 +59,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/16 12:29|72 min.|72 err.|||[hmc2/d38d032](https://github.com/jrl-umi3218/hmc2/commit/d38d032159d06840e9c13e200c48b1c674ab48c6)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4MHVWT2RfWTZhdHM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/16 11:14|72 min.|72 err.|||[hrpsys-humanoid/70a897d](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/70a897d13431e14e7ec8fd50bdc8f373506b7e53)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4VW1aVEhVRzlubVk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/16 10:02|34 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Ym15SV9QTFlNZG8/view?usp=drivesdk)<br>||
 
