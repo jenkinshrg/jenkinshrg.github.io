@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/16 11:13:38
+Last update : 2016/02/16 11:14:51
 
 ### Job Summary
 ___
@@ -43,6 +43,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/16 11:13|1 min.||||[hrpsys-humanoid/70a897d](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/70a897d13431e14e7ec8fd50bdc8f373506b7e53)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4ZGw4VFlrM3dLOGM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/16 09:09|52 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4QUlCdGpaNWpDbU0/view?usp=drivesdk)<br>||
 
 ### drcutil-inspection
