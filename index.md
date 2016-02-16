@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/16 11:06:35
+Last update : 2016/02/16 11:13:38
 
 ### Job Summary
 ___
@@ -123,6 +123,5 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 17:23|0 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Y01id05OTlNXVTQ/view?usp=drivesdk)<br>||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/10 15:14|35 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4c2ZGNFg5WlVKX1k/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/16 10:36|37 min.||0 err.|47 %|[hrpsys-humanoid/70a897d](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/70a897d13431e14e7ec8fd50bdc8f373506b7e53)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4R01oNlBlWmU5Zjg/view?usp=drivesdk)<br>||
 
