@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/17 10:47:38
+Last update : 2016/02/17 10:49:02
 
 ### Job Summary
 ___
@@ -11,12 +11,10 @@ ___
 |---|---|
 |[drcutil-build-32](http://jenkinshrg.github.io#drcutil-build-32)|![Build Status](http://jenkinshrg.github.io/drcutil-build-32.svg)|
 |[drcutil-build-64](http://jenkinshrg.github.io#drcutil-build-64)|![Build Status](http://jenkinshrg.github.io/drcutil-build-64.svg)|
-|[drcutil-inspection](http://jenkinshrg.github.io#drcutil-inspection)|![Build Status](http://jenkinshrg.github.io/drcutil-inspection.svg)|
 |[drcutil-task-balancebeam](http://jenkinshrg.github.io#drcutil-task-balancebeam)|![Build Status](http://jenkinshrg.github.io/drcutil-task-balancebeam.svg)|
 |[drcutil-task-terrain](http://jenkinshrg.github.io#drcutil-task-terrain)|![Build Status](http://jenkinshrg.github.io/drcutil-task-terrain.svg)|
 |[drcutil-task-valve](http://jenkinshrg.github.io#drcutil-task-valve)|![Build Status](http://jenkinshrg.github.io/drcutil-task-valve.svg)|
 |[drcutil-task-wall](http://jenkinshrg.github.io#drcutil-task-wall)|![Build Status](http://jenkinshrg.github.io/drcutil-task-wall.svg)|
-|[drcutil-test](http://jenkinshrg.github.io#drcutil-test)|![Build Status](http://jenkinshrg.github.io/drcutil-test.svg)|
 
 ### drcutil-build-32
 ___
