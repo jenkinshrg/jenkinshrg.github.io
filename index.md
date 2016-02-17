@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/17 12:39:06
+Last update : 2016/02/17 12:43:08
 
 ### Job Summary
 ___
@@ -20,29 +20,27 @@ ___
 ___
 
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-100%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+0%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/aborted.png)ABORTED|2016/02/17 12:36|0 min.|||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/17 11:28|48 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4N3BSd2dMbWJrUzA/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/02/17 12:40|2 min.|||||||
 
 ### drcutil-build-64
 ___
 
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-100%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+0%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/aborted.png)ABORTED|2016/02/17 12:36|0 min.|||||||
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/17 11:29|60 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4d2NpbmRFc3RBaUE/view?usp=drivesdk)<br>||
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/02/17 12:40|1 min.|||||||
 
 ### drcutil-task-balancebeam
 ___
