@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/17 12:26:23
+Last update : 2016/02/17 12:30:12
 
 ### Job Summary
 ___
@@ -33,13 +33,14 @@ ___
 ___
 
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-0%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/17 11:29|60 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4d2NpbmRFc3RBaUE/view?usp=drivesdk)<br>||
 
 ### drcutil-task-balancebeam
 ___
