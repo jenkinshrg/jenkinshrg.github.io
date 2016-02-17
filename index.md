@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/17 12:13:29
+Last update : 2016/02/17 12:17:39
 
 ### Job Summary
 ___
@@ -20,13 +20,14 @@ ___
 ___
 
 #### Build Stability
-![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-0%
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
+100%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/17 11:28|48 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4N3BSd2dMbWJrUzA/view?usp=drivesdk)<br>||
 
 ### drcutil-build-64
 ___
