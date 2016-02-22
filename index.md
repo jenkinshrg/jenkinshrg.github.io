@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/02/22 16:27:49
+Last update : 2016/02/22 16:33:16
 
 ### Job Summary
 ___
@@ -27,6 +27,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/22 15:10|82 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4VFVhN2ozOTc5R3c/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/22 10:00|52 min.||||[hmc2/68bf6e8](https://github.com/jrl-umi3218/hmc2/commit/68bf6e804b74e86b13a3c2d291916979aad14b87)<br>[hrpsys-humanoid/81c457c](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/81c457cf174b15780c74542f8b9496535c10b704)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4akt0dnRVUVhuQlE/view?usp=drivesdk)<br>||
 
 ### drcutil-build-64
