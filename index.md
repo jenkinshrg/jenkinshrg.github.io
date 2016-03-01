@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/03/01 10:10:11
+Last update : 2016/03/01 10:22:36
 
 ### Job Summary
 ___
@@ -27,6 +27,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/01 09:36|50 min.||||[hrpsys-base/2d5592c](https://github.com/fkanehiro/hrpsys-base/commit/2d5592c8ec4f3c9d5d49bf28a2f969c4a9a9770a)<br>[hrpsys-base/b4a7f2a](https://github.com/fkanehiro/hrpsys-base/commit/b4a7f2a13455a0db6d250b1e29758394480a00d5)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4aElwYThjVmQxajA/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/29 16:36|53 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Z3BUcEJEZ2NiYTQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/29 14:00|54 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4UmhCZ1Rnbi03Tkk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/02/26 23:36|45 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4LWpsblZrZEtYdjQ/view?usp=drivesdk)<br>||
@@ -135,7 +136,7 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
-65%
+67%
 
 #### Build History
 
