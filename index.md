@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/03/04 20:30:34
+Last update : 2016/03/04 21:00:38
 
 ### Job Summary
 ___
@@ -48,12 +48,13 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-100%
+94%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/03/04 20:36|28 min.||||[hmc2/52b4fbf](https://github.com/jrl-umi3218/hmc2/commit/52b4fbf7262d959ec3045ffb2cc49fe4d90c2023)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4eDdRV3ZxZlpIS1U/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/04 16:20|43 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Xzl0QXVIQ3Yzajg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/04 14:36|103 min.|72 err.|0 err.|47 %|choreonoid/e57a480<br>choreonoid/967ffe0<br>[openhrp3/35e6411](https://github.com/fkanehiro/openhrp3/commit/35e6411594c3946374589167f780e7217c4c9754)<br>[openhrp3/a9c5e5f](https://github.com/fkanehiro/openhrp3/commit/a9c5e5f8e782d1a33f2b4992e5194f22aadba5d5)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4NVNvVkJOcFpQemM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/04 12:36|101 min.|72 err.|0 err.|47 %|choreonoid/bc12534<br>choreonoid/857dc2f<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WUJ1M2c0Rm1qd28/view?usp=drivesdk)<br>||
