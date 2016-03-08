@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/03/08 17:08:33
+Last update : 2016/03/08 17:17:23
 
 ### Job Summary
 ___
@@ -61,6 +61,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/08 15:36|105 min.|72 err.|0 err.|47 %|choreonoid/65f7712<br>choreonoid/3966cae<br>choreonoid/8500ab4<br>choreonoid/9dc444b<br>choreonoid/f26c9f5<br>choreonoid/945b8f5<br>choreonoid/02f4724<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WWhfbVFvdlFnZEk/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/07 18:36|103 min.|72 err.|0 err.|47 %|choreonoid/cf9b270<br>choreonoid/ad707ac<br>choreonoid/399a9f0<br>[hmc2/1126b81](https://github.com/jrl-umi3218/hmc2/commit/1126b81ca5a648d5904f5033ec9498f8f293974c)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4cjBOcWJIMXJXVkE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/03/07 17:36|37 min.||||[hmc2/9bd21c3](https://github.com/jrl-umi3218/hmc2/commit/9bd21c3f1035c4329c2b70f8271bb1ce55fbfa33)<br>[hmc2/55e4877](https://github.com/jrl-umi3218/hmc2/commit/55e48777004dfcbf9124c7cb402928ed72759917)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4ZXE4YVZPUlZWVXM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/03/07 16:36|50 min.||||choreonoid/fb03246<br>choreonoid/a3af970<br>choreonoid/40056de<br>choreonoid/a4eccd4<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WkhaVTNXckV5TEk/view?usp=drivesdk)<br>||
