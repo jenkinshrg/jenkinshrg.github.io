@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/03/14 22:08:16
+Last update : 2016/03/14 22:11:21
 
 ### Job Summary
 ___
@@ -76,6 +76,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/14 20:36|99 min.|72 err.|0 err.|47 %|[hrpsys-humanoid/8b7a86a](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/8b7a86ab2a0a8ee8818bef6cab021562ad9a51b9)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WEZvM25KNEtxSWM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/14 18:36|98 min.|72 err.|0 err.|47 %|choreonoid/2e15b91<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4SFh4TEVnOUROZlU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/14 17:09|49 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Z01LRjUtdXh5cXc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/14 15:29|100 min.|72 err.|0 err.|47 %|choreonoid/f7a3fb6<br>choreonoid/c8e208f<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4cXZnWXFPWHJKUzA/view?usp=drivesdk)<br>||
