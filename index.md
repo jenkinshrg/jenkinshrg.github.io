@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/03/27 23:18:13
+Last update : 2016/03/27 23:18:42
 
 ### Job Summary
 ___
@@ -27,6 +27,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/27 22:36|41 min.||||[hmc2/2cb68f9](https://github.com/jrl-umi3218/hmc2/commit/2cb68f962deb03e715ee382bc6b9e12d17a18509)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4cEkwN0FSdlBsUUU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/27 19:36|45 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4TUxoazV0RE04UGM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/24 16:36|60 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4bmpISFRqMXZScGc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/24 09:36|88 min.||||[hmc2/2704013](https://github.com/jrl-umi3218/hmc2/commit/27040138ced6e918224d501f364b367ed2596444)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Sm9BUEpxOS1BWXc/view?usp=drivesdk)<br>||
