@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/03/27 20:18:42
+Last update : 2016/03/27 20:22:17
 
 ### Job Summary
 ___
@@ -21,12 +21,13 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-87%
+88%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/27 19:36|45 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4TUxoazV0RE04UGM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/24 16:36|60 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4bmpISFRqMXZScGc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/24 09:36|88 min.||||[hmc2/2704013](https://github.com/jrl-umi3218/hmc2/commit/27040138ced6e918224d501f364b367ed2596444)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Sm9BUEpxOS1BWXc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/03/23 18:36|87 min.||||[hmc2/e79de0d](https://github.com/jrl-umi3218/hmc2/commit/e79de0dcd0452f99252f9873dc13ca7f5314a276)<br>[hmc2/d2a3da6](https://github.com/jrl-umi3218/hmc2/commit/d2a3da65a3405f43ca41bccd81cad22262555a2f)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4YjQ3U3FzN25jYlE/view?usp=drivesdk)<br>||
