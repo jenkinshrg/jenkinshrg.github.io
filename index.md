@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/04/07 17:18:15
+Last update : 2016/04/07 17:19:10
 
 ### Job Summary
 ___
@@ -21,12 +21,13 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-90%
+91%
 
 #### Build History
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/07 16:36|42 min.||||[hrpsys-humanoid/653f01a](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/653f01a0b8a43ca8f67b28752d6a12da6a387792)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4VnlOS3RfOUZqdHM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/07 15:36|45 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4R1dUNnhRbFNyNmM/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/07 13:36|47 min.||||[hmc2/8074d61](https://github.com/jrl-umi3218/hmc2/commit/8074d61c8e69480e330ce9f41ead17e450529983)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Z1Y5VDFyR3Z4VkU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/06 22:36|72 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4ZzRyblc5NFhVUEU/view?usp=drivesdk)<br>||
