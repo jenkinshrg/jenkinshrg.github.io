@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/04/15 13:13:07
+Last update : 2016/04/15 13:16:56
 
 ### Job Summary
 ___
@@ -139,6 +139,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/15 11:36|99 min.|67 err.|0 err.|47 %|choreonoid/f978365<br>choreonoid/3553cf6<br>[hrpcnoid/662834b](https://github.com/jrl-umi3218/hrpcnoid/commit/662834bc9d7069b8bb66f93d89825d87a0582f04)<br>[hrpcnoid/6055b6c](https://github.com/jrl-umi3218/hrpcnoid/commit/6055b6cbe5d6e079d67e073a637ce98cc79a09ea)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4TUE4RzhKeU9sbDQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/15 01:36|95 min.|67 err.|0 err.|47 %|choreonoid/a297a7b<br>choreonoid/448ef99<br>choreonoid/cb781fb<br>choreonoid/982af35<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WkMtaXJQMlpudjg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/14 17:36|101 min.|67 err.|0 err.|47 %|choreonoid/4717dfd<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4YUN5aVZwaFhuMzg/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/14 16:20|43 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Z0JITDZwakhOazQ/view?usp=drivesdk)<br>||
