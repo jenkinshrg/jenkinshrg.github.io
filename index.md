@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/04/26 13:20:32
+Last update : 2016/04/26 13:25:57
 
 ### Job Summary
 ___
@@ -28,6 +28,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/26 12:36|49 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4aV9ncDM5Mi1xNkE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/26 09:36|45 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4elZzckdwRExoVEU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/25 19:36|40 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4NWRGTHlrQWVEWHc/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/24 20:36|40 min.||||[openhrp3/2faa042](https://github.com/fkanehiro/openhrp3/commit/2faa042f0ce5e2b8ac6b03c94feb3e95ab076e1d)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4R0FwQTcycVMyWTA/view?usp=drivesdk)<br>||
