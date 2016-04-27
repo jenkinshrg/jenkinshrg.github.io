@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/04/27 19:14:44
+Last update : 2016/04/27 19:23:31
 
 ### Job Summary
 ___
@@ -15,6 +15,7 @@ ___
 |[drcutil-task-terrain](http://jenkinshrg.github.io#drcutil-task-terrain)|![Build Status](http://jenkinshrg.github.io/drcutil-task-terrain.svg)|
 |[drcutil-task-valve](http://jenkinshrg.github.io#drcutil-task-valve)|![Build Status](http://jenkinshrg.github.io/drcutil-task-valve.svg)|
 |[drcutil-task-wall](http://jenkinshrg.github.io#drcutil-task-wall)|![Build Status](http://jenkinshrg.github.io/drcutil-task-wall.svg)|
+|[hrp2kai-task-door](http://jenkinshrg.github.io#hrp2kai-task-door)|![Build Status](http://jenkinshrg.github.io/hrp2kai-task-door.svg)|
 |[hrp5p-task-terrain](http://jenkinshrg.github.io#hrp5p-task-terrain)|![Build Status](http://jenkinshrg.github.io/hrp5p-task-terrain.svg)|
 
 ### drcutil-build-32
@@ -28,6 +29,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/27 18:36|46 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4NVZqSmpGN3lWd2c/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/27 12:36|41 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4bEEtS3d5MnJiYlE/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/26 19:36|38 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4eGtUVXE5RGE3MlU/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/26 18:36|40 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4ZHR5Y3FtSnR3X1E/view?usp=drivesdk)<br>||
@@ -356,7 +358,7 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-93%
+94%
 
 #### Build History
 
@@ -461,7 +463,6 @@ ___
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/22 22:18|12 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4OHJ1TnAwcWotQ0k/view?usp=drivesdk)<br>[testbed-terrain.png](https://drive.google.com/file/d/0B54sHwaxmuM4eVhBcVRWbXlaVTQ/view?usp=drivesdk)<br>[testbed-terrain.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4OWJzdTJOak40Um8/view?usp=drivesdk)<br>|1903592KB used<br>887568KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/04/22 21:18|6 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4eF9KX0FZZmR5cU0/view?usp=drivesdk)<br>|1927056KB used<br>901844KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/22 20:18|12 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4c0FVaWJJQktFaWc/view?usp=drivesdk)<br>[testbed-terrain.png](https://drive.google.com/file/d/0B54sHwaxmuM4bVliRTJxeVMyT3c/view?usp=drivesdk)<br>[testbed-terrain.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4b2VhTGtJMkxZZGc/view?usp=drivesdk)<br>|1904840KB used<br>894788KB change<br>|
-|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/04/22 19:18|12 min.||1 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4X3hFeUItdmpiYTg/view?usp=drivesdk)<br>[testbed-terrain.png](https://drive.google.com/file/d/0B54sHwaxmuM4cXpvYzRvVEt6ckE/view?usp=drivesdk)<br>[testbed-terrain.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4Z2xYdTcyMEVrWHM/view?usp=drivesdk)<br>|1800160KB used<br>783332KB change<br>|
 
 ### drcutil-task-valve
 ___
@@ -474,6 +475,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/27 19:08|15 min.||0 err.||choreonoid/19c7c4d<br>choreonoid/e0b9c9d<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4aElBdkVlQnozYU0/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4ZXNQcWFMa1R2Ujg/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4R1cxMXBLVFlzUk0/view?usp=drivesdk)<br>|1975332KB used<br>815400KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/04/27 18:07|13 min.||1 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4d1dwc2RrNGwyejg/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4VDJsaUlpMVRwbDA/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4N19hYlpVOTZBbTQ/view?usp=drivesdk)<br>|1978280KB used<br>812308KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/04/27 17:07|14 min.||1 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Ynd1OXpqN29fZWs/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4NmxDaU5vbHZ6X2s/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4SVprazQwdWlLR1E/view?usp=drivesdk)<br>|1970724KB used<br>811432KB change<br>|
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)UNSTABLE|2016/04/27 16:07|13 min.||1 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4YWZQTVNCYm9RcWs/view?usp=drivesdk)<br>[drc-valves.png](https://drive.google.com/file/d/0B54sHwaxmuM4OGxFOE1jLWg5Rkk/view?usp=drivesdk)<br>[drc-valves.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4NkVmVTc3NEh4MjQ/view?usp=drivesdk)<br>|1971720KB used<br>815728KB change<br>|
