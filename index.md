@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/04/29 11:13:48
+Last update : 2016/04/29 11:19:57
 
 ### Job Summary
 ___
@@ -141,6 +141,7 @@ ___
 
 |Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |------|----|--------|----------|----|--------|-------|----|-----|
+|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/29 09:36|103 min.|67 err.|0 err.|47 %|choreonoid/d068550<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4dEotUUY0ZTZ5bzQ/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/29 03:07|41 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4REs4N1drQ3hrNW8/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/29 01:24|103 min.|67 err.|0 err.|47 %|choreonoid/3b011d1<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4UldaR2RlcDhwMU0/view?usp=drivesdk)<br>||
 |![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/04/28 23:36|107 min.|67 err.|0 err.|47 %|choreonoid/ad88fbf<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4NkJ4MWstNFZYbE0/view?usp=drivesdk)<br>||
@@ -805,7 +806,7 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-60to79.png)
-68%
+69%
 
 #### Build History
 
