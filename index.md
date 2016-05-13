@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/05/13 18:38:21
+Last update : 2016/05/13 18:48:08
 
 ### Job Summary
 ___
@@ -21,7 +21,8 @@ ___
 |[task-hrp5p-balancebeam](http://jenkinshrg.github.io#task-hrp5p-balancebeam)|![Build Status](http://jenkinshrg.github.io/task-hrp5p-balancebeam.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)FALL | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) |
 |[task-hrp5p-door](http://jenkinshrg.github.io#task-hrp5p-door)|![Build Status](http://jenkinshrg.github.io/task-hrp5p-door.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP |
 |[task-hrp5p-terrain](http://jenkinshrg.github.io#task-hrp5p-terrain)|![Build Status](http://jenkinshrg.github.io/task-hrp5p-terrain.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)FALL | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) |
-|[task-hrp5p-valve](http://jenkinshrg.github.io#task-hrp5p-valve)|![Build Status](http://jenkinshrg.github.io/task-hrp5p-valve.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) |
+|[task-hrp5p-valve](http://jenkinshrg.github.io#task-hrp5p-valve)|![Build Status](http://jenkinshrg.github.io/task-hrp5p-valve.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/aborted.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) |
+|[task-hrp5p-wall](http://jenkinshrg.github.io#task-hrp5p-wall)|![Build Status](http://jenkinshrg.github.io/task-hrp5p-wall.svg)| | | | | | | | | | |
 
 ### build-debian7-32
 ___
@@ -396,12 +397,13 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-80plus.png)
-84%
+85%
 
 #### Build History
 
 |#|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |---|------|----|--------|----------|----|--------|-------|----|-----|
+|318|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/05/13 18:42|6 min.||0 err.||[hrpcnoid/3566ac7](https://github.com/jrl-umi3218/hrpcnoid/commit/3566ac75068b1d2c95dd9b0c9a3be8a9aafe149b)<br>[hrpcnoid/e139d41](https://github.com/jrl-umi3218/hrpcnoid/commit/e139d41b75fa9d3b3020536a13b0f5a526ec6f8b)<br>[hrpcnoid/b2eee80](https://github.com/jrl-umi3218/hrpcnoid/commit/b2eee800f8ac3247cd0b253771e853dec534dd7c)<br>[hrpcnoid/5afa20c](https://github.com/jrl-umi3218/hrpcnoid/commit/5afa20c26841e820a8eb81a013fcb9984a0a8e5f)<br>[hrpcnoid/dc97f49](https://github.com/jrl-umi3218/hrpcnoid/commit/dc97f494ece829b9ddaa6b66cbd0da7dec6f368d)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4RFZhWlhpU0RoTVE/view?usp=drivesdk)<br>[task.png](https://drive.google.com/file/d/0B54sHwaxmuM4M0p4ZUE4b0dkMkk/view?usp=drivesdk)<br>[task.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4c3BtZVhDU19vNjg/view?usp=drivesdk)<br>|2508944KB used<br>1361284KB change<br>|
 |317|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/05/13 17:42|6 min.||0 err.||[hrpcnoid/fcc49fe](https://github.com/jrl-umi3218/hrpcnoid/commit/fcc49fe26c86b4be1b09bdef13423c20570fd6cc)<br>[hrpcnoid/3d710ce](https://github.com/jrl-umi3218/hrpcnoid/commit/3d710ce07864907e24f86424712e03b6f998a955)<br>[hrpcnoid/813838c](https://github.com/jrl-umi3218/hrpcnoid/commit/813838c7bd462e5cd71a808435078f54a1530cda)<br>[hrpsys-humanoid/5ce68c0](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/5ce68c079217c5f69a001965c7b975385a037699)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4eVFiMExyaDMzX1k/view?usp=drivesdk)<br>[task.png](https://drive.google.com/file/d/0B54sHwaxmuM4YkdZSERDbmJoMnc/view?usp=drivesdk)<br>[task.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4cEVod1h1SGhfalE/view?usp=drivesdk)<br>|2411528KB used<br>1266920KB change<br>|
 |316|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/05/13 16:42|7 min.||0 err.||[hrpcnoid/813838c](https://github.com/jrl-umi3218/hrpcnoid/commit/813838c7bd462e5cd71a808435078f54a1530cda)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WHhKRlVIRHJwSG8/view?usp=drivesdk)<br>[task.png](https://drive.google.com/file/d/0B54sHwaxmuM4clVHQmZwVktrTTA/view?usp=drivesdk)<br>[task.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4RTNscGVaMnpVZzQ/view?usp=drivesdk)<br>|1865560KB used<br>826152KB change<br>|
 |315|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/05/13 15:47|5 min.||0 err.|||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4ZFAxSmlfTWxxSEk/view?usp=drivesdk)<br>[task.png](https://drive.google.com/file/d/0B54sHwaxmuM4OE9GOURlMW1CUmc/view?usp=drivesdk)<br>[task.ogv](https://drive.google.com/file/d/0B54sHwaxmuM4NFhEcXBzTF9jWUk/view?usp=drivesdk)<br>|2479448KB used<br>1327484KB change<br>|
@@ -501,7 +503,6 @@ ___
 |221|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/08 17:56|0 min.||||[hrpcnoid/35d7414](https://github.com/jrl-umi3218/hrpcnoid/commit/35d741425d36a41fc260e39277d4a9d1add6d583)<br>[hrpcnoid/09f8f42](https://github.com/jrl-umi3218/hrpcnoid/commit/09f8f42cb06640153961548af3985ae6be9466ab)<br>[hrpcnoid/0d5647c](https://github.com/jrl-umi3218/hrpcnoid/commit/0d5647cb275d9061d3daadf2ed549ff6d25266b0)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4a3J4Qzl3Q0RWN28/view?usp=drivesdk)<br>[drc-door.png](https://drive.google.com/file/d/0B54sHwaxmuM4ek16amNjb3o1RVE/view?usp=drivesdk)<br>|161904KB used<br>348KB change<br>|
 |220|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/08 16:56|0 min.||||[hrpcnoid/35d7414](https://github.com/jrl-umi3218/hrpcnoid/commit/35d741425d36a41fc260e39277d4a9d1add6d583)<br>[hrpcnoid/09f8f42](https://github.com/jrl-umi3218/hrpcnoid/commit/09f8f42cb06640153961548af3985ae6be9466ab)<br>[hrpcnoid/0d5647c](https://github.com/jrl-umi3218/hrpcnoid/commit/0d5647cb275d9061d3daadf2ed549ff6d25266b0)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4a3J4Qzl3Q0RWN28/view?usp=drivesdk)<br>[drc-door.png](https://drive.google.com/file/d/0B54sHwaxmuM4ek16amNjb3o1RVE/view?usp=drivesdk)<br>|161904KB used<br>348KB change<br>|
 |219|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/08 15:56|0 min.||||[hrpcnoid/35d7414](https://github.com/jrl-umi3218/hrpcnoid/commit/35d741425d36a41fc260e39277d4a9d1add6d583)<br>[hrpcnoid/09f8f42](https://github.com/jrl-umi3218/hrpcnoid/commit/09f8f42cb06640153961548af3985ae6be9466ab)<br>[hrpcnoid/0d5647c](https://github.com/jrl-umi3218/hrpcnoid/commit/0d5647cb275d9061d3daadf2ed549ff6d25266b0)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4a3J4Qzl3Q0RWN28/view?usp=drivesdk)<br>[drc-door.png](https://drive.google.com/file/d/0B54sHwaxmuM4ek16amNjb3o1RVE/view?usp=drivesdk)<br>|161904KB used<br>348KB change<br>|
-|218|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/08 15:02|6 min.||||[hrpcnoid/35d7414](https://github.com/jrl-umi3218/hrpcnoid/commit/35d741425d36a41fc260e39277d4a9d1add6d583)<br>[hrpcnoid/09f8f42](https://github.com/jrl-umi3218/hrpcnoid/commit/09f8f42cb06640153961548af3985ae6be9466ab)<br>[hrpcnoid/0d5647c](https://github.com/jrl-umi3218/hrpcnoid/commit/0d5647cb275d9061d3daadf2ed549ff6d25266b0)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4a3J4Qzl3Q0RWN28/view?usp=drivesdk)<br>[drc-door.png](https://drive.google.com/file/d/0B54sHwaxmuM4ek16amNjb3o1RVE/view?usp=drivesdk)<br>|161904KB used<br>348KB change<br>|
 
 ### task-hrp2kai-terrain
 ___
@@ -1040,4 +1041,16 @@ ___
 |3|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/12 22:40|1 min.||||[hrpcnoid/a245c89](https://github.com/jrl-umi3218/hrpcnoid/commit/a245c89433dc226483b878f2c99bf37eab1c370b)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Y2o4WW5PTWo5aFU/view?usp=drivesdk)<br>||
 |2|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/12 21:04|0 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4U0o2bmQxZGJkQzg/view?usp=drivesdk)<br>||
 |1|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/12 19:26|32 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4QjJnLTR6b2tJT2s/view?usp=drivesdk)<br>||
+
+### task-hrp5p-wall
+___
+
+#### Build Stability
+![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
+0%
+
+#### Build History
+
+|#|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
+|---|------|----|--------|----------|----|--------|-------|----|-----|
 
