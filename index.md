@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/06/12 20:10:34
+Last update : 2016/06/12 20:11:34
 
 ### Job Summary
 ___
@@ -818,6 +818,7 @@ ___
 
 |#|Status|Time|Duration|Inspection|Test|Coverage|Changes|Logs|Notes|
 |---|------|----|--------|----------|----|--------|-------|----|-----|
+|2389|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/06/12 20:05|5 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4M0treFRnaTk3NVE/view?usp=drivesdk)<br>||
 |2388|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/06/12 19:05|5 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4djRqdVo4V2c3WG8/view?usp=drivesdk)<br>||
 |2387|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/06/12 18:05|5 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4d2NCaDBjZnVsbTA/view?usp=drivesdk)<br>||
 |2386|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/06/12 17:05|5 min.|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4aUdBRVZ2b2xJZzQ/view?usp=drivesdk)<br>||
