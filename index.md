@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/06/23 11:21:45
+Last update : 2016/06/23 11:28:32
 
 ### Job Summary
 ___
@@ -260,6 +260,7 @@ ___
 
 |#|Status|Time|Duration|Slave|Inspection|Test|Coverage|Changes|Logs|Notes|
 |---|------|----|--------|----|----------|----|--------|-------|----|-----|
+|152|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/23 09:37|110 min.|e64401e188dd()|138 err.|0 err.|47 %|[hrpsys-humanoid/f8788d8](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/f8788d88e56da1816be6790031e60516a58c8c49)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4ZGZKUTVVY1l2QTA/view?usp=drivesdk)<br>||
 |151|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/22 20:59|84 min.|fe421608995a()|138 err.|0 err.|47 %||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4RGFKNHZINk1Ualk/view?usp=drivesdk)<br>||
 |150|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/22 19:20|99 min.|fb655df0f671()|138 err.|0 err.|47 %|[hrpsys-base/84e85b7](https://github.com/fkanehiro/hrpsys-base/commit/84e85b751642a885806c828b2ae129fb8af874d5)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4TUNZOGlEbTJFNjg/view?usp=drivesdk)<br>||
 |149|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/22 17:49|90 min.|5df68bd24dd6()|138 err.|0 err.|47 %|[hrpsys-base/37da543](https://github.com/fkanehiro/hrpsys-base/commit/37da54328aab3ac54fbc616a6813156db89a296c)<br>[hrpsys-base/341453e](https://github.com/fkanehiro/hrpsys-base/commit/341453ebf61e422c4eb6aae46ff81e04805c1a1f)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Uko2cFZ1RDVxT0E/view?usp=drivesdk)<br>||
@@ -358,7 +359,6 @@ ___
 |56|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/26 11:39|60 min.||||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4SlFvTkl6clRNZFk/view?usp=drivesdk)<br>||
 |55|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png)FAILURE|2016/05/26 10:36|63 min.|||||[choreonoid/58a182e](https://github.com/s-nakaoka/choreonoid/commit/58a182e7f2ef5ee903c3ff10d8eb34d13b70d592)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WDBqVkNneXhnaWM/view?usp=drivesdk)<br>||
 |54|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/05/25 19:22|47 min.||||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Y1k5NllSWnNCQzg/view?usp=drivesdk)<br>||
-|53|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/05/25 17:36|105 min.||123 err.|0 err.|47 %|[choreonoid/2bc4b58](https://github.com/s-nakaoka/choreonoid/commit/2bc4b58917adbfe0d67bab74dc3f1cf4b72aef4b)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4VE93dlVIckItZms/view?usp=drivesdk)<br>||
 
 ### task-hrp2kai-balancebeam
 ___
