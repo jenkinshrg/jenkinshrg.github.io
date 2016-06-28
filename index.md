@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Last update : 2016/06/28 10:50:05
+Last update : 2016/06/28 10:53:37
 
 ### Job Summary
 ___
@@ -38,6 +38,7 @@ ___
 
 |#|Status|Time|Duration|Slave|Inspection|Test|Coverage|Changes|Logs|Notes|
 |---|------|----|--------|----|----------|----|--------|-------|----|-----|
+|388|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/28 09:37|75 min.|c17dc3fe53fc()||||[hrpsys-humanoid/b7e9dc3](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/b7e9dc32a495d6b48b3163e1c26062d481379f0c)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4X0ZZNnNPUzd2dEE/view?usp=drivesdk)<br>||
 |387|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/27 20:37|61 min.|b25dd95cf223()||||[hmc2/db5c3f8](https://github.com/jrl-umi3218/hmc2/commit/db5c3f8d926032e1ae2eb3bd3edace18927a0f16)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WG85Y0VKblFYakU/view?usp=drivesdk)<br>||
 |386|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/27 18:37|53 min.|542845b453f9()|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4SHdyRVM5aE5JNlE/view?usp=drivesdk)<br>||
 |385|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/27 17:47|47 min.|503a498b0d6d()|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4TUppc1ZON0s5Ulk/view?usp=drivesdk)<br>||
@@ -136,7 +137,6 @@ ___
 |292|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/06 19:36|61 min.|||||[hrpsys-humanoid/7820973](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/78209734d1ee552406031be6bc4f45aa793fb22b)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4WHZEN0pWa1YzVG8/view?usp=drivesdk)<br>||
 |291|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/06 16:36|64 min.||||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4V0RaNnE3LVlHQWM/view?usp=drivesdk)<br>||
 |290|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/06 14:36|75 min.||||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4Z3k3TXJRT2JpRms/view?usp=drivesdk)<br>||
-|289|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/06 12:36|89 min.||||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4VDNJNWVQYXdPbGM/view?usp=drivesdk)<br>||
 
 ### build-ubuntu1404-64
 ___
@@ -1370,7 +1370,7 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-20to39.png)
-30%
+31%
 
 #### Build History
 
