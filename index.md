@@ -2,14 +2,14 @@
 layout: default
 ---
 
-Last update : 2016/06/29 12:03:04
+Last update : 2016/06/29 12:10:22
 
 ### Job Summary
 ___
 
 |Name|Status|Latest Results||||||||||
 |---|---|--|--|--|--|--|--|--|--|--|--|
-|[build-debian7-32](http://jenkinshrg.github.io#build-debian7-32)|![Build Status](http://jenkinshrg.github.io/build-debian7-32.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/aborted.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) |
+|[build-debian7-32](http://jenkinshrg.github.io#build-debian7-32)|![Build Status](http://jenkinshrg.github.io/build-debian7-32.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) |
 |[build-ubuntu1404-64](http://jenkinshrg.github.io#build-ubuntu1404-64)|![Build Status](http://jenkinshrg.github.io/build-ubuntu1404-64.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/aborted.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) |
 |[build-ubuntu1604-64](http://jenkinshrg.github.io#build-ubuntu1604-64)|![Build Status](http://jenkinshrg.github.io/build-ubuntu1604-64.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/aborted.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) |
 |[task-hrp2kai-balancebeam](http://jenkinshrg.github.io#task-hrp2kai-balancebeam)|![Build Status](http://jenkinshrg.github.io/task-hrp2kai-balancebeam.svg)| ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/red.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/yellow.png)STOP | ![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png) |
@@ -38,6 +38,7 @@ ___
 
 |#|Status|Time|Duration|Slave|Inspection|Test|Coverage|Changes|Logs|Notes|
 |---|------|----|--------|----|----------|----|--------|-------|----|-----|
+|399|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/29 10:37|92 min.|21443ab8b528()||||[hrpsys-humanoid/64c9285](https://github.com/jrl-umi3218/hrpsys-humanoid/commit/64c9285533def5568716acc944f7caf28837e8ee)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4TjlOWFJxenhKNEU/view?usp=drivesdk)<br>||
 |398|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/29 01:43|48 min.|df0c5f84e699()|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4M3BzYldaTzRGYXc/view?usp=drivesdk)<br>||
 |397|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/29 00:37|66 min.|f34188b5c0a1()|||||[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4bWY2eE1fcE85VEU/view?usp=drivesdk)<br>||
 |396|![Jenkins Icon](http://jenkinshrg.github.io/images/24x24/blue.png)SUCCESS|2016/06/28 20:57|92 min.|feb922b5078f()||||[hmc2/0bbe8e2](https://github.com/jrl-umi3218/hmc2/commit/0bbe8e26375de02894fec85f96ff2418695e1d10)<br>[hmc2/c0db48a](https://github.com/jrl-umi3218/hmc2/commit/c0db48aee5315327d69b690d2aa9ca22cb53f9da)<br>|[console.log](https://drive.google.com/file/d/0B54sHwaxmuM4dkJobUxGVWZZTms/view?usp=drivesdk)<br>||
@@ -1482,7 +1483,7 @@ ___
 
 #### Build Stability
 ![Jenkins Icon](http://jenkinshrg.github.io/images/48x48/health-00to19.png)
-1%
+2%
 
 #### Build History
 
